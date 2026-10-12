@@ -1,0 +1,5 @@
+analysis,snapshot_path,md5,bytes
+exp1_unfiltered,data/derived/exp1_unfiltered.rds,f8e88060bbc2a51bad5d4584511793be,402314
+exp1_filtered,data/derived/exp1_filtered.rds,0a05c384e475373b233f64c91d2afca6,341215
+exp2_unfiltered,data/derived/exp2_unfiltered.rds,2c9682ed120c5179d59a47acf12c9d15,216061
+exp2_filtered,data/derived/exp2_filtered.rds,3d988bfab28458040da23e36aaed0ff0,189865

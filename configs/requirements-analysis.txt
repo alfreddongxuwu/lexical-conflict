@@ -1,0 +1,8 @@
+pandas==3.0.3
+numpy==1.26.4
+sacrebleu==2.6.0
+unbabel-comet==2.2.7
+requests>=2.0
+
+# Scoring, reporting and figure dependencies.
+matplotlib>=3.6

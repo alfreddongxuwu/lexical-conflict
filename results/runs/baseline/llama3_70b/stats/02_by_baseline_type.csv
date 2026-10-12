@@ -1,0 +1,7 @@
+﻿baseline_type,baseline_label,n,percent_within_baseline_type
+anomalous_no_lexicon,EXPECTED,311,51.83
+anomalous_no_lexicon,OTHER,289,48.17
+anomalous_no_lexicon,FAILED,0,0.0
+normal_lexical,EXPECTED,113,75.33
+normal_lexical,OTHER,37,24.67
+normal_lexical,FAILED,0,0.0

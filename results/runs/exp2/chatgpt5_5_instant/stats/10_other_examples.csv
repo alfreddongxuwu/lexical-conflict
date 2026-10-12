@@ -1,0 +1,34 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+exp2_prompt_001296,F1,ignore_new_rule,within_category_context,music,music,high,low,大鼓,bass drum,glockenspiel,那位音乐家在舞台上演奏着大鼓。,The musician was playing the drum on stage.,False,False,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大鼓 means glockenspiel.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+exp2_prompt_002796,F1,ignore_new_rule,within_category_context,music,music,high,low,大鼓,bass drum,liuqin,那位音乐家在舞台上演奏着大鼓。,The musician was playing the drum on stage.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大鼓 means liuqin.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+exp2_prompt_000631,F1,ignore_new_rule,within_category_context,vehicle,vehicle,high,medium,高铁,high-speed train,fighter jet,我们坐高铁抵达了目的地。,We arrived at our destination by high-speed rail.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means fighter jet.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_000681,F1,ignore_new_rule,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,loader,我们坐高铁抵达了目的地。,We arrived at our destination by high-speed rail.,False,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means loader.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002181,F1,ignore_new_rule,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,recreational vehicle,我们坐高铁抵达了目的地。,We arrived at our destination by high-speed rail.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means recreational vehicle.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002276,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,low,战机,fighter jet,military vehicle,我们坐战机抵达了目的地。,We arrived at our destination by military aircraft.,False,False,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 战机 means military vehicle.
+Translate: 我们坐战机抵达了目的地。"
+exp2_prompt_000836,F1,ignore_new_rule,within_category_context,vehicle,vehicle,low,high,兵车,military vehicle,airplane,我们坐兵车抵达了目的地。,We arrived at our destination by chariot.,False,False,airplane|airplanes|aeroplane|aeroplanes|plane|planes|aircraft,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means airplane.
+Translate: 我们坐兵车抵达了目的地。"
+exp2_prompt_001456,F1,ignore_new_rule,within_category_context,music,music,low,medium,编磬,stone chimes,flower drum,那位音乐家在舞台上演奏着编磬。,The musician was playing the chime stones on stage.,False,False,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means flower drum.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+exp2_prompt_002906,F1,ignore_new_rule,within_category_context,music,music,low,high,编磬,stone chimes,tuba,那位音乐家在舞台上演奏着编磬。,The musician was playing the chime stones on stage.,False,False,tuba|tubas,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means tuba.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+exp2_prompt_002346,F1,ignore_new_rule,within_category_context,vehicle,vehicle,low,high,铲车,loader,high-speed train,我们坐铲车抵达了目的地。,We arrived at our destination by forklift.,False,False,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means high-speed train.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_002396,F1,ignore_new_rule,within_category_context,vehicle,vehicle,low,medium,铲车,loader,school bus,我们坐铲车抵达了目的地。,We arrived at our destination by forklift.,False,False,school bus|school buses|school busses,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means school bus.
+Translate: 我们坐铲车抵达了目的地。"

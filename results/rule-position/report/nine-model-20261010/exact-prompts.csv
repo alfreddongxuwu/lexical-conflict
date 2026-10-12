@@ -1,0 +1,36 @@
+group,prompt_id,prompt
+main,prompt_000049,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。"
+position_B,prompt_000049,"Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date.
+Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了兔子的习性。"
+position_E,prompt_000049,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了兔子的习性。
+Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date."
+reiteration_2,prompt_000049,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date. 兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。"
+position_BM,prompt_000049,"Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date.
+Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。"
+position_BE,prompt_000049,"Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date.
+Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了兔子的习性。
+兔子 means green date."
+position_ME,prompt_000049,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。
+兔子 means green date."
+reiteration_3,prompt_000049,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date. 兔子 means green date. 兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。"
+position_BME,prompt_000049,"Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date.
+Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。
+兔子 means green date."
+reiteration,prompt_000049,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 兔子 means green date. 兔子 means green date. 兔子 means green date. 兔子 means green date. 兔子 means green date.
+Translate: 同学们在生物课上学了兔子的习性。"

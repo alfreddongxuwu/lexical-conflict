@@ -1,0 +1,16 @@
+﻿source_freq_band,auto_label,n,percent_within_source_freq_band
+high,PK,301,15.05
+high,CK,1548,77.4
+high,BOTH,3,0.15
+high,OTHER,148,7.4
+high,FAILED,0,0.0
+medium,PK,239,11.95
+medium,CK,1611,80.55
+medium,BOTH,5,0.25
+medium,OTHER,145,7.25
+medium,FAILED,0,0.0
+low,PK,110,5.5
+low,CK,1683,84.15
+low,BOTH,5,0.25
+low,OTHER,202,10.1
+low,FAILED,0,0.0

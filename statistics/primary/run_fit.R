@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = FALSE)
+file_arg <- grep("^--file=", args, value = TRUE)
+project_root <- if (length(file_arg)) dirname(normalizePath(sub("^--file=", "", file_arg[[1L]]), winslash = "/")) else normalizePath(getwd(), winslash = "/")
+options(contrasts = c("contr.treatment", "contr.poly"))
+selection <- commandArgs(trailingOnly = TRUE)
+if (length(selection)) Sys.setenv(LEXCONFLICT_ANALYSIS = selection[[1L]])
+source(file.path(project_root, "R", "02_fit_models.R"), chdir = TRUE)

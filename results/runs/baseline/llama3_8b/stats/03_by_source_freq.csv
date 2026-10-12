@@ -1,0 +1,10 @@
+﻿source_freq_band,baseline_label,n,percent_within_source_freq_band
+high,EXPECTED,187,74.8
+high,OTHER,63,25.2
+high,FAILED,0,0.0
+medium,EXPECTED,135,54.0
+medium,OTHER,115,46.0
+medium,FAILED,0,0.0
+low,EXPECTED,90,36.0
+low,OTHER,160,64.0
+low,FAILED,0,0.0

@@ -1,0 +1,6 @@
+category,template_id,zh_template,literal_en_template
+animal,animal_01,"同学们在生物课上学了{source_word_zh}的习性。","The students learned about the habits of {standard_en} in biology class."
+fruit,fruit_01,"这些{source_word_zh}已经熟到可以吃了。","These {standard_en} are ripe enough to eat."
+vehicle,vehicle_01,"我们坐{source_word_zh}抵达了目的地。","We got to our destination by {standard_en}."
+occupation,occupation_01,"我在毕业多年以后成为了{source_word_zh}。","I became a/an {standard_en} many years after graduating."
+music,music_01,"那位音乐家在舞台上演奏着{source_word_zh}。","The musician played the {standard_en} on stage."

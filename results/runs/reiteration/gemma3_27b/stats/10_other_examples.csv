@@ -1,0 +1,130 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+prompt_005312,F1,ignore_new_rule,CK_context,music,fruit,low,high,边鼓,side drum,mandarin,这些边鼓已经熟到可以吃了。,These drumsticks are well-done and can be eaten.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,side drum|side drums|snare drum|snare drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 边鼓 means mandarin. 边鼓 means mandarin. 边鼓 means mandarin. 边鼓 means mandarin. 边鼓 means mandarin.
+Translate: 这些边鼓已经熟到可以吃了。"
+prompt_004541,F1,ignore_new_rule,PK_context,occupation,music,high,low,作家,writer,side drum,我在毕业多年以后成为了作家。,I became a side drummer many years after graduating.,False,False,side drum|side drums|snare drum|snare drums,writer|writers|author|authors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 作家 means side drum. 作家 means side drum. 作家 means side drum. 作家 means side drum. 作家 means side drum.
+Translate: 我在毕业多年以后成为了作家。"
+prompt_004221,F1,ignore_new_rule,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder many years after graduating.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_002411,F1,ignore_new_rule,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 火箭 means fly. 火箭 means fly. 火箭 means fly. 火箭 means fly. 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004661,F1,ignore_new_rule,PK_context,occupation,music,medium,medium,保安,security guard,waist drum,我在毕业多年以后成为了保安。,I became a waist drummer many years after graduating.,False,False,waist drum|waist drums,security guard|security guards|security officer|security officers|guard|guards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 保安 means waist drum. 保安 means waist drum. 保安 means waist drum. 保安 means waist drum. 保安 means waist drum.
+Translate: 我在毕业多年以后成为了保安。"
+prompt_004651,F1,ignore_new_rule,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 导演 means percussion. 导演 means percussion. 导演 means percussion. 导演 means percussion. 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_004671,F1,ignore_new_rule,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduating.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_005821,F1,ignore_new_rule,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,That musician is playing the flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 短笛 means police officer. 短笛 means police officer. 短笛 means police officer. 短笛 means police officer. 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005931,F1,ignore_new_rule,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,That musician is playing the erhu on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 坠胡 means merchant. 坠胡 means merchant. 坠胡 means merchant. 坠胡 means merchant. 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_001161,F1,ignore_new_rule,PK_context,animal,music,low,low,海龟,sea turtle,zhuihu,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means zhuihu. 海龟 means zhuihu. 海龟 means zhuihu. 海龟 means zhuihu. 海龟 means zhuihu.
+Translate: 同学们在生物课上学了海龟的习性。"
+prompt_005991,F1,ignore_new_rule,PK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,那位音乐家在舞台上演奏着钟琴。,That musician is playing the chime on stage.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means teacher. 钟琴 means teacher. 钟琴 means teacher. 钟琴 means teacher. 钟琴 means teacher.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_005601,F1,ignore_new_rule,PK_context,music,vehicle,low,low,高胡,gaohu,donkey cart,那位音乐家在舞台上演奏着高胡。,That musician is playing the erhu on stage.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高胡 means donkey cart. 高胡 means donkey cart. 高胡 means donkey cart. 高胡 means donkey cart. 高胡 means donkey cart.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_005901,F1,ignore_new_rule,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,That musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高胡 means dentist. 高胡 means dentist. 高胡 means dentist. 高胡 means dentist. 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_004223,F2,bare_lexicon,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder many years after graduating.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 演员 means skateboard. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_002413,F2,bare_lexicon,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 火箭 means fly. 火箭 means fly. 火箭 means fly. 火箭 means fly. 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004333,F2,bare_lexicon,PK_context,occupation,vehicle,medium,medium,保安,security guard,submarine,我在毕业多年以后成为了保安。,I became a submariner many years after graduating.,False,False,submarine|submarines|sub|subs,security guard|security guards|security officer|security officers|guard|guards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 保安 means submarine. 保安 means submarine. 保安 means submarine. 保安 means submarine. 保安 means submarine.
+Translate: 我在毕业多年以后成为了保安。"
+prompt_004663,F2,bare_lexicon,PK_context,occupation,music,medium,medium,保安,security guard,waist drum,我在毕业多年以后成为了保安。,I became a waist drummer many years after graduating.,False,False,waist drum|waist drums,security guard|security guards|security officer|security officers|guard|guards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 保安 means waist drum. 保安 means waist drum. 保安 means waist drum. 保安 means waist drum. 保安 means waist drum.
+Translate: 我在毕业多年以后成为了保安。"
+prompt_004653,F2,bare_lexicon,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 导演 means percussion. 导演 means percussion. 导演 means percussion. 导演 means percussion. 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_004673,F2,bare_lexicon,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduating.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_005823,F2,bare_lexicon,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,That musician was playing the flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 短笛 means police officer. 短笛 means police officer. 短笛 means police officer. 短笛 means police officer. 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005933,F2,bare_lexicon,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,That musician is playing the erhu on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 坠胡 means merchant. 坠胡 means merchant. 坠胡 means merchant. 坠胡 means merchant. 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_004733,F2,bare_lexicon,PK_context,occupation,music,low,high,花匠,florist,piano,我在毕业多年以后成为了花匠。,I became a pianist many years after graduating.,False,False,piano|pianos,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 花匠 means piano. 花匠 means piano. 花匠 means piano. 花匠 means piano. 花匠 means piano.
+Translate: 我在毕业多年以后成为了花匠。"
+prompt_005993,F2,bare_lexicon,PK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,那位音乐家在舞台上演奏着钟琴。,That musician is playing the marimba on stage.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 钟琴 means teacher. 钟琴 means teacher. 钟琴 means teacher. 钟琴 means teacher. 钟琴 means teacher.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_005903,F2,bare_lexicon,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,That musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 高胡 means dentist. 高胡 means dentist. 高胡 means dentist. 高胡 means dentist. 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_004876,F3,new_dialect,CK_context,music,animal,high,high,大鼓,bass drum,fly,同学们在生物课上学了大鼓的习性。,The students learned about the flying habits in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 大鼓 means fly. In this variety, 大鼓 means fly. In this variety, 大鼓 means fly. In this variety, 大鼓 means fly. In this variety, 大鼓 means fly.
+Translate: 同学们在生物课上学了大鼓的习性。"
+prompt_002416,F3,new_dialect,CK_context,vehicle,animal,high,high,火箭,rocket,fly,同学们在生物课上学了火箭的习性。,The students learned about the habits of flying in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 火箭 means fly. In this variety, 火箭 means fly. In this variety, 火箭 means fly. In this variety, 火箭 means fly. In this variety, 火箭 means fly.
+Translate: 同学们在生物课上学了火箭的习性。"
+prompt_004545,F3,new_dialect,PK_context,occupation,music,high,low,作家,writer,side drum,我在毕业多年以后成为了作家。,I became a side drummer many years after graduating.,False,False,side drum|side drums|snare drum|snare drums,writer|writers|author|authors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 作家 means side drum. In this variety, 作家 means side drum. In this variety, 作家 means side drum. In this variety, 作家 means side drum. In this variety, 作家 means side drum.
+Translate: 我在毕业多年以后成为了作家。"
+prompt_004225,F3,new_dialect,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder many years after graduating.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 演员 means skateboard. In this variety, 演员 means skateboard. In this variety, 演员 means skateboard. In this variety, 演员 means skateboard. In this variety, 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_002415,F3,new_dialect,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 火箭 means fly. In this variety, 火箭 means fly. In this variety, 火箭 means fly. In this variety, 火箭 means fly. In this variety, 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004335,F3,new_dialect,PK_context,occupation,vehicle,medium,medium,保安,security guard,submarine,我在毕业多年以后成为了保安。,I became a submariner many years after graduating.,False,False,submarine|submarines|sub|subs,security guard|security guards|security officer|security officers|guard|guards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 保安 means submarine. In this variety, 保安 means submarine. In this variety, 保安 means submarine. In this variety, 保安 means submarine. In this variety, 保安 means submarine.
+Translate: 我在毕业多年以后成为了保安。"
+prompt_004655,F3,new_dialect,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 导演 means percussion. In this variety, 导演 means percussion. In this variety, 导演 means percussion. In this variety, 导演 means percussion. In this variety, 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_004675,F3,new_dialect,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduating.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 牧师 means bagpipe. In this variety, 牧师 means bagpipe. In this variety, 牧师 means bagpipe. In this variety, 牧师 means bagpipe. In this variety, 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_005825,F3,new_dialect,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,That musician is playing the flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 短笛 means police officer. In this variety, 短笛 means police officer. In this variety, 短笛 means police officer. In this variety, 短笛 means police officer. In this variety, 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005935,F3,new_dialect,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,That musician is playing the erhu on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 坠胡 means merchant. In this variety, 坠胡 means merchant. In this variety, 坠胡 means merchant. In this variety, 坠胡 means merchant. In this variety, 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005905,F3,new_dialect,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,That musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高胡 means dentist. In this variety, 高胡 means dentist. In this variety, 高胡 means dentist. In this variety, 高胡 means dentist. In this variety, 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_004227,F4,language_game,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder many years after graduating.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 演员 means skateboard. In this game, 演员 means skateboard. In this game, 演员 means skateboard. In this game, 演员 means skateboard. In this game, 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_002417,F4,language_game,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 火箭 means fly. In this game, 火箭 means fly. In this game, 火箭 means fly. In this game, 火箭 means fly. In this game, 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004677,F4,language_game,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduating.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 牧师 means bagpipe. In this game, 牧师 means bagpipe. In this game, 牧师 means bagpipe. In this game, 牧师 means bagpipe. In this game, 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_004229,F5,explicit_override,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder many years after graduating.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard. 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_002419,F5,explicit_override,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 火箭 means fly. 火箭 means fly. 火箭 means fly. 火箭 means fly. 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004659,F5,explicit_override,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 导演 means percussion. 导演 means percussion. 导演 means percussion. 导演 means percussion. 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_004679,F5,explicit_override,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduating.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe. 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_002309,F5,explicit_override,PK_context,fruit,music,low,high,椰枣,date,percussion,这些椰枣已经熟到可以吃了。,These percussions are ripe enough to eat.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 椰枣 means percussion. 椰枣 means percussion. 椰枣 means percussion. 椰枣 means percussion. 椰枣 means percussion.
+Translate: 这些椰枣已经熟到可以吃了。"

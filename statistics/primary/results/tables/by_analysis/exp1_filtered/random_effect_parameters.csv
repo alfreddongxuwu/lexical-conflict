@@ -1,0 +1,6 @@
+analysis,experiment,sample,grp,var1,var2,vcov,sdcor
+exp1_filtered,exp1,filtered,mapping_id,(Intercept),NA,0.29019794500839124,0.5387002366886349
+exp1_filtered,exp1,filtered,target_item_id,(Intercept),NA,0.14436036488372267,0.37994784495207057
+exp1_filtered,exp1,filtered,source_item_id,(Intercept),NA,0.16453610851634373,0.40563050737875195
+exp1_filtered,exp1,filtered,model,(Intercept),NA,3.658649773794083,1.9127597271466386
+exp1_filtered,exp1,filtered,word_category,(Intercept),NA,0.06076543501183788,0.246506460385601

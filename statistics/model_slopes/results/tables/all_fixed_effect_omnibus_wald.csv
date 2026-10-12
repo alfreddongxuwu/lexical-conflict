@@ -1,0 +1,15 @@
+"analysis","experiment","sample","effect","df","chisq","p_value","inference_caution","p_holm"
+"exp1_unfiltered","exp1","unfiltered","context",1,73.3743263368563,1.07252117233209e-17,TRUE,4.29008468932837e-17
+"exp1_unfiltered","exp1","unfiltered","frame",4,41.4881321358653,2.12964558076264e-08,TRUE,6.38893674228792e-08
+"exp1_unfiltered","exp1","unfiltered","source_freq",2,15.6795995990666,0.000393747861270433,TRUE,0.000787495722540867
+"exp1_unfiltered","exp1","unfiltered","target_freq",2,1.81038508996689,0.404464000090873,TRUE,0.404464000090873
+"exp1_filtered","exp1","filtered","context",1,64.233407160944,1.10518799807774e-15,TRUE,4.42075199231095e-15
+"exp1_filtered","exp1","filtered","frame",4,33.3087223229982,1.03265405509442e-06,TRUE,3.09796216528325e-06
+"exp1_filtered","exp1","filtered","source_freq",2,17.0581110254567,0.000197641551728796,TRUE,0.000395283103457592
+"exp1_filtered","exp1","filtered","target_freq",2,1.37755927535685,0.502188547248782,TRUE,0.502188547248782
+"exp2_unfiltered","exp2","unfiltered","frame",4,86.9135893841865,5.95514048448099e-18,TRUE,1.7865421453443e-17
+"exp2_unfiltered","exp2","unfiltered","source_freq",2,11.9297769628572,0.00256733089649595,TRUE,0.00513466179299189
+"exp2_unfiltered","exp2","unfiltered","target_freq",2,3.52688425547783,0.171453681471239,TRUE,0.171453681471239
+"exp2_filtered","exp2","filtered","frame",4,80.7191705907029,1.22639674687968e-16,TRUE,3.67919024063904e-16
+"exp2_filtered","exp2","filtered","source_freq",2,10.5487280422387,0.00512121265589837,TRUE,0.0102424253117967
+"exp2_filtered","exp2","filtered","target_freq",2,3.1769148879788,0.204240421155468,TRUE,0.204240421155468

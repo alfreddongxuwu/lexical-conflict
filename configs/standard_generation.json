@@ -1,0 +1,26 @@
+{
+  "ollama": {
+    "temperature": 0,
+    "seed": 2026,
+    "num_ctx": 4096,
+    "num_predict": 128,
+    "qwen3_think": "false"
+  },
+  "openai": {
+    "max_output_tokens": 128,
+    "reasoning_effort": "none",
+    "text_verbosity": "low",
+    "store": false
+  },
+  "thinking_on": {
+    "ollama": {
+      "think": "true",
+      "num_predict": 1048
+    },
+    "openai": {
+      "reasoning_effort": "medium",
+      "max_output_tokens": 128
+    }
+  },
+  "recovery_settings": "See observed_generation_profiles.csv and the parameters on each retained response."
+}

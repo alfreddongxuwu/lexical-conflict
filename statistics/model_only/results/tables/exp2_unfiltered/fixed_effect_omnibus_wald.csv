@@ -1,0 +1,4 @@
+"analysis","experiment","sample","effect","df","chisq","p_value","inference_caution","p_holm"
+"exp2_unfiltered","exp2","unfiltered","frame",4,59.6393419299913,3.45389750414402e-12,TRUE,1.03616925124321e-11
+"exp2_unfiltered","exp2","unfiltered","source_freq",2,19.4148437313051,6.08303408910052e-05,TRUE,8.55628856471137e-05
+"exp2_unfiltered","exp2","unfiltered","target_freq",2,20.1188122565758,4.27814428235569e-05,TRUE,8.55628856471137e-05

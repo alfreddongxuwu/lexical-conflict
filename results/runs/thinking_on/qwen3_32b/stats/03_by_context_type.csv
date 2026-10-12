@@ -1,0 +1,11 @@
+﻿context_type,auto_label,n,percent_within_context_type
+CK_context,PK,1,0.03
+CK_context,CK,2993,99.77
+CK_context,BOTH,5,0.17
+CK_context,OTHER,1,0.03
+CK_context,FAILED,0,0.0
+PK_context,PK,12,0.4
+PK_context,CK,2980,99.33
+PK_context,BOTH,0,0.0
+PK_context,OTHER,8,0.27
+PK_context,FAILED,0,0.0

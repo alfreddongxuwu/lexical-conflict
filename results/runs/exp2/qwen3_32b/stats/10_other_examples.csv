@@ -1,0 +1,52 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+exp2_prompt_001446,F1,ignore_new_rule,within_category_context,music,music,low,high,坠胡,zhuihu,percussion,那位音乐家在舞台上演奏着坠胡。,The musician is playing the duihu on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 坠胡 means percussion.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+exp2_prompt_002911,F1,ignore_new_rule,within_category_context,music,music,low,high,高胡,gaohu,bass drum,那位音乐家在舞台上演奏着高胡。,The musician is playing the gāo hú on stage.,False,False,bass drum|bass drums|big drum|big drums|large drum|large drums,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高胡 means bass drum.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+exp2_prompt_001348,F3,new_dialect,within_category_context,music,music,medium,high,短笛,piccolo,bass drum,那位音乐家在舞台上演奏着短笛。,The musician is playing the short flute on stage.,False,False,bass drum|bass drums|big drum|big drums|large drum|large drums,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 短笛 means bass drum.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+exp2_prompt_001918,F3,new_dialect,within_category_context,fruit,fruit,medium,high,龙眼,longan,banana,这些龙眼已经熟到可以吃了。,These longyan have ripened and are ready to eat.,False,False,banana|bananas,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 龙眼 means banana.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_001728,F3,new_dialect,within_category_context,animal,animal,low,high,河马,hippopotamus,mosquito,同学们在生物课上学了河马的习性。,The students learned about the habits of river horses in their biology class.,False,False,mosquito|mosquitoes|mosquitos,hippopotamus|hippopotamuses|hippopotami|hippo|hippos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 河马 means mosquito.
+Translate: 同学们在生物课上学了河马的习性。"
+exp2_prompt_000523,F3,new_dialect,within_category_context,fruit,fruit,low,high,青枣,green date,mango,这些青枣已经熟到可以吃了。,These qingzao have ripened and are ready to eat.,False,False,mango|mangoes|mangos,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 青枣 means mango.
+Translate: 这些青枣已经熟到可以吃了。"
+exp2_prompt_000573,F3,new_dialect,within_category_context,fruit,fruit,low,medium,青枣,green date,blackberry,这些青枣已经熟到可以吃了。,These qingzao have ripened enough to eat.,False,False,blackberry|blackberries,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 青枣 means blackberry.
+Translate: 这些青枣已经熟到可以吃了。"
+exp2_prompt_002913,F3,new_dialect,within_category_context,music,music,low,high,高胡,gaohu,bass drum,那位音乐家在舞台上演奏着高胡。,The musician is playing the gāo hú on stage.,False,False,bass drum|bass drums|big drum|big drums|large drum|large drums,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高胡 means bass drum.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+exp2_prompt_000794,F4,language_game,within_category_context,vehicle,vehicle,medium,low,皮卡,pickup truck,bamboo raft,我们坐皮卡抵达了目的地。,We arrived at the destination by piqa.,False,False,bamboo raft|bamboo rafts|raft|rafts,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 皮卡 means bamboo raft.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_002809,F4,language_game,within_category_context,music,music,medium,high,铜鼓,bronze drum,percussion,那位音乐家在舞台上演奏着铜鼓。,The musician is playing the copper drum on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铜鼓 means percussion.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+exp2_prompt_001314,F4,language_game,within_category_context,music,music,medium,high,风笛,bagpipe,guitar,那位音乐家在舞台上演奏着风笛。,The musician is playing the wind instrument on stage.,False,False,guitar|guitars,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 风笛 means guitar.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+exp2_prompt_001729,F4,language_game,within_category_context,animal,animal,low,high,河马,hippopotamus,mosquito,同学们在生物课上学了河马的习性。,The students learned about the habits of 河马 in the biology class.,False,False,mosquito|mosquitoes|mosquitos,hippopotamus|hippopotamuses|hippopotami|hippo|hippos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 河马 means mosquito.
+Translate: 同学们在生物课上学了河马的习性。"
+exp2_prompt_001739,F4,language_game,within_category_context,animal,animal,low,high,海狮,sea lion,fly,同学们在生物课上学了海狮的习性。,The students learned about the habits of 海狮 in their biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海狮 means fly.
+Translate: 同学们在生物课上学了海狮的习性。"
+exp2_prompt_000589,F4,language_game,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,melon,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蛇果 means melon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_001744,F4,language_game,within_category_context,animal,animal,low,high,蟒蛇,python,bee,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of 蟒蛇 in their biology class.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蟒蛇 means bee.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_002914,F4,language_game,within_category_context,music,music,low,high,高胡,gaohu,bass drum,那位音乐家在舞台上演奏着高胡。,The musician is playing the gāo hú on stage.,False,False,bass drum|bass drums|big drum|big drums|large drum|large drums,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高胡 means bass drum.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+exp2_prompt_000525,F5,explicit_override,within_category_context,fruit,fruit,low,high,青枣,green date,mango,这些青枣已经熟到可以吃了。,These qingzao are already ripe enough to eat.,False,False,mango|mangoes|mangos,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 青枣 means mango.
+Translate: 这些青枣已经熟到可以吃了。"

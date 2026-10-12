@@ -1,0 +1,15 @@
+analysis,experiment,sample,effect,df,chisq,p_value
+exp1_unfiltered,exp1,unfiltered,context,1,4520.5717493452075,0
+exp1_unfiltered,exp1,unfiltered,frame,4,3337.1401870726586,0
+exp1_unfiltered,exp1,unfiltered,source_freq,2,55.23456664581365,1.0138325901037535e-12
+exp1_unfiltered,exp1,unfiltered,target_freq,2,1.793231762355985,0.4079478704777304
+exp1_filtered,exp1,filtered,context,1,3408.3077730702616,0
+exp1_filtered,exp1,filtered,frame,4,2927.0923732529636,0
+exp1_filtered,exp1,filtered,source_freq,2,38.453160346149474,4.466859834447164e-9
+exp1_filtered,exp1,filtered,target_freq,2,1.5703999528407866,0.4560284977200406
+exp2_unfiltered,exp2,unfiltered,frame,4,1921.7814133440768,0
+exp2_unfiltered,exp2,unfiltered,source_freq,2,25.58507843458527,2.7814471245726167e-6
+exp2_unfiltered,exp2,unfiltered,target_freq,2,3.50222280770858,0.17358091770456716
+exp2_filtered,exp2,filtered,frame,4,1859.1280944450216,0
+exp2_filtered,exp2,filtered,source_freq,2,18.29871570406192,1.0628803348183376e-4
+exp2_filtered,exp2,filtered,target_freq,2,3.287253221463314,0.19327782628948223

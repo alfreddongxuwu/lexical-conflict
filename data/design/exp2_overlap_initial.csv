@@ -1,0 +1,34 @@
+﻿mapping_id,issue_types,source_category,source_freq_band,target_freq_band,pairing_round,pairing_seed,source_item_id,source_word_zh,standard_en,target_item_id,prompted_word_zh,prompted_en,overlapping_accepted_forms
+exp2_map_0003,pair_overlap,animal,high,medium,1,2027,animal_003,猴子,monkey,animal_015,燕子,swallow,
+exp2_map_0018,pair_overlap,animal,high,low,1,2027,animal_008,熊猫,panda,animal_026,河马,hippopotamus,
+exp2_map_0031,pair_overlap,animal,medium,low,1,2027,animal_011,天鹅,swan,animal_030,乌贼,cuttlefish,
+exp2_map_0036,pair_overlap,animal,medium,low,1,2027,animal_016,松鼠,squirrel,animal_024,海豹,seal,
+exp2_map_0085,pair_overlap,fruit,medium,high,1,2027,fruit_015,橄榄,olive,fruit_001,苹果,apple,
+exp2_map_0087,pair_overlap,fruit,medium,high,1,2027,fruit_017,黑莓,blackberry,fruit_008,橘子,mandarin,
+exp2_map_0109,translation_overlap,fruit,low,high,1,2027,fruit_029,红提,red grape,fruit_003,葡萄,grape,grape|grapes
+exp2_map_0110,translation_overlap,fruit,low,high,1,2027,fruit_030,血橙,blood orange,fruit_008,橘子,mandarin,orange|oranges
+exp2_map_0157,pair_overlap,vehicle,medium,low,1,2027,vehicle_017,战车,chariot,vehicle_027,房车,recreational vehicle,
+exp2_map_0198,pair_overlap,occupation,high,low,1,2027,occupation_008,作家,writer,occupation_026,花匠,florist,
+exp2_map_0200,pair_overlap,occupation,high,low,1,2027,occupation_010,演员,actor,occupation_024,牙医,dentist,
+exp2_map_0209,pair_overlap,occupation,medium,high,1,2027,occupation_019,牧师,pastor,occupation_007,学者,scholar,
+exp2_map_0224,pair_overlap,occupation,low,high,1,2027,occupation_024,牙医,dentist,occupation_010,演员,actor,
+exp2_map_0261,pair_overlap,music,medium,high,1,2027,music_011,腰鼓,waist drum,music_009,笛子,flute,
+exp2_map_0289,pair_overlap,music,low,high,1,2027,music_029,钟琴,glockenspiel,music_007,锣鼓,percussion,
+exp2_map_0290,pair_overlap,music,low,high,1,2027,music_030,坠胡,zhuihu,music_005,号角,horn,
+exp2_map_0303,pair_overlap,animal,high,medium,2,2028,animal_003,猴子,monkey,animal_015,燕子,swallow,
+exp2_map_0318,pair_overlap,animal,high,low,2,2028,animal_008,熊猫,panda,animal_026,河马,hippopotamus,
+exp2_map_0331,pair_overlap,animal,medium,low,2,2028,animal_011,天鹅,swan,animal_030,乌贼,cuttlefish,
+exp2_map_0336,pair_overlap,animal,medium,low,2,2028,animal_016,松鼠,squirrel,animal_024,海豹,seal,
+exp2_map_0385,pair_overlap,fruit,medium,high,2,2028,fruit_015,橄榄,olive,fruit_001,苹果,apple,
+exp2_map_0387,pair_overlap,fruit,medium,high,2,2028,fruit_017,黑莓,blackberry,fruit_008,橘子,mandarin,
+exp2_map_0398,translation_overlap,fruit,medium,low,2,2028,fruit_018,梨子,pear,fruit_024,香梨,fragrant pear,pear|pears
+exp2_map_0457,pair_overlap,vehicle,medium,low,2,2028,vehicle_017,战车,chariot,vehicle_027,房车,recreational vehicle,
+exp2_map_0478,translation_overlap,vehicle,low,medium,2,2028,vehicle_028,兵车,military vehicle,vehicle_017,战车,chariot,military vehicle|military vehicles
+exp2_map_0498,pair_overlap,occupation,high,low,2,2028,occupation_008,作家,writer,occupation_026,花匠,florist,
+exp2_map_0500,pair_overlap,occupation,high,low,2,2028,occupation_010,演员,actor,occupation_024,牙医,dentist,
+exp2_map_0509,pair_overlap,occupation,medium,high,2,2028,occupation_019,牧师,pastor,occupation_007,学者,scholar,
+exp2_map_0524,pair_overlap,occupation,low,high,2,2028,occupation_024,牙医,dentist,occupation_010,演员,actor,
+exp2_map_0533,translation_overlap,occupation,low,medium,2,2028,occupation_023,画师,illustrator,occupation_012,画家,painter,artist|artists|painter|painters
+exp2_map_0561,pair_overlap,music,medium,high,2,2028,music_011,腰鼓,waist drum,music_009,笛子,flute,
+exp2_map_0589,pair_overlap,music,low,high,2,2028,music_029,钟琴,glockenspiel,music_007,锣鼓,percussion,
+exp2_map_0590,pair_overlap,music,low,high,2,2028,music_030,坠胡,zhuihu,music_005,号角,horn,

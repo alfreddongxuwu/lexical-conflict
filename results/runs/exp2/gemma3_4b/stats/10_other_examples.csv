@@ -1,0 +1,178 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+exp2_prompt_002756,F1,ignore_new_rule,within_category_context,music,music,high,low,小号,trumpet,gaohu,那位音乐家在舞台上演奏着小号。,That musician was playing the tuba on the stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 小号 means gaohu.
+Translate: 那位音乐家在舞台上演奏着小号。"
+exp2_prompt_000366,F1,ignore_new_rule,within_category_context,fruit,fruit,high,low,榴莲,durian,crabapple,这些榴莲已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,durian|durians,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 榴莲 means crabapple.
+Translate: 这些榴莲已经熟到可以吃了。"
+exp2_prompt_001816,F1,ignore_new_rule,within_category_context,fruit,fruit,high,medium,榴莲,durian,pear,这些榴莲已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,pear|pears,durian|durians,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 榴莲 means pear.
+Translate: 这些榴莲已经熟到可以吃了。"
+exp2_prompt_001601,F1,ignore_new_rule,within_category_context,animal,animal,medium,high,天鹅,swan,bee,同学们在生物课上学了天鹅的习性。,The students learned about the habits of geese in biology class.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,swan|swans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 天鹅 means bee.
+Translate: 同学们在生物课上学了天鹅的习性。"
+exp2_prompt_000746,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,high,校车,school bus,sedan,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,sedan|sedans|saloon|saloons|car|cars,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 校车 means sedan.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_000796,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,low,校车,school bus,forklift,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 校车 means forklift.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_002246,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,high,校车,school bus,high-speed train,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 校车 means high-speed train.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_002296,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,low,校车,school bus,ferry,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 校车 means ferry.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_001946,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,high,桑葚,mulberry,peach,这些桑葚已经熟到可以吃了。,These plums are ripe enough to eat.,False,False,peach|peaches,mulberry|mulberries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 桑葚 means peach.
+Translate: 这些桑葚已经熟到可以吃了。"
+exp2_prompt_001996,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,low,桑葚,mulberry,blood orange,这些桑葚已经熟到可以吃了。,These plums are ripe enough to eat.,False,False,blood orange|blood oranges|orange|oranges,mulberry|mulberries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 桑葚 means blood orange.
+Translate: 这些桑葚已经熟到可以吃了。"
+exp2_prompt_000711,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,high,游艇,yacht,truck,我们坐游艇抵达了目的地。,We arrived at our destination by boat.,False,False,truck|trucks|lorry|lorries,yacht|yachts|pleasure boat|pleasure boats,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 游艇 means truck.
+Translate: 我们坐游艇抵达了目的地。"
+exp2_prompt_002806,F1,ignore_new_rule,within_category_context,music,music,medium,high,铜鼓,bronze drum,percussion,那位音乐家在舞台上演奏着铜鼓。,That musician was playing the gong on the stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铜鼓 means percussion.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+exp2_prompt_002856,F1,ignore_new_rule,within_category_context,music,music,medium,low,铜鼓,bronze drum,liuqin,那位音乐家在舞台上演奏着铜鼓。,That musician was playing the qin on stage.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铜鼓 means liuqin.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+exp2_prompt_002871,F1,ignore_new_rule,within_category_context,music,music,medium,low,长号,trombone,zhuihu,那位音乐家在舞台上演奏着长号。,That musician was playing the tuba on stage.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 长号 means zhuihu.
+Translate: 那位音乐家在舞台上演奏着长号。"
+exp2_prompt_000416,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,high,龙眼,longan,peach,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,peach|peaches,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 龙眼 means peach.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_001916,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,high,龙眼,longan,banana,这些龙眼已经熟到可以吃了。,These dragon fruits are ripe enough to eat.,False,False,banana|bananas,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 龙眼 means banana.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_000231,F1,ignore_new_rule,within_category_context,animal,animal,low,high,壁虎,gecko,lion,同学们在生物课上学了壁虎的习性。,The students learned about the habits of lizards in biology class.,False,False,lion|lions,gecko|geckos|geckoes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 壁虎 means lion.
+Translate: 同学们在生物课上学了壁虎的习性。"
+exp2_prompt_001146,F1,ignore_new_rule,within_category_context,occupation,occupation,low,high,机师,pilot,worker,我在毕业多年以后成为了机师。,I became an aircraft mechanic many years after graduating.,False,False,worker|workers|laborer|laborers|labourer|labourers,pilot|pilots|aviator|aviators|airline pilot|airline pilots|aircraft pilot|aircraft pilots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 机师 means worker.
+Translate: 我在毕业多年以后成为了机师。"
+exp2_prompt_000286,F1,ignore_new_rule,within_category_context,animal,animal,low,medium,海狮,sea lion,swallow,同学们在生物课上学了海狮的习性。,The students learned about the habits of seals in biology class.,False,False,swallow|swallows,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海狮 means swallow.
+Translate: 同学们在生物课上学了海狮的习性。"
+exp2_prompt_001736,F1,ignore_new_rule,within_category_context,animal,animal,low,high,海狮,sea lion,fly,同学们在生物课上学了海狮的习性。,The students learned about the habits of seals in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海狮 means fly.
+Translate: 同学们在生物课上学了海狮的习性。"
+exp2_prompt_000206,F1,ignore_new_rule,within_category_context,animal,animal,low,high,海龟,sea turtle,tiger,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,tiger|tigers,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means tiger.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_001706,F1,ignore_new_rule,within_category_context,animal,animal,low,high,海龟,sea turtle,rabbit,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means rabbit.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_001756,F1,ignore_new_rule,within_category_context,animal,animal,low,medium,海龟,sea turtle,squirrel,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,squirrel|squirrels,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means squirrel.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_000541,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,红提,red grape,mandarin,这些红提已经熟到可以吃了。,These red dates are ripe enough to eat.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 红提 means mandarin.
+Translate: 这些红提已经熟到可以吃了。"
+exp2_prompt_002026,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,莲雾,wax apple,peach,这些莲雾已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,peach|peaches,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 莲雾 means peach.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_002076,F1,ignore_new_rule,within_category_context,fruit,fruit,low,medium,莲雾,wax apple,ya pear,这些莲雾已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,ya pear|ya pears|yali pear|yali pears|chinese pear|chinese pears|pear|pears,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 莲雾 means ya pear.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000241,F1,ignore_new_rule,within_category_context,animal,animal,low,high,蟒蛇,python,fly,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of snakes in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蟒蛇 means fly.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_000291,F1,ignore_new_rule,within_category_context,animal,animal,low,medium,蟒蛇,python,peacock,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of snakes in biology class.,False,False,peacock|peacocks|peafowl|peafowls,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蟒蛇 means peacock.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_001741,F1,ignore_new_rule,within_category_context,animal,animal,low,high,蟒蛇,python,bee,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of snakes in biology class.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蟒蛇 means bee.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_002757,F2,bare_lexicon,within_category_context,music,music,high,low,小号,trumpet,gaohu,那位音乐家在舞台上演奏着小号。,That musician was playing the trombone on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 小号 means gaohu.
+Translate: 那位音乐家在舞台上演奏着小号。"
+exp2_prompt_000747,F2,bare_lexicon,within_category_context,vehicle,vehicle,medium,high,校车,school bus,sedan,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,sedan|sedans|saloon|saloons|car|cars,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 校车 means sedan.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_002297,F2,bare_lexicon,within_category_context,vehicle,vehicle,medium,low,校车,school bus,ferry,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 校车 means ferry.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_001917,F2,bare_lexicon,within_category_context,fruit,fruit,medium,high,龙眼,longan,banana,这些龙眼已经熟到可以吃了。,These dragon fruits are ripe enough to eat.,False,False,banana|bananas,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 龙眼 means banana.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_001147,F2,bare_lexicon,within_category_context,occupation,occupation,low,high,机师,pilot,worker,我在毕业多年以后成为了机师。,I became an aircraft mechanic many years after graduating.,False,False,worker|workers|laborer|laborers|labourer|labourers,pilot|pilots|aviator|aviators|airline pilot|airline pilots|aircraft pilot|aircraft pilots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 机师 means worker.
+Translate: 我在毕业多年以后成为了机师。"
+exp2_prompt_000542,F2,bare_lexicon,within_category_context,fruit,fruit,low,high,红提,red grape,mandarin,这些红提已经熟到可以吃了。,These red dates are ripe enough to eat.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 红提 means mandarin.
+Translate: 这些红提已经熟到可以吃了。"
+exp2_prompt_000242,F2,bare_lexicon,within_category_context,animal,animal,low,high,蟒蛇,python,fly,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of snakes in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 蟒蛇 means fly.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_000748,F3,new_dialect,within_category_context,vehicle,vehicle,medium,high,校车,school bus,sedan,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,sedan|sedans|saloon|saloons|car|cars,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 校车 means sedan.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_002298,F3,new_dialect,within_category_context,vehicle,vehicle,medium,low,校车,school bus,ferry,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 校车 means ferry.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_000448,F3,new_dialect,within_category_context,fruit,fruit,medium,high,桑葚,mulberry,lemon,这些桑葚已经熟到可以吃了。,These loquats are ripe enough to eat.,False,False,lemon|lemons,mulberry|mulberries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 桑葚 means lemon.
+Translate: 这些桑葚已经熟到可以吃了。"
+exp2_prompt_001738,F3,new_dialect,within_category_context,animal,animal,low,high,海狮,sea lion,fly,同学们在生物课上学了海狮的习性。,The students learned about the habits of flying in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 海狮 means fly.
+Translate: 同学们在生物课上学了海狮的习性。"
+exp2_prompt_000243,F3,new_dialect,within_category_context,animal,animal,low,high,蟒蛇,python,fly,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of snakes in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蟒蛇 means fly.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_002769,F4,language_game,within_category_context,music,music,high,low,大号,tuba,stone chimes,那位音乐家在舞台上演奏着大号。,That musician was playing the large chimes on stage.,False,False,stone chimes|stone chime|lithophone|lithophones|qing,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 大号 means stone chimes.
+Translate: 那位音乐家在舞台上演奏着大号。"
+exp2_prompt_002759,F4,language_game,within_category_context,music,music,high,low,小号,trumpet,gaohu,那位音乐家在舞台上演奏着小号。,That musician was playing the trombone on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 小号 means gaohu.
+Translate: 那位音乐家在舞台上演奏着小号。"
+exp2_prompt_000749,F4,language_game,within_category_context,vehicle,vehicle,medium,high,校车,school bus,sedan,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,sedan|sedans|saloon|saloons|car|cars,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 校车 means sedan.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_002299,F4,language_game,within_category_context,vehicle,vehicle,medium,low,校车,school bus,ferry,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 校车 means ferry.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_000449,F4,language_game,within_category_context,fruit,fruit,medium,high,桑葚,mulberry,lemon,这些桑葚已经熟到可以吃了。,These plums are ripe enough to eat.,False,False,lemon|lemons,mulberry|mulberries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 桑葚 means lemon.
+Translate: 这些桑葚已经熟到可以吃了。"
+exp2_prompt_001949,F4,language_game,within_category_context,fruit,fruit,medium,high,桑葚,mulberry,peach,这些桑葚已经熟到可以吃了。,These plums are ripe enough to eat.,False,False,peach|peaches,mulberry|mulberries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 桑葚 means peach.
+Translate: 这些桑葚已经熟到可以吃了。"
+exp2_prompt_001919,F4,language_game,within_category_context,fruit,fruit,medium,high,龙眼,longan,banana,这些龙眼已经熟到可以吃了。,These dragon fruits are ripe enough to eat.,False,False,banana|bananas,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 龙眼 means banana.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_001969,F4,language_game,within_category_context,fruit,fruit,medium,low,龙眼,longan,red delicious apple,这些龙眼已经熟到可以吃了。,These dragon fruits are ripe enough to eat.,False,False,red delicious apple|red delicious apples|red delicious|apple|apples,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 龙眼 means red delicious apple.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_001739,F4,language_game,within_category_context,animal,animal,low,high,海狮,sea lion,fly,同学们在生物课上学了海狮的习性。,The students learned about the habits of flying in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海狮 means fly.
+Translate: 同学们在生物课上学了海狮的习性。"
+exp2_prompt_000544,F4,language_game,within_category_context,fruit,fruit,low,high,红提,red grape,mandarin,这些红提已经熟到可以吃了。,These red dates are ripe enough to eat.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 红提 means mandarin.
+Translate: 这些红提已经熟到可以吃了。"
+exp2_prompt_001184,F4,language_game,within_category_context,occupation,occupation,low,medium,茶农,tea farmer,director,我在毕业多年以后成为了茶农。,I became Cha Nong many years after graduating.,False,False,director|directors|film director|film directors|movie director|movie directors,tea farmer|tea farmers|tea grower|tea growers|tea planter|tea planters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 茶农 means director.
+Translate: 我在毕业多年以后成为了茶农。"
+exp2_prompt_002039,F4,language_game,within_category_context,fruit,fruit,low,high,蛇果,red delicious apple,mandarin,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蛇果 means mandarin.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000244,F4,language_game,within_category_context,animal,animal,low,high,蟒蛇,python,fly,同学们在生物课上学了蟒蛇的习性。,The students learned about the habits of snakes in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,python|pythons|boa|boas|boa constrictor|boa constrictors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蟒蛇 means fly.
+Translate: 同学们在生物课上学了蟒蛇的习性。"
+exp2_prompt_001439,F4,language_game,within_category_context,music,music,low,high,陶笛,ocarina,bell,那位音乐家在舞台上演奏着陶笛。,That musician was playing the bamboo flute on stage.,False,False,bell|bells,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 陶笛 means bell.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+exp2_prompt_002760,F5,explicit_override,within_category_context,music,music,high,low,小号,trumpet,gaohu,那位音乐家在舞台上演奏着小号。,That musician was playing the tuba on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 小号 means gaohu.
+Translate: 那位音乐家在舞台上演奏着小号。"
+exp2_prompt_002300,F5,explicit_override,within_category_context,vehicle,vehicle,medium,low,校车,school bus,ferry,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 校车 means ferry.
+Translate: 我们坐校车抵达了目的地。"
+exp2_prompt_001740,F5,explicit_override,within_category_context,animal,animal,low,high,海狮,sea lion,fly,同学们在生物课上学了海狮的习性。,The students learned about the habits of flying in biology class.,False,False,fly|flies|housefly|houseflies|house fly|house flies,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 海狮 means fly.
+Translate: 同学们在生物课上学了海狮的习性。"
+exp2_prompt_000545,F5,explicit_override,within_category_context,fruit,fruit,low,high,红提,red grape,mandarin,这些红提已经熟到可以吃了。,These red dates are ripe enough to eat.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 红提 means mandarin.
+Translate: 这些红提已经熟到可以吃了。"

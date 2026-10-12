@@ -1,0 +1,9 @@
+analysis,experiment,sample,family_type,family_id,method,n_tests,significant_raw,significant_holm,changed_at_05
+exp1_filtered,exp1,filtered,omnibus,exp1_filtered:omnibus,holm,4,3,3,0
+exp1_filtered,exp1,filtered,reference_contrasts,exp1_filtered:reference_contrasts,holm,9,7,7,0
+exp1_unfiltered,exp1,unfiltered,omnibus,exp1_unfiltered:omnibus,holm,4,3,3,0
+exp1_unfiltered,exp1,unfiltered,reference_contrasts,exp1_unfiltered:reference_contrasts,holm,9,7,7,0
+exp2_filtered,exp2,filtered,omnibus,exp2_filtered:omnibus,holm,3,2,2,0
+exp2_filtered,exp2,filtered,reference_contrasts,exp2_filtered:reference_contrasts,holm,8,6,6,0
+exp2_unfiltered,exp2,unfiltered,omnibus,exp2_unfiltered:omnibus,holm,3,2,2,0
+exp2_unfiltered,exp2,unfiltered,reference_contrasts,exp2_unfiltered:reference_contrasts,holm,8,6,6,0

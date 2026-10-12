@@ -1,0 +1,4 @@
+analysis,experiment,sample,effect,df,chisq,p_value
+exp2_unfiltered,exp2,unfiltered,frame,4,1921.7814133440766,0
+exp2_unfiltered,exp2,unfiltered,source_freq,2,25.58507843458527,2.7814471245726167e-6
+exp2_unfiltered,exp2,unfiltered,target_freq,2,3.50222280770858,0.17358091770456716

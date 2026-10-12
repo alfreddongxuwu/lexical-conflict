@@ -1,0 +1,136 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+prompt_004852,F1,ignore_new_rule,CK_context,music,animal,high,low,大号,tuba,sea lion,同学们在生物课上学了大号的习性。,The students learned about the habits of the large size in biology class.,False,False,sea lion|sea lions,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means sea lion.
+Translate: 同学们在生物课上学了大号的习性。"
+prompt_005152,F1,ignore_new_rule,CK_context,music,fruit,high,high,大号,tuba,mango,这些大号已经熟到可以吃了。,These large ones are ripe enough to eat.,False,False,mango|mangoes|mangos,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means mango.
+Translate: 这些大号已经熟到可以吃了。"
+prompt_005432,F1,ignore_new_rule,CK_context,music,vehicle,high,medium,大号,tuba,yacht,我们坐大号抵达了目的地。,We took the large one and arrived at our destination.,False,False,yacht|yachts|pleasure boat|pleasure boats,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means yacht.
+Translate: 我们坐大号抵达了目的地。"
+prompt_002432,F1,ignore_new_rule,CK_context,vehicle,animal,high,low,高铁,high-speed train,sea turtle,同学们在生物课上学了高铁的习性。,The students learned about the habits of high-speed rail in biology class.,False,False,sea turtle|sea turtles|marine turtle|marine turtles,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means sea turtle.
+Translate: 同学们在生物课上学了高铁的习性。"
+prompt_002522,F1,ignore_new_rule,CK_context,vehicle,animal,medium,high,皮卡,pickup truck,lion,同学们在生物课上学了皮卡的习性。,The students learned about the habits of pikas in biology class.,False,False,lion|lions,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 皮卡 means lion.
+Translate: 同学们在生物课上学了皮卡的习性。"
+prompt_004992,F1,ignore_new_rule,CK_context,music,animal,medium,low,竹板,bamboo clapper,seal,同学们在生物课上学了竹板的习性。,The students learned about the habits of bamboo boards in biology class.,False,False,seal|seals,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 竹板 means seal.
+Translate: 同学们在生物课上学了竹板的习性。"
+prompt_005252,F1,ignore_new_rule,CK_context,music,fruit,medium,low,竹板,bamboo clapper,red grape,这些竹板已经熟到可以吃了。,These bamboo boards are ripe enough to eat.,False,False,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 竹板 means red grape.
+Translate: 这些竹板已经熟到可以吃了。"
+prompt_005562,F1,ignore_new_rule,CK_context,music,vehicle,medium,medium,竹板,bamboo clapper,skateboard,我们坐竹板抵达了目的地。,We reached our destination on bamboo boards.,False,False,skateboard|skateboards,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 竹板 means skateboard.
+Translate: 我们坐竹板抵达了目的地。"
+prompt_005872,F1,ignore_new_rule,CK_context,music,occupation,medium,medium,贝斯,bass,pastor,我在毕业多年以后成为了贝斯。,I became a bassist many years after graduating.,False,False,pastor|pastors|minister|ministers|priest|priests,bass|basses|bass guitar|bass guitars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 贝斯 means pastor.
+Translate: 我在毕业多年以后成为了贝斯。"
+prompt_002532,F1,ignore_new_rule,CK_context,vehicle,animal,medium,medium,越野,off-road vehicle,rooster,同学们在生物课上学了越野的习性。,The students learned about the habits of off-roading in biology class.,False,False,rooster|roosters|cockerel|cockerels|cock|cocks,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 越野 means rooster.
+Translate: 同学们在生物课上学了越野的习性。"
+prompt_003162,F1,ignore_new_rule,CK_context,vehicle,occupation,medium,high,越野,off-road vehicle,farmer,我在毕业多年以后成为了越野。,I became a cross-country runner many years after graduating.,False,False,farmer|farmers|peasant|peasants|agricultural worker|agricultural workers,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 越野 means farmer.
+Translate: 我在毕业多年以后成为了越野。"
+prompt_003442,F1,ignore_new_rule,CK_context,vehicle,music,medium,high,越野,off-road vehicle,trumpet,那位音乐家在舞台上演奏着越野。,The musician was playing off-road on stage.,False,False,trumpet|trumpets,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 越野 means trumpet.
+Translate: 那位音乐家在舞台上演奏着越野。"
+prompt_002672,F1,ignore_new_rule,CK_context,vehicle,animal,low,low,兵车,military vehicle,hippopotamus,同学们在生物课上学了兵车的习性。,The students learned about the habits of chariots in biology class.,False,False,hippopotamus|hippopotamuses|hippopotami|hippo|hippos,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means hippopotamus.
+Translate: 同学们在生物课上学了兵车的习性。"
+prompt_002992,F1,ignore_new_rule,CK_context,vehicle,fruit,low,low,兵车,military vehicle,date,这些兵车已经熟到可以吃了。,These chariots are already ripe enough to eat.,False,False,date|dates|date fruit|date fruits,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means date.
+Translate: 这些兵车已经熟到可以吃了。"
+prompt_003212,F1,ignore_new_rule,CK_context,vehicle,occupation,low,low,兵车,military vehicle,dentist,我在毕业多年以后成为了兵车。,I became a war chariot many years after graduating.,False,False,dentist|dentists,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means dentist.
+Translate: 我在毕业多年以后成为了兵车。"
+prompt_003552,F1,ignore_new_rule,CK_context,vehicle,music,low,medium,兵车,military vehicle,trombone,那位音乐家在舞台上演奏着兵车。,The musician was playing the war chariot on stage.,False,False,trombone|trombones,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means trombone.
+Translate: 那位音乐家在舞台上演奏着兵车。"
+prompt_000562,F1,ignore_new_rule,CK_context,animal,vehicle,low,low,海狮,sea lion,tanker,我们坐海狮抵达了目的地。,We arrived at our destination in a HiAce van.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,sea lion|sea lions,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海狮 means tanker.
+Translate: 我们坐海狮抵达了目的地。"
+prompt_005002,F1,ignore_new_rule,CK_context,music,animal,low,low,编磬,stone chimes,jellyfish,同学们在生物课上学了编磬的习性。,The students learned about the habits of chime stones in biology class.,False,False,jellyfish|jellyfishes,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means jellyfish.
+Translate: 同学们在生物课上学了编磬的习性。"
+prompt_001752,F1,ignore_new_rule,CK_context,fruit,vehicle,low,high,释迦,sugar apple,train,我们坐释迦抵达了目的地。,We arrived at our destination by riding Shakyamuni.,False,False,train|trains|railway train|railway trains,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 释迦 means train.
+Translate: 我们坐释迦抵达了目的地。"
+prompt_002022,F1,ignore_new_rule,CK_context,fruit,occupation,low,low,释迦,sugar apple,illustrator,我在毕业多年以后成为了释迦。,"Many years after graduating, I became Shakyamuni.",False,False,illustrator|illustrators|artist|artists|painter|painters,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 释迦 means illustrator.
+Translate: 我在毕业多年以后成为了释迦。"
+prompt_002392,F1,ignore_new_rule,CK_context,fruit,music,low,high,释迦,sugar apple,guitar,那位音乐家在舞台上演奏着释迦。,The musician was playing Shakyamuni on stage.,False,False,guitar|guitars,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 释迦 means guitar.
+Translate: 那位音乐家在舞台上演奏着释迦。"
+prompt_005352,F1,ignore_new_rule,CK_context,music,fruit,low,low,钟琴,glockenspiel,wax apple,这些钟琴已经熟到可以吃了。,These zhongqin are ripe enough to eat.,False,False,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means wax apple.
+Translate: 这些钟琴已经熟到可以吃了。"
+prompt_005642,F1,ignore_new_rule,CK_context,music,vehicle,low,low,钟琴,glockenspiel,military vehicle,我们坐钟琴抵达了目的地。,We arrived at our destination by carillon.,False,False,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means military vehicle.
+Translate: 我们坐钟琴抵达了目的地。"
+prompt_005992,F1,ignore_new_rule,CK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,我在毕业多年以后成为了钟琴。,I became Zhong Qin many years after graduation.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means teacher.
+Translate: 我在毕业多年以后成为了钟琴。"
+prompt_002662,F1,ignore_new_rule,CK_context,vehicle,animal,low,high,铲车,loader,ant,同学们在生物课上学了铲车的习性。,The students learned about the habits of forklifts in biology class.,False,False,ant|ants,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means ant.
+Translate: 同学们在生物课上学了铲车的习性。"
+prompt_002942,F1,ignore_new_rule,CK_context,vehicle,fruit,low,high,铲车,loader,mango,这些铲车已经熟到可以吃了。,These forklifts are ripe enough to eat.,False,False,mango|mangoes|mangos,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means mango.
+Translate: 这些铲车已经熟到可以吃了。"
+prompt_003272,F1,ignore_new_rule,CK_context,vehicle,occupation,low,high,铲车,loader,reporter,我在毕业多年以后成为了铲车。,"Many years after graduating, I became a forklift.",False,False,reporter|reporters|journalist|journalists|correspondent|correspondents,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means reporter.
+Translate: 我在毕业多年以后成为了铲车。"
+prompt_003562,F1,ignore_new_rule,CK_context,vehicle,music,low,low,铲车,loader,ocarina,那位音乐家在舞台上演奏着铲车。,The musician was playing a forklift on stage.,False,False,ocarina|ocarinas,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means ocarina.
+Translate: 那位音乐家在舞台上演奏着铲车。"
+prompt_003071,F1,ignore_new_rule,PK_context,vehicle,occupation,high,medium,高铁,high-speed train,painter,我们坐高铁抵达了目的地。,We arrived at our destination by high-speed rail.,False,False,painter|painters|artist|artists,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means painter.
+Translate: 我们坐高铁抵达了目的地。"
+prompt_002671,F1,ignore_new_rule,PK_context,vehicle,animal,low,low,兵车,military vehicle,hippopotamus,我们坐兵车抵达了目的地。,We arrived at our destination by chariot.,False,False,hippopotamus|hippopotamuses|hippopotami|hippo|hippos,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means hippopotamus.
+Translate: 我们坐兵车抵达了目的地。"
+prompt_005691,F1,ignore_new_rule,PK_context,music,vehicle,low,medium,编磬,stone chimes,police car,那位音乐家在舞台上演奏着编磬。,The musician was playing the chime stones on stage.,False,False,police car|police cars|patrol car|patrol cars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means police car.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_002661,F1,ignore_new_rule,PK_context,vehicle,animal,low,high,铲车,loader,ant,我们坐铲车抵达了目的地。,We arrived at our destination by forklift.,False,False,ant|ants,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means ant.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_002941,F1,ignore_new_rule,PK_context,vehicle,fruit,low,high,铲车,loader,mango,我们坐铲车抵达了目的地。,We arrived at our destination by forklift.,False,False,mango|mangoes|mangos,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means mango.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_003271,F1,ignore_new_rule,PK_context,vehicle,occupation,low,high,铲车,loader,reporter,我们坐铲车抵达了目的地。,We arrived at our destination by forklift.,False,False,reporter|reporters|journalist|journalists|correspondent|correspondents,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means reporter.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_003561,F1,ignore_new_rule,PK_context,vehicle,music,low,low,铲车,loader,ocarina,我们坐铲车抵达了目的地。,We arrived at our destination by forklift.,False,False,ocarina|ocarinas,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means ocarina.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_002413,F2,bare_lexicon,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004653,F2,bare_lexicon,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_002415,F3,new_dialect,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to the destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004655,F3,new_dialect,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_002225,F3,new_dialect,PK_context,fruit,music,medium,high,鸭梨,ya pear,pipa,这些鸭梨已经熟到可以吃了。,These loquats are ripe enough to eat.,False,False,pipa|pipas|chinese lute|chinese lutes,ya pear|ya pears|yali pear|yali pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 鸭梨 means pipa.
+Translate: 这些鸭梨已经熟到可以吃了。"
+prompt_002417,F4,language_game,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to the destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_002307,F4,language_game,PK_context,fruit,music,low,high,椰枣,date,percussion,这些椰枣已经熟到可以吃了。,These percussions are ripe enough to eat.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 椰枣 means percussion.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_002419,F5,explicit_override,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to our destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_004659,F5,explicit_override,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduating.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_002309,F5,explicit_override,PK_context,fruit,music,low,high,椰枣,date,percussion,这些椰枣已经熟到可以吃了。,These percussions are ripe enough to eat.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 椰枣 means percussion.
+Translate: 这些椰枣已经熟到可以吃了。"

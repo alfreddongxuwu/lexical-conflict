@@ -1,0 +1,10 @@
+﻿model_id,unfiltered_rows,baseline_filtered_rows,excluded_rows,retained_percent,unique_source_items,normal_baseline_expected_items,normal_baseline_other_items
+chatgpt5_5_instant,3000,2940,60,98.0,150,147,3
+deepseek_llm_67b,3000,2880,120,96.0,150,144,6
+deepseek_llm_7b,3000,2520,480,84.0,150,126,24
+gemma3_27b,3000,2700,300,90.0,150,135,15
+gemma3_4b,3000,2360,640,78.67,150,118,32
+llama3_70b,3000,2260,740,75.33,150,113,37
+llama3_8b,3000,2160,840,72.0,150,108,42
+qwen3_32b,3000,2780,220,92.67,150,139,11
+qwen3_8b,3000,2500,500,83.33,150,125,25

@@ -1,0 +1,4 @@
+﻿model_id,n,n_pk,percent_pk,n_ck,percent_ck,n_both,percent_both,n_other,percent_other
+chatgpt5_5_instant,5495,1095,19.93,4382,79.75,5,0.09,13,0.24
+qwen3_32b,5160,12,0.23,5135,99.52,5,0.1,8,0.16
+qwen3_8b,4785,62,1.3,4710,98.43,7,0.15,6,0.13

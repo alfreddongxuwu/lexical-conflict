@@ -1,0 +1,32 @@
+{
+  "baseline": {
+    "prompts": "data/processed/prompts_baseline.csv",
+    "models": 9,
+    "rows_per_model": 750
+  },
+  "main": {
+    "prompts": "data/processed/prompts.csv",
+    "models": 9,
+    "rows_per_model": 6000
+  },
+  "exp2": {
+    "prompts": "data/processed/prompts_exp2.csv",
+    "models": 9,
+    "rows_per_model": 3000
+  },
+  "may_mean": {
+    "prompts": "data/processed/prompts_may.csv",
+    "models": 9,
+    "rows_per_model": 6000
+  },
+  "reiteration": {
+    "prompts": "data/processed/prompts_reiteration.csv",
+    "models": 9,
+    "rows_per_model": 6000
+  },
+  "thinking_on": {
+    "prompts": "data/processed/prompts.csv",
+    "models": 3,
+    "rows_per_model": 6000
+  }
+}

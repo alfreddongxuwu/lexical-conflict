@@ -1,0 +1,1030 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+prompt_000032,F1,ignore_new_rule,CK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,这些蚂蚁已经熟到可以吃了。,These crabs are ripe enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蚂蚁 means crabapple.
+Translate: 这些蚂蚁已经熟到可以吃了。"
+prompt_002432,F1,ignore_new_rule,CK_context,vehicle,animal,high,low,高铁,high-speed train,sea turtle,同学们在生物课上学了高铁的习性。,The students learned about the habits of high-speed rail in biology class.,False,False,sea turtle|sea turtles|marine turtle|marine turtles,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means sea turtle.
+Translate: 同学们在生物课上学了高铁的习性。"
+prompt_002892,F1,ignore_new_rule,CK_context,vehicle,fruit,medium,low,巴士,bus,crabapple,这些巴士已经熟到可以吃了。,These crabs are ripe enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,bus|buses|busses|coach|coaches,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 巴士 means crabapple.
+Translate: 这些巴士已经熟到可以吃了。"
+prompt_002802,F1,ignore_new_rule,CK_context,vehicle,fruit,medium,medium,战机,fighter jet,apricot,这些战机已经熟到可以吃了。,These planes are ripe enough to eat.,False,False,apricot|apricots,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 战机 means apricot.
+Translate: 这些战机已经熟到可以吃了。"
+prompt_003132,F1,ignore_new_rule,CK_context,vehicle,occupation,medium,low,滑板,skateboard,dancer,我在毕业多年以后成为了滑板。,I became a skateboarder after graduating many years ago.,False,False,dancer|dancers,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 滑板 means dancer.
+Translate: 我在毕业多年以后成为了滑板。"
+prompt_004002,F1,ignore_new_rule,CK_context,occupation,fruit,medium,medium,牧师,pastor,melon,这些牧师已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 牧师 means melon.
+Translate: 这些牧师已经熟到可以吃了。"
+prompt_005202,F1,ignore_new_rule,CK_context,music,fruit,medium,medium,短笛,piccolo,plum,这些短笛已经熟到可以吃了。,These flutes are ripe enough to eat.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 短笛 means plum.
+Translate: 这些短笛已经熟到可以吃了。"
+prompt_005232,F1,ignore_new_rule,CK_context,music,fruit,medium,medium,贝斯,bass,melon,这些贝斯已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,bass|basses|bass guitar|bass guitars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 贝斯 means melon.
+Translate: 这些贝斯已经熟到可以吃了。"
+prompt_001712,F1,ignore_new_rule,CK_context,fruit,vehicle,low,low,沙果,crabapple,bamboo raft,我们坐沙果抵达了目的地。,We arrived at our destination by sitting on a sand fruit.,False,False,bamboo raft|bamboo rafts|raft|rafts,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙果 means bamboo raft.
+Translate: 我们坐沙果抵达了目的地。"
+prompt_000832,F1,ignore_new_rule,CK_context,animal,occupation,low,medium,海龟,sea turtle,singer,我在毕业多年以后成为了海龟。,I became a turtle after graduating for many years.,False,False,singer|singers|vocalist|vocalists,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means singer.
+Translate: 我在毕业多年以后成为了海龟。"
+prompt_005151,F1,ignore_new_rule,PK_context,music,fruit,high,high,大号,tuba,mango,那位音乐家在舞台上演奏着大号。,The musician is playing a big instrument on stage.,False,False,mango|mangoes|mangos,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means mango.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005431,F1,ignore_new_rule,PK_context,music,vehicle,high,medium,大号,tuba,yacht,那位音乐家在舞台上演奏着大号。,The musician is playing a big horn on stage.,False,False,yacht|yachts|pleasure boat|pleasure boats,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means yacht.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005781,F1,ignore_new_rule,PK_context,music,occupation,high,medium,大号,tuba,referee,那位音乐家在舞台上演奏着大号。,The musician is playing a trombone on stage.,False,False,referee|referees|umpire|umpires|judge|judges,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means referee.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005741,F1,ignore_new_rule,PK_context,music,occupation,high,high,大鼓,bass drum,actor,那位音乐家在舞台上演奏着大鼓。,The musician is playing the drum on stage.,False,False,actor|actors|actress|actresses|performer|performers,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大鼓 means actor.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+prompt_005171,F1,ignore_new_rule,PK_context,music,fruit,high,medium,小号,trumpet,mulberry,那位音乐家在舞台上演奏着小号。,The musician is playing a small horn on stage.,False,False,mulberry|mulberries,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 小号 means mulberry.
+Translate: 那位音乐家在舞台上演奏着小号。"
+prompt_001541,F1,ignore_new_rule,PK_context,fruit,vehicle,high,low,橘子,mandarin,tanker,这些橘子已经熟到可以吃了。,These tanks are ripe enough to eat.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 橘子 means tanker.
+Translate: 这些橘子已经熟到可以吃了。"
+prompt_004221,F1,ignore_new_rule,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skater after graduating many years ago.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_000031,F1,ignore_new_rule,PK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,同学们在生物课上学了蚂蚁的习性。,The students learned about the habits of crabs in biology class.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蚂蚁 means crabapple.
+Translate: 同学们在生物课上学了蚂蚁的习性。"
+prompt_005141,F1,ignore_new_rule,PK_context,music,fruit,high,low,锣鼓,percussion,date,那位音乐家在舞台上演奏着锣鼓。,The musician is playing the drum on stage.,False,False,date|dates|date fruit|date fruits,percussion|percussion instruments|gongs and drums|gong and drum,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 锣鼓 means date.
+Translate: 那位音乐家在舞台上演奏着锣鼓。"
+prompt_002801,F1,ignore_new_rule,PK_context,vehicle,fruit,medium,medium,战机,fighter jet,apricot,我们坐战机抵达了目的地。,We arrived at our destination by plane.,False,False,apricot|apricots,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 战机 means apricot.
+Translate: 我们坐战机抵达了目的地。"
+prompt_003191,F1,ignore_new_rule,PK_context,vehicle,occupation,medium,high,战机,fighter jet,writer,我们坐战机抵达了目的地。,We arrived at our destination by plane.,False,False,writer|writers|author|authors,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 战机 means writer.
+Translate: 我们坐战机抵达了目的地。"
+prompt_004381,F1,ignore_new_rule,PK_context,occupation,vehicle,medium,medium,模特,model,police car,我在毕业多年以后成为了模特。,I became a police officer after graduating many years ago.,False,False,police car|police cars|patrol car|patrol cars,model|models|fashion model|fashion models,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 模特 means police car.
+Translate: 我在毕业多年以后成为了模特。"
+prompt_003421,F1,ignore_new_rule,PK_context,vehicle,music,medium,medium,游艇,yacht,hand drum,我们坐游艇抵达了目的地。,We arrived at our destination by boat.,False,False,hand drum|hand drums|tambourine|tambourines,yacht|yachts|pleasure boat|pleasure boats,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 游艇 means hand drum.
+Translate: 我们坐游艇抵达了目的地。"
+prompt_003461,F1,ignore_new_rule,PK_context,vehicle,music,medium,low,滑板,skateboard,gaohu,我们坐滑板抵达了目的地。,We arrived at our destination by skateboarding.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 滑板 means gaohu.
+Translate: 我们坐滑板抵达了目的地。"
+prompt_001021,F1,ignore_new_rule,PK_context,animal,music,medium,high,燕子,swallow,tuba,同学们在生物课上学了燕子的习性。,The students learned about the habits of swans in biology class.,False,False,tuba|tubas,swallow|swallows,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 燕子 means tuba.
+Translate: 同学们在生物课上学了燕子的习性。"
+prompt_004671,F1,ignore_new_rule,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduation.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_004901,F1,ignore_new_rule,PK_context,music,animal,medium,medium,短笛,piccolo,parrot,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,parrot|parrots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 短笛 means parrot.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005201,F1,ignore_new_rule,PK_context,music,fruit,medium,medium,短笛,piccolo,plum,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 短笛 means plum.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005571,F1,ignore_new_rule,PK_context,music,vehicle,medium,low,短笛,piccolo,airship,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,airship|airships|dirigible|dirigibles|blimp|blimps,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 短笛 means airship.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005821,F1,ignore_new_rule,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005841,F1,ignore_new_rule,PK_context,music,occupation,medium,medium,竹板,bamboo clapper,painter,那位音乐家在舞台上演奏着竹板。,The musician is playing the guzheng on stage.,False,False,painter|painters|artist|artists,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 竹板 means painter.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+prompt_004971,F1,ignore_new_rule,PK_context,music,animal,medium,medium,芦笙,lusheng,rooster,那位音乐家在舞台上演奏着芦笙。,The musician is playing the sheng on stage.,False,False,rooster|roosters|cockerel|cockerels|cock|cocks,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 芦笙 means rooster.
+Translate: 那位音乐家在舞台上演奏着芦笙。"
+prompt_004941,F1,ignore_new_rule,PK_context,music,animal,medium,high,花鼓,flower drum,rabbit,那位音乐家在舞台上演奏着花鼓。,The musician is playing the drum on stage.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花鼓 means rabbit.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005271,F1,ignore_new_rule,PK_context,music,fruit,medium,high,花鼓,flower drum,peach,那位音乐家在舞台上演奏着花鼓。,The musician is playing the peachtree on stage.,False,False,peach|peaches,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花鼓 means peach.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005541,F1,ignore_new_rule,PK_context,music,vehicle,medium,medium,花鼓,flower drum,submarine,那位音乐家在舞台上演奏着花鼓。,The musician is playing a drum on stage.,False,False,submarine|submarines|sub|subs,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花鼓 means submarine.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005861,F1,ignore_new_rule,PK_context,music,occupation,medium,medium,花鼓,flower drum,security guard,那位音乐家在舞台上演奏着花鼓。,The musician is playing a drum on stage.,False,False,security guard|security guards|security officer|security officers|guard|guards,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花鼓 means security guard.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005591,F1,ignore_new_rule,PK_context,music,vehicle,medium,medium,铜鼓,bronze drum,off-road vehicle,那位音乐家在舞台上演奏着铜鼓。,The musician is playing a drum on stage.,False,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铜鼓 means off-road vehicle.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+prompt_005851,F1,ignore_new_rule,PK_context,music,occupation,medium,high,铜鼓,bronze drum,doctor,那位音乐家在舞台上演奏着铜鼓。,The musician is playing the drum on stage.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铜鼓 means doctor.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+prompt_005241,F1,ignore_new_rule,PK_context,music,fruit,medium,low,长号,trombone,crabapple,那位音乐家在舞台上演奏着长号。,The musician is playing a trumpet on stage.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 长号 means crabapple.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_005531,F1,ignore_new_rule,PK_context,music,vehicle,medium,high,长号,trombone,train,那位音乐家在舞台上演奏着长号。,The musician is playing the trumpet on stage.,False,False,train|trains,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 长号 means train.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_004911,F1,ignore_new_rule,PK_context,music,animal,medium,medium,风笛,bagpipe,swallow,那位音乐家在舞台上演奏着风笛。,The musician is playing a flute on stage.,False,False,swallow|swallows,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 风笛 means swallow.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005521,F1,ignore_new_rule,PK_context,music,vehicle,medium,low,风笛,bagpipe,tanker,那位音乐家在舞台上演奏着风笛。,The musician is playing a flute on stage.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 风笛 means tanker.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005891,F1,ignore_new_rule,PK_context,music,occupation,medium,low,风笛,bagpipe,tea farmer,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,tea farmer|tea farmers|tea grower|tea growers|tea planter|tea planters,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 风笛 means tea farmer.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_001911,F1,ignore_new_rule,PK_context,fruit,occupation,medium,low,龙眼,longan,florist,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 龙眼 means florist.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_002241,F1,ignore_new_rule,PK_context,fruit,music,medium,low,龙眼,longan,liuqin,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 龙眼 means liuqin.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_004431,F1,ignore_new_rule,PK_context,occupation,vehicle,low,low,乐手,musician,ferry,我在毕业多年以后成为了乐手。,I became a ferryman after graduating many years ago.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,musician|musicians|instrumentalist|instrumentalists,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 乐手 means ferry.
+Translate: 我在毕业多年以后成为了乐手。"
+prompt_003211,F1,ignore_new_rule,PK_context,vehicle,occupation,low,low,兵车,military vehicle,dentist,我们坐兵车抵达了目的地。,We arrived at our destination by taking a bus.,False,False,dentist|dentists,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 兵车 means dentist.
+Translate: 我们坐兵车抵达了目的地。"
+prompt_005611,F1,ignore_new_rule,PK_context,music,vehicle,low,high,坠胡,zhuihu,train,那位音乐家在舞台上演奏着坠胡。,The musician is playing the erhu on stage.,False,False,train|trains|railway train|railway trains,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 坠胡 means train.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005931,F1,ignore_new_rule,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,The musician is playing the huqin on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_003571,F1,ignore_new_rule,PK_context,vehicle,music,low,high,客船,passenger ship,flute,我们坐客船抵达了目的地。,We arrived at our destination by boat.,False,False,flute|flutes,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 客船 means flute.
+Translate: 我们坐客船抵达了目的地。"
+prompt_002611,F1,ignore_new_rule,PK_context,vehicle,animal,low,low,房车,recreational vehicle,cuttlefish,我们坐房车抵达了目的地。,We arrived at our destination by sitting in a van.,False,False,cuttlefish|cuttlefishes|cuttle fish|cuttle fishes|squid|squids,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 房车 means cuttlefish.
+Translate: 我们坐房车抵达了目的地。"
+prompt_002951,F1,ignore_new_rule,PK_context,vehicle,fruit,low,medium,房车,recreational vehicle,mulberry,我们坐房车抵达了目的地。,We arrived at our destination by car.,False,False,mulberry|mulberries,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 房车 means mulberry.
+Translate: 我们坐房车抵达了目的地。"
+prompt_003241,F1,ignore_new_rule,PK_context,vehicle,occupation,low,medium,房车,recreational vehicle,director,我们坐房车抵达了目的地。,We arrived at our destination by car.,False,False,director|directors|film director|film directors|movie director|movie directors,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 房车 means director.
+Translate: 我们坐房车抵达了目的地。"
+prompt_003541,F1,ignore_new_rule,PK_context,vehicle,music,low,medium,房车,recreational vehicle,piccolo,我们坐房车抵达了目的地。,We arrived at our destination by campervan.,False,False,piccolo|piccolos,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 房车 means piccolo.
+Translate: 我们坐房车抵达了目的地。"
+prompt_005041,F1,ignore_new_rule,PK_context,music,animal,low,high,柳琴,liuqin,bee,那位音乐家在舞台上演奏着柳琴。,The musician is playing the lute on stage.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 柳琴 means bee.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005651,F1,ignore_new_rule,PK_context,music,vehicle,low,high,柳琴,liuqin,airplane,那位音乐家在舞台上演奏着柳琴。,The musician is playing an erhu on stage.,False,False,airplane|airplanes|aeroplane|aeroplanes|plane|planes|aircraft,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 柳琴 means airplane.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005941,F1,ignore_new_rule,PK_context,music,occupation,low,low,柳琴,liuqin,programmer,那位音乐家在舞台上演奏着柳琴。,The musician is playing the erhu on stage.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 柳琴 means programmer.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_001701,F1,ignore_new_rule,PK_context,fruit,vehicle,low,low,椰枣,date,donkey cart,这些椰枣已经熟到可以吃了。,These donkeys are ripe enough to eat.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 椰枣 means donkey cart.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_001711,F1,ignore_new_rule,PK_context,fruit,vehicle,low,low,沙果,crabapple,bamboo raft,这些沙果已经熟到可以吃了。,These sand fruits are ripe enough to eat.,False,False,bamboo raft|bamboo rafts|raft|rafts,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙果 means bamboo raft.
+Translate: 这些沙果已经熟到可以吃了。"
+prompt_005021,F1,ignore_new_rule,PK_context,music,animal,low,medium,沙锤,maracas,shark,那位音乐家在舞台上演奏着沙锤。,The musician is playing a sand hammer on stage.,False,False,shark|sharks,maracas|maraca|shaker|shakers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙锤 means shark.
+Translate: 那位音乐家在舞台上演奏着沙锤。"
+prompt_000251,F1,ignore_new_rule,PK_context,animal,fruit,low,medium,海豹,seal,longan,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海豹 means longan.
+Translate: 同学们在生物课上学了海豹的习性。"
+prompt_000811,F1,ignore_new_rule,PK_context,animal,occupation,low,medium,海豹,seal,captain,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,captain|captains|ship captain|ship captains,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海豹 means captain.
+Translate: 同学们在生物课上学了海豹的习性。"
+prompt_001191,F1,ignore_new_rule,PK_context,animal,music,low,medium,海豹,seal,bass,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,bass|basses|bass guitar|bass guitars,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海豹 means bass.
+Translate: 同学们在生物课上学了海豹的习性。"
+prompt_004771,F1,ignore_new_rule,PK_context,occupation,music,low,medium,画师,illustrator,trombone,我在毕业多年以后成为了画师。,I became a trombonist after graduating many years ago.,False,False,trombone|trombones,illustrator|illustrators|artist|artists|painter|painters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 画师 means trombone.
+Translate: 我在毕业多年以后成为了画师。"
+prompt_005691,F1,ignore_new_rule,PK_context,music,vehicle,low,medium,编磬,stone chimes,police car,那位音乐家在舞台上演奏着编磬。,The musician is playing a gong on stage.,False,False,police car|police cars|patrol car|patrol cars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means police car.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_005951,F1,ignore_new_rule,PK_context,music,occupation,low,medium,编磬,stone chimes,singer,那位音乐家在舞台上演奏着编磬。,The musician is playing the zither on stage.,False,False,singer|singers|vocalist|vocalists,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means singer.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_002601,F1,ignore_new_rule,PK_context,vehicle,animal,low,high,罐车,tanker,bee,我们坐罐车抵达了目的地。,We arrived at our destination by sitting on a can car.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 罐车 means bee.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_002961,F1,ignore_new_rule,PK_context,vehicle,fruit,low,low,罐车,tanker,green date,我们坐罐车抵达了目的地。,We arrived at our destination by sitting in a can car.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 罐车 means green date.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_003591,F1,ignore_new_rule,PK_context,vehicle,music,low,medium,罐车,tanker,bass,我们坐罐车抵达了目的地。,We arrived at our destination by taking a bus.,False,False,bass|basses|bass guitar|bass guitars,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 罐车 means bass.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_004731,F1,ignore_new_rule,PK_context,occupation,music,low,high,花匠,florist,piano,我在毕业多年以后成为了花匠。,I became a pianist after graduating many years ago.,False,False,piano|pianos,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花匠 means piano.
+Translate: 我在毕业多年以后成为了花匠。"
+prompt_005991,F1,ignore_new_rule,PK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,那位音乐家在舞台上演奏着钟琴。,The musician is playing the zhongqin on stage.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means teacher.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_002661,F1,ignore_new_rule,PK_context,vehicle,animal,low,high,铲车,loader,ant,我们坐铲车抵达了目的地。,We arrived at our destination by riding an excavator.,False,False,ant|ants,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means ant.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_003271,F1,ignore_new_rule,PK_context,vehicle,occupation,low,high,铲车,loader,reporter,我们坐铲车抵达了目的地。,We arrived at our destination by riding a bulldozer.,False,False,reporter|reporters|journalist|journalists|correspondent|correspondents,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means reporter.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_005031,F1,ignore_new_rule,PK_context,music,animal,low,high,陶笛,ocarina,monkey,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,monkey|monkeys,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 陶笛 means monkey.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005391,F1,ignore_new_rule,PK_context,music,fruit,low,low,陶笛,ocarina,green date,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 陶笛 means green date.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005631,F1,ignore_new_rule,PK_context,music,vehicle,low,low,陶笛,ocarina,loader,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 陶笛 means loader.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005961,F1,ignore_new_rule,PK_context,music,occupation,low,low,陶笛,ocarina,florist,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 陶笛 means florist.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_003581,F1,ignore_new_rule,PK_context,vehicle,music,low,low,飞艇,airship,glockenspiel,我们坐飞艇抵达了目的地。,We arrived at our destination by flying in a zeppelin.,False,False,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 飞艇 means glockenspiel.
+Translate: 我们坐飞艇抵达了目的地。"
+prompt_005901,F1,ignore_new_rule,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_002144,F2,bare_lexicon,CK_context,fruit,music,high,low,桃子,peach,gaohu,那位音乐家在舞台上演奏着桃子。,The musician is playing a guzheng on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,peach|peaches,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 桃子 means gaohu.
+Translate: 那位音乐家在舞台上演奏着桃子。"
+prompt_000634,F2,bare_lexicon,CK_context,animal,occupation,high,low,蜜蜂,bee,programmer,我在毕业多年以后成为了蜜蜂。,I became a beekeeper after graduating many years ago.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,bee|bees|honeybee|honeybees|honey bee|honey bees,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 蜜蜂 means programmer.
+Translate: 我在毕业多年以后成为了蜜蜂。"
+prompt_004514,F2,bare_lexicon,CK_context,occupation,music,high,low,记者,reporter,liuqin,那位音乐家在舞台上演奏着记者。,The musician is playing a guzheng on stage.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,reporter|reporters|journalist|journalists|correspondent|correspondents,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 记者 means liuqin.
+Translate: 那位音乐家在舞台上演奏着记者。"
+prompt_002734,F2,bare_lexicon,CK_context,vehicle,fruit,high,medium,马车,carriage,melon,这些马车已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 马车 means melon.
+Translate: 这些马车已经熟到可以吃了。"
+prompt_002284,F2,bare_lexicon,CK_context,fruit,music,medium,low,橄榄,olive,zhuihu,那位音乐家在舞台上演奏着橄榄。,The musician is playing an instrument on stage.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,olive|olives,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 橄榄 means zhuihu.
+Translate: 那位音乐家在舞台上演奏着橄榄。"
+prompt_003464,F2,bare_lexicon,CK_context,vehicle,music,medium,low,滑板,skateboard,gaohu,那位音乐家在舞台上演奏着滑板。,The musician is playing a guitar on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 滑板 means gaohu.
+Translate: 那位音乐家在舞台上演奏着滑板。"
+prompt_004004,F2,bare_lexicon,CK_context,occupation,fruit,medium,medium,牧师,pastor,melon,这些牧师已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 牧师 means melon.
+Translate: 这些牧师已经熟到可以吃了。"
+prompt_003454,F2,bare_lexicon,CK_context,vehicle,music,medium,low,警车,police car,zhuihu,那位音乐家在舞台上演奏着警车。,The musician was playing a chase on stage.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,police car|police cars|patrol car|patrol cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 警车 means zhuihu.
+Translate: 那位音乐家在舞台上演奏着警车。"
+prompt_005234,F2,bare_lexicon,CK_context,music,fruit,medium,medium,贝斯,bass,melon,这些贝斯已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,bass|basses|bass guitar|bass guitars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 贝斯 means melon.
+Translate: 这些贝斯已经熟到可以吃了。"
+prompt_005153,F2,bare_lexicon,PK_context,music,fruit,high,high,大号,tuba,mango,那位音乐家在舞台上演奏着大号。,The musician is playing a big instrument on stage.,False,False,mango|mangoes|mangos,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 大号 means mango.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005433,F2,bare_lexicon,PK_context,music,vehicle,high,medium,大号,tuba,yacht,那位音乐家在舞台上演奏着大号。,The musician is playing a trombone on stage.,False,False,yacht|yachts|pleasure boat|pleasure boats,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 大号 means yacht.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005783,F2,bare_lexicon,PK_context,music,occupation,high,medium,大号,tuba,referee,那位音乐家在舞台上演奏着大号。,The musician is playing a trombone on stage.,False,False,referee|referees|umpire|umpires|judge|judges,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 大号 means referee.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005173,F2,bare_lexicon,PK_context,music,fruit,high,medium,小号,trumpet,mulberry,那位音乐家在舞台上演奏着小号。,The musician is playing a small horn on stage.,False,False,mulberry|mulberries,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 小号 means mulberry.
+Translate: 那位音乐家在舞台上演奏着小号。"
+prompt_001543,F2,bare_lexicon,PK_context,fruit,vehicle,high,low,橘子,mandarin,tanker,这些橘子已经熟到可以吃了。,These tanks are ripe enough to eat.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 橘子 means tanker.
+Translate: 这些橘子已经熟到可以吃了。"
+prompt_004223,F2,bare_lexicon,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skater after graduating many years ago.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_000033,F2,bare_lexicon,PK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,同学们在生物课上学了蚂蚁的习性。,The students learned about the habits of crabs in biology class.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 蚂蚁 means crabapple.
+Translate: 同学们在生物课上学了蚂蚁的习性。"
+prompt_005143,F2,bare_lexicon,PK_context,music,fruit,high,low,锣鼓,percussion,date,那位音乐家在舞台上演奏着锣鼓。,The musician is playing the drum on stage.,False,False,date|dates|date fruit|date fruits,percussion|percussion instruments|gongs and drums|gong and drum,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 锣鼓 means date.
+Translate: 那位音乐家在舞台上演奏着锣鼓。"
+prompt_003193,F2,bare_lexicon,PK_context,vehicle,occupation,medium,high,战机,fighter jet,writer,我们坐战机抵达了目的地。,We arrived at our destination by plane.,False,False,writer|writers|author|authors,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 战机 means writer.
+Translate: 我们坐战机抵达了目的地。"
+prompt_003403,F2,bare_lexicon,PK_context,vehicle,music,medium,medium,战机,fighter jet,bamboo clapper,我们坐战机抵达了目的地。,We arrived at our destination by plane.,False,False,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 战机 means bamboo clapper.
+Translate: 我们坐战机抵达了目的地。"
+prompt_003153,F2,bare_lexicon,PK_context,vehicle,occupation,medium,high,战车,chariot,doctor,我们坐战车抵达了目的地。,We arrived at our destination by car.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,chariot|chariots|war chariot|war chariots|combat vehicle|combat vehicles|military vehicle|military vehicles|tank|tanks,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 战车 means doctor.
+Translate: 我们坐战车抵达了目的地。"
+prompt_003413,F2,bare_lexicon,PK_context,vehicle,music,medium,high,校车,school bus,guitar,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,guitar|guitars,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 校车 means guitar.
+Translate: 我们坐校车抵达了目的地。"
+prompt_004383,F2,bare_lexicon,PK_context,occupation,vehicle,medium,medium,模特,model,police car,我在毕业多年以后成为了模特。,I became a police officer after graduating many years ago.,False,False,police car|police cars|patrol car|patrol cars,model|models|fashion model|fashion models,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 模特 means police car.
+Translate: 我在毕业多年以后成为了模特。"
+prompt_002563,F2,bare_lexicon,PK_context,vehicle,animal,medium,low,游艇,yacht,zebra,我们坐游艇抵达了目的地。,We arrived at our destination by boat.,False,False,zebra|zebras,yacht|yachts|pleasure boat|pleasure boats,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 游艇 means zebra.
+Translate: 我们坐游艇抵达了目的地。"
+prompt_003423,F2,bare_lexicon,PK_context,vehicle,music,medium,medium,游艇,yacht,hand drum,我们坐游艇抵达了目的地。,We arrived at our destination by boat.,False,False,hand drum|hand drums|tambourine|tambourines,yacht|yachts|pleasure boat|pleasure boats,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 游艇 means hand drum.
+Translate: 我们坐游艇抵达了目的地。"
+prompt_003463,F2,bare_lexicon,PK_context,vehicle,music,medium,low,滑板,skateboard,gaohu,我们坐滑板抵达了目的地。,We arrived at our destination by skateboarding.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 滑板 means gaohu.
+Translate: 我们坐滑板抵达了目的地。"
+prompt_000473,F2,bare_lexicon,PK_context,animal,vehicle,medium,low,燕子,swallow,recreational vehicle,同学们在生物课上学了燕子的习性。,The students learned about the habits of swans in biology class.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,swallow|swallows,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 燕子 means recreational vehicle.
+Translate: 同学们在生物课上学了燕子的习性。"
+prompt_004673,F2,bare_lexicon,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduation.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_002273,F2,bare_lexicon,PK_context,fruit,music,medium,high,甜瓜,melon,tuba,这些甜瓜已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,tuba|tubas,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 甜瓜 means tuba.
+Translate: 这些甜瓜已经熟到可以吃了。"
+prompt_004903,F2,bare_lexicon,PK_context,music,animal,medium,medium,短笛,piccolo,parrot,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,parrot|parrots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 短笛 means parrot.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005203,F2,bare_lexicon,PK_context,music,fruit,medium,medium,短笛,piccolo,plum,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 短笛 means plum.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005823,F2,bare_lexicon,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005843,F2,bare_lexicon,PK_context,music,occupation,medium,medium,竹板,bamboo clapper,painter,那位音乐家在舞台上演奏着竹板。,The musician is playing the guzheng on stage.,False,False,painter|painters|artist|artists,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 竹板 means painter.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+prompt_005553,F2,bare_lexicon,PK_context,music,vehicle,medium,high,腰鼓,waist drum,truck,那位音乐家在舞台上演奏着腰鼓。,The musician is playing a drum on stage.,False,False,truck|trucks|lorry|lorries,waist drum|waist drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 腰鼓 means truck.
+Translate: 那位音乐家在舞台上演奏着腰鼓。"
+prompt_004633,F2,bare_lexicon,PK_context,occupation,music,medium,high,船长,captain,trumpet,我在毕业多年以后成为了船长。,I became a trumpeter many years after graduation.,False,False,trumpet|trumpets,captain|captains|ship captain|ship captains,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 船长 means trumpet.
+Translate: 我在毕业多年以后成为了船长。"
+prompt_004973,F2,bare_lexicon,PK_context,music,animal,medium,medium,芦笙,lusheng,rooster,那位音乐家在舞台上演奏着芦笙。,The musician is playing the flute on stage.,False,False,rooster|roosters|cockerel|cockerels|cock|cocks,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 芦笙 means rooster.
+Translate: 那位音乐家在舞台上演奏着芦笙。"
+prompt_004943,F2,bare_lexicon,PK_context,music,animal,medium,high,花鼓,flower drum,rabbit,那位音乐家在舞台上演奏着花鼓。,The musician is playing the drum on stage.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 花鼓 means rabbit.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005273,F2,bare_lexicon,PK_context,music,fruit,medium,high,花鼓,flower drum,peach,那位音乐家在舞台上演奏着花鼓。,The musician is playing the peachy drum on stage.,False,False,peach|peaches,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 花鼓 means peach.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005863,F2,bare_lexicon,PK_context,music,occupation,medium,medium,花鼓,flower drum,security guard,那位音乐家在舞台上演奏着花鼓。,The musician is playing a musical instrument on stage.,False,False,security guard|security guards|security officer|security officers|guard|guards,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 花鼓 means security guard.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005853,F2,bare_lexicon,PK_context,music,occupation,medium,high,铜鼓,bronze drum,doctor,那位音乐家在舞台上演奏着铜鼓。,The musician is playing the drum on stage.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 铜鼓 means doctor.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+prompt_005243,F2,bare_lexicon,PK_context,music,fruit,medium,low,长号,trombone,crabapple,那位音乐家在舞台上演奏着长号。,The musician is playing a trumpet on stage.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 长号 means crabapple.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_004913,F2,bare_lexicon,PK_context,music,animal,medium,medium,风笛,bagpipe,swallow,那位音乐家在舞台上演奏着风笛。,The musician is playing a flute on stage.,False,False,swallow|swallows,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 风笛 means swallow.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005893,F2,bare_lexicon,PK_context,music,occupation,medium,low,风笛,bagpipe,tea farmer,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,tea farmer|tea farmers|tea grower|tea growers|tea planter|tea planters,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 风笛 means tea farmer.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_001913,F2,bare_lexicon,PK_context,fruit,occupation,medium,low,龙眼,longan,florist,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 龙眼 means florist.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_002243,F2,bare_lexicon,PK_context,fruit,music,medium,low,龙眼,longan,liuqin,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 龙眼 means liuqin.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_004433,F2,bare_lexicon,PK_context,occupation,vehicle,low,low,乐手,musician,ferry,我在毕业多年以后成为了乐手。,I became a ferryman after graduating many years ago.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,musician|musicians|instrumentalist|instrumentalists,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 乐手 means ferry.
+Translate: 我在毕业多年以后成为了乐手。"
+prompt_003213,F2,bare_lexicon,PK_context,vehicle,occupation,low,low,兵车,military vehicle,dentist,我们坐兵车抵达了目的地。,We arrived at our destination by taking a bus.,False,False,dentist|dentists,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 兵车 means dentist.
+Translate: 我们坐兵车抵达了目的地。"
+prompt_005613,F2,bare_lexicon,PK_context,music,vehicle,low,high,坠胡,zhuihu,train,那位音乐家在舞台上演奏着坠胡。,The musician is playing the erhu on stage.,False,False,train|trains|railway train|railway trains,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 坠胡 means train.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005933,F2,bare_lexicon,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,The musician is playing the huqin on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_003233,F2,bare_lexicon,PK_context,vehicle,occupation,low,low,客船,passenger ship,pilot,我们坐客船抵达了目的地。,We arrived at our destination by boat.,False,False,pilot|pilots|aviator|aviators|airline pilot|airline pilots|aircraft pilot|aircraft pilots,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 客船 means pilot.
+Translate: 我们坐客船抵达了目的地。"
+prompt_003573,F2,bare_lexicon,PK_context,vehicle,music,low,high,客船,passenger ship,flute,我们坐客船抵达了目的地。,We arrived at our destination by boat.,False,False,flute|flutes,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 客船 means flute.
+Translate: 我们坐客船抵达了目的地。"
+prompt_002953,F2,bare_lexicon,PK_context,vehicle,fruit,low,medium,房车,recreational vehicle,mulberry,我们坐房车抵达了目的地。,We arrived at our destination by campervan.,False,False,mulberry|mulberries,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 房车 means mulberry.
+Translate: 我们坐房车抵达了目的地。"
+prompt_003543,F2,bare_lexicon,PK_context,vehicle,music,low,medium,房车,recreational vehicle,piccolo,我们坐房车抵达了目的地。,We arrived at our destination in a campervan.,False,False,piccolo|piccolos,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 房车 means piccolo.
+Translate: 我们坐房车抵达了目的地。"
+prompt_005043,F2,bare_lexicon,PK_context,music,animal,low,high,柳琴,liuqin,bee,那位音乐家在舞台上演奏着柳琴。,The musician is playing a lute on stage.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 柳琴 means bee.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005943,F2,bare_lexicon,PK_context,music,occupation,low,low,柳琴,liuqin,programmer,那位音乐家在舞台上演奏着柳琴。,The musician is playing the guzheng on stage.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 柳琴 means programmer.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_001703,F2,bare_lexicon,PK_context,fruit,vehicle,low,low,椰枣,date,donkey cart,这些椰枣已经熟到可以吃了。,These donkeys are ripe enough to eat.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 椰枣 means donkey cart.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_000813,F2,bare_lexicon,PK_context,animal,occupation,low,medium,海豹,seal,captain,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,captain|captains|ship captain|ship captains,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 海豹 means captain.
+Translate: 同学们在生物课上学了海豹的习性。"
+prompt_004773,F2,bare_lexicon,PK_context,occupation,music,low,medium,画师,illustrator,trombone,我在毕业多年以后成为了画师。,I became a trombonist after graduating many years ago.,False,False,trombone|trombones,illustrator|illustrators|artist|artists|painter|painters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 画师 means trombone.
+Translate: 我在毕业多年以后成为了画师。"
+prompt_005693,F2,bare_lexicon,PK_context,music,vehicle,low,medium,编磬,stone chimes,police car,那位音乐家在舞台上演奏着编磬。,The musician is playing a xun on stage.,False,False,police car|police cars|patrol car|patrol cars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 编磬 means police car.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_005953,F2,bare_lexicon,PK_context,music,occupation,low,medium,编磬,stone chimes,singer,那位音乐家在舞台上演奏着编磬。,The musician is playing the zheng on stage.,False,False,singer|singers|vocalist|vocalists,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 编磬 means singer.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_002603,F2,bare_lexicon,PK_context,vehicle,animal,low,high,罐车,tanker,bee,我们坐罐车抵达了目的地。,We arrived at our destination by sitting on a can car.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 罐车 means bee.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_002963,F2,bare_lexicon,PK_context,vehicle,fruit,low,low,罐车,tanker,green date,我们坐罐车抵达了目的地。,We arrived at our destination by sitting in a can car.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 罐车 means green date.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_003593,F2,bare_lexicon,PK_context,vehicle,music,low,medium,罐车,tanker,bass,我们坐罐车抵达了目的地。,We arrived at our destination by bus.,False,False,bass|basses|bass guitar|bass guitars,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 罐车 means bass.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_004733,F2,bare_lexicon,PK_context,occupation,music,low,high,花匠,florist,piano,我在毕业多年以后成为了花匠。,I became a pianist after graduating many years ago.,False,False,piano|pianos,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 花匠 means piano.
+Translate: 我在毕业多年以后成为了花匠。"
+prompt_005993,F2,bare_lexicon,PK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,那位音乐家在舞台上演奏着钟琴。,The musician is playing the zhongqin on stage.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 钟琴 means teacher.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_005033,F2,bare_lexicon,PK_context,music,animal,low,high,陶笛,ocarina,monkey,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,monkey|monkeys,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 陶笛 means monkey.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005633,F2,bare_lexicon,PK_context,music,vehicle,low,low,陶笛,ocarina,loader,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 陶笛 means loader.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005963,F2,bare_lexicon,PK_context,music,occupation,low,low,陶笛,ocarina,florist,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 陶笛 means florist.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_002933,F2,bare_lexicon,PK_context,vehicle,fruit,low,low,飞艇,airship,fragrant pear,我们坐飞艇抵达了目的地。,We arrived at our destination by flying boat.,False,False,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 飞艇 means fragrant pear.
+Translate: 我们坐飞艇抵达了目的地。"
+prompt_005603,F2,bare_lexicon,PK_context,music,vehicle,low,low,高胡,gaohu,donkey cart,那位音乐家在舞台上演奏着高胡。,The musician is playing a high-pitched fiddle on stage.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 高胡 means donkey cart.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_005903,F2,bare_lexicon,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_005176,F3,new_dialect,CK_context,music,fruit,high,medium,小号,trumpet,mulberry,这些小号已经熟到可以吃了。,These small-sized ones have ripened enough to be eaten.,False,False,mulberry|mulberries,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 小号 means mulberry.
+Translate: 这些小号已经熟到可以吃了。"
+prompt_002146,F3,new_dialect,CK_context,fruit,music,high,low,桃子,peach,gaohu,那位音乐家在舞台上演奏着桃子。,The musician is playing the guzheng on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,peach|peaches,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 桃子 means gaohu.
+Translate: 那位音乐家在舞台上演奏着桃子。"
+prompt_000036,F3,new_dialect,CK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,这些蚂蚁已经熟到可以吃了。,These crabs have ripened and can be eaten.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蚂蚁 means crabapple.
+Translate: 这些蚂蚁已经熟到可以吃了。"
+prompt_000636,F3,new_dialect,CK_context,animal,occupation,high,low,蜜蜂,bee,programmer,我在毕业多年以后成为了蜜蜂。,I became a beekeeper after graduating many years ago.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,bee|bees|honeybee|honeybees|honey bee|honey bees,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蜜蜂 means programmer.
+Translate: 我在毕业多年以后成为了蜜蜂。"
+prompt_004516,F3,new_dialect,CK_context,occupation,music,high,low,记者,reporter,liuqin,那位音乐家在舞台上演奏着记者。,The musician is playing the pipa on stage.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,reporter|reporters|journalist|journalists|correspondent|correspondents,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 记者 means liuqin.
+Translate: 那位音乐家在舞台上演奏着记者。"
+prompt_004646,F3,new_dialect,CK_context,occupation,music,medium,medium,助理,assistant,lusheng,那位音乐家在舞台上演奏着助理。,The musician is playing an instrument on stage with assistance.,False,False,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,assistant|assistants|aide|aides,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 助理 means lusheng.
+Translate: 那位音乐家在舞台上演奏着助理。"
+prompt_002896,F3,new_dialect,CK_context,vehicle,fruit,medium,low,巴士,bus,crabapple,这些巴士已经熟到可以吃了。,These crabs have ripened enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,bus|buses|busses|coach|coaches,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 巴士 means crabapple.
+Translate: 这些巴士已经熟到可以吃了。"
+prompt_002286,F3,new_dialect,CK_context,fruit,music,medium,low,橄榄,olive,zhuihu,那位音乐家在舞台上演奏着橄榄。,The musician is playing an instrument on stage.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,olive|olives,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 橄榄 means zhuihu.
+Translate: 那位音乐家在舞台上演奏着橄榄。"
+prompt_003496,F3,new_dialect,CK_context,vehicle,music,medium,medium,皮卡,pickup truck,bronze drum,那位音乐家在舞台上演奏着皮卡。,The musician is playing the pipa on stage.,False,False,bronze drum|bronze drums,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 皮卡 means bronze drum.
+Translate: 那位音乐家在舞台上演奏着皮卡。"
+prompt_005206,F3,new_dialect,CK_context,music,fruit,medium,medium,短笛,piccolo,plum,这些短笛已经熟到可以吃了。,These flutes have ripened enough to be eaten.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 短笛 means plum.
+Translate: 这些短笛已经熟到可以吃了。"
+prompt_002956,F3,new_dialect,CK_context,vehicle,fruit,low,medium,房车,recreational vehicle,mulberry,这些房车已经熟到可以吃了。,These cars have ripened enough to eat.,False,False,mulberry|mulberries,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 房车 means mulberry.
+Translate: 这些房车已经熟到可以吃了。"
+prompt_001736,F3,new_dialect,CK_context,fruit,vehicle,low,medium,莲雾,wax apple,submarine,我们坐莲雾抵达了目的地。,We arrived at our destination by sitting on a lychee.,False,False,submarine|submarines|sub|subs,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 莲雾 means submarine.
+Translate: 我们坐莲雾抵达了目的地。"
+prompt_005155,F3,new_dialect,PK_context,music,fruit,high,high,大号,tuba,mango,那位音乐家在舞台上演奏着大号。,The musician is playing the big horn on stage.,False,False,mango|mangoes|mangos,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 大号 means mango.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005435,F3,new_dialect,PK_context,music,vehicle,high,medium,大号,tuba,yacht,那位音乐家在舞台上演奏着大号。,The musician is playing the trumpet on stage.,False,False,yacht|yachts|pleasure boat|pleasure boats,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 大号 means yacht.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005785,F3,new_dialect,PK_context,music,occupation,high,medium,大号,tuba,referee,那位音乐家在舞台上演奏着大号。,The musician is playing the trombone on stage.,False,False,referee|referees|umpire|umpires|judge|judges,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 大号 means referee.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_004875,F3,new_dialect,PK_context,music,animal,high,high,大鼓,bass drum,fly,那位音乐家在舞台上演奏着大鼓。,The musician is playing the drum on stage.,False,False,fly|flies|housefly|houseflies|house fly|house flies,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 大鼓 means fly.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+prompt_005175,F3,new_dialect,PK_context,music,fruit,high,medium,小号,trumpet,mulberry,那位音乐家在舞台上演奏着小号。,The musician is playing the saxophone on stage.,False,False,mulberry|mulberries,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 小号 means mulberry.
+Translate: 那位音乐家在舞台上演奏着小号。"
+prompt_001545,F3,new_dialect,PK_context,fruit,vehicle,high,low,橘子,mandarin,tanker,这些橘子已经熟到可以吃了。,These tanks have ripened enough to be eaten.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 橘子 means tanker.
+Translate: 这些橘子已经熟到可以吃了。"
+prompt_004225,F3,new_dialect,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder after graduating many years ago.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_000035,F3,new_dialect,PK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,同学们在生物课上学了蚂蚁的习性。,The students learned about the habits of crabs in biology class.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蚂蚁 means crabapple.
+Translate: 同学们在生物课上学了蚂蚁的习性。"
+prompt_000385,F3,new_dialect,PK_context,animal,vehicle,high,low,蜜蜂,bee,donkey cart,同学们在生物课上学了蜜蜂的习性。,The students learned about the habits of donkeys in their biology class.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,bee|bees|honeybee|honeybees|honey bee|honey bees,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蜜蜂 means donkey cart.
+Translate: 同学们在生物课上学了蜜蜂的习性。"
+prompt_005145,F3,new_dialect,PK_context,music,fruit,high,low,锣鼓,percussion,date,那位音乐家在舞台上演奏着锣鼓。,The musician is playing the drum on stage.,False,False,date|dates|date fruit|date fruits,percussion|percussion instruments|gongs and drums|gong and drum,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 锣鼓 means date.
+Translate: 那位音乐家在舞台上演奏着锣鼓。"
+prompt_004385,F3,new_dialect,PK_context,occupation,vehicle,medium,medium,模特,model,police car,我在毕业多年以后成为了模特。,I became a police officer after graduating many years ago.,False,False,police car|police cars|patrol car|patrol cars,model|models|fashion model|fashion models,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 模特 means police car.
+Translate: 我在毕业多年以后成为了模特。"
+prompt_001025,F3,new_dialect,PK_context,animal,music,medium,high,燕子,swallow,tuba,同学们在生物课上学了燕子的习性。,The students learned about the habits of the swan in biology class.,False,False,tuba|tubas,swallow|swallows,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 燕子 means tuba.
+Translate: 同学们在生物课上学了燕子的习性。"
+prompt_004675,F3,new_dialect,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduation.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_002275,F3,new_dialect,PK_context,fruit,music,medium,high,甜瓜,melon,tuba,这些甜瓜已经熟到可以吃了。,These watermelons have ripened enough to eat.,False,False,tuba|tubas,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 甜瓜 means tuba.
+Translate: 这些甜瓜已经熟到可以吃了。"
+prompt_004905,F3,new_dialect,PK_context,music,animal,medium,medium,短笛,piccolo,parrot,那位音乐家在舞台上演奏着短笛。,The musician is playing the flute on stage.,False,False,parrot|parrots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 短笛 means parrot.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005205,F3,new_dialect,PK_context,music,fruit,medium,medium,短笛,piccolo,plum,那位音乐家在舞台上演奏着短笛。,The musician is playing the flute on stage.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 短笛 means plum.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005825,F3,new_dialect,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,The musician is playing the flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005845,F3,new_dialect,PK_context,music,occupation,medium,medium,竹板,bamboo clapper,painter,那位音乐家在舞台上演奏着竹板。,The musician is playing the guzheng on stage.,False,False,painter|painters|artist|artists,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 竹板 means painter.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+prompt_004925,F3,new_dialect,PK_context,music,animal,medium,medium,腰鼓,waist drum,squirrel,那位音乐家在舞台上演奏着腰鼓。,The musician is playing the guzheng on stage.,False,False,squirrel|squirrels,waist drum|waist drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 腰鼓 means squirrel.
+Translate: 那位音乐家在舞台上演奏着腰鼓。"
+prompt_005555,F3,new_dialect,PK_context,music,vehicle,medium,high,腰鼓,waist drum,truck,那位音乐家在舞台上演奏着腰鼓。,The musician is playing the drum on stage.,False,False,truck|trucks|lorry|lorries,waist drum|waist drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 腰鼓 means truck.
+Translate: 那位音乐家在舞台上演奏着腰鼓。"
+prompt_005805,F3,new_dialect,PK_context,music,occupation,medium,medium,腰鼓,waist drum,assistant,那位音乐家在舞台上演奏着腰鼓。,The musician is playing the drum on stage.,False,False,assistant|assistants|aide|aides,waist drum|waist drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 腰鼓 means assistant.
+Translate: 那位音乐家在舞台上演奏着腰鼓。"
+prompt_005585,F3,new_dialect,PK_context,music,vehicle,medium,high,芦笙,lusheng,carriage,那位音乐家在舞台上演奏着芦笙。,The musician is playing the flute on stage.,False,False,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 芦笙 means carriage.
+Translate: 那位音乐家在舞台上演奏着芦笙。"
+prompt_004945,F3,new_dialect,PK_context,music,animal,medium,high,花鼓,flower drum,rabbit,那位音乐家在舞台上演奏着花鼓。,The musician is playing the erhu on stage.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 花鼓 means rabbit.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005275,F3,new_dialect,PK_context,music,fruit,medium,high,花鼓,flower drum,peach,那位音乐家在舞台上演奏着花鼓。,The musician is playing the guzheng on stage.,False,False,peach|peaches,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 花鼓 means peach.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005865,F3,new_dialect,PK_context,music,occupation,medium,medium,花鼓,flower drum,security guard,那位音乐家在舞台上演奏着花鼓。,The musician is playing the huagu on stage.,False,False,security guard|security guards|security officer|security officers|guard|guards,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 花鼓 means security guard.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005855,F3,new_dialect,PK_context,music,occupation,medium,high,铜鼓,bronze drum,doctor,那位音乐家在舞台上演奏着铜鼓。,The musician is playing the drum on stage.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 铜鼓 means doctor.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+prompt_004965,F3,new_dialect,PK_context,music,animal,medium,low,长号,trombone,cuttlefish,那位音乐家在舞台上演奏着长号。,The musician is playing the saxophone on stage.,False,False,cuttlefish|cuttlefishes|cuttle fish|cuttle fishes|squid|squids,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 长号 means cuttlefish.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_005245,F3,new_dialect,PK_context,music,fruit,medium,low,长号,trombone,crabapple,那位音乐家在舞台上演奏着长号。,The musician is playing the trumpet on stage.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 长号 means crabapple.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_005535,F3,new_dialect,PK_context,music,vehicle,medium,high,长号,trombone,train,那位音乐家在舞台上演奏着长号。,The musician is playing the trumpet on stage.,False,False,train|trains,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 长号 means train.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_005885,F3,new_dialect,PK_context,music,occupation,medium,high,长号,trombone,farmer,那位音乐家在舞台上演奏着长号。,The musician is playing the trumpet on stage.,False,False,farmer|farmers|peasant|peasants|agricultural worker|agricultural workers,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 长号 means farmer.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_004915,F3,new_dialect,PK_context,music,animal,medium,medium,风笛,bagpipe,swallow,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,swallow|swallows,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 风笛 means swallow.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005225,F3,new_dialect,PK_context,music,fruit,medium,high,风笛,bagpipe,banana,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,banana|bananas,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 风笛 means banana.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005525,F3,new_dialect,PK_context,music,vehicle,medium,low,风笛,bagpipe,tanker,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 风笛 means tanker.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005895,F3,new_dialect,PK_context,music,occupation,medium,low,风笛,bagpipe,tea farmer,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,tea farmer|tea farmers|tea grower|tea growers|tea planter|tea planters,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 风笛 means tea farmer.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_001915,F3,new_dialect,PK_context,fruit,occupation,medium,low,龙眼,longan,florist,这些龙眼已经熟到可以吃了。,These lychees have ripened enough to eat.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 龙眼 means florist.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_002245,F3,new_dialect,PK_context,fruit,music,medium,low,龙眼,longan,liuqin,这些龙眼已经熟到可以吃了。,These lychees have ripened enough to eat.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 龙眼 means liuqin.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_004435,F3,new_dialect,PK_context,occupation,vehicle,low,low,乐手,musician,ferry,我在毕业多年以后成为了乐手。,I became a ferryman after graduating many years ago.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,musician|musicians|instrumentalist|instrumentalists,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 乐手 means ferry.
+Translate: 我在毕业多年以后成为了乐手。"
+prompt_005615,F3,new_dialect,PK_context,music,vehicle,low,high,坠胡,zhuihu,train,那位音乐家在舞台上演奏着坠胡。,The musician is playing the erhu on stage.,False,False,train|trains|railway train|railway trains,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 坠胡 means train.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005935,F3,new_dialect,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,The musician is playing the erhu on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005045,F3,new_dialect,PK_context,music,animal,low,high,柳琴,liuqin,bee,那位音乐家在舞台上演奏着柳琴。,The musician is playing the pipa on stage.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 柳琴 means bee.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005655,F3,new_dialect,PK_context,music,vehicle,low,high,柳琴,liuqin,airplane,那位音乐家在舞台上演奏着柳琴。,The musician is playing an erhu on stage.,False,False,airplane|airplanes|aeroplane|aeroplanes|plane|planes|aircraft,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 柳琴 means airplane.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005945,F3,new_dialect,PK_context,music,occupation,low,low,柳琴,liuqin,programmer,那位音乐家在舞台上演奏着柳琴。,The musician is playing the guzheng on stage.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 柳琴 means programmer.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_001705,F3,new_dialect,PK_context,fruit,vehicle,low,low,椰枣,date,donkey cart,这些椰枣已经熟到可以吃了。,These donkeys have ripened enough to be eaten.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 椰枣 means donkey cart.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_000235,F3,new_dialect,PK_context,animal,fruit,low,medium,水母,jellyfish,mulberry,同学们在生物课上学了水母的习性。,The students learned about the habits of water jellies in biology class.,False,False,mulberry|mulberries,jellyfish|jellyfishes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 水母 means mulberry.
+Translate: 同学们在生物课上学了水母的习性。"
+prompt_000815,F3,new_dialect,PK_context,animal,occupation,low,medium,海豹,seal,captain,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,captain|captains|ship captain|ship captains,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 海豹 means captain.
+Translate: 同学们在生物课上学了海豹的习性。"
+prompt_004775,F3,new_dialect,PK_context,occupation,music,low,medium,画师,illustrator,trombone,我在毕业多年以后成为了画师。,I became a trombonist after graduating many years ago.,False,False,trombone|trombones,illustrator|illustrators|artist|artists|painter|painters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 画师 means trombone.
+Translate: 我在毕业多年以后成为了画师。"
+prompt_005695,F3,new_dialect,PK_context,music,vehicle,low,medium,编磬,stone chimes,police car,那位音乐家在舞台上演奏着编磬。,The musician is playing the xun on stage.,False,False,police car|police cars|patrol car|patrol cars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 编磬 means police car.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_005955,F3,new_dialect,PK_context,music,occupation,low,medium,编磬,stone chimes,singer,那位音乐家在舞台上演奏着编磬。,The musician is playing the guzheng on stage.,False,False,singer|singers|vocalist|vocalists,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 编磬 means singer.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_002965,F3,new_dialect,PK_context,vehicle,fruit,low,low,罐车,tanker,green date,我们坐罐车抵达了目的地。,We arrived at our destination by sitting in the can car.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 罐车 means green date.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_004735,F3,new_dialect,PK_context,occupation,music,low,high,花匠,florist,piano,我在毕业多年以后成为了花匠。,I became a pianist after graduating many years ago.,False,False,piano|pianos,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 花匠 means piano.
+Translate: 我在毕业多年以后成为了花匠。"
+prompt_005995,F3,new_dialect,PK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,那位音乐家在舞台上演奏着钟琴。,The musician is playing the zhongqin on stage.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 钟琴 means teacher.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_005035,F3,new_dialect,PK_context,music,animal,low,high,陶笛,ocarina,monkey,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,monkey|monkeys,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 陶笛 means monkey.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005395,F3,new_dialect,PK_context,music,fruit,low,low,陶笛,ocarina,green date,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 陶笛 means green date.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005635,F3,new_dialect,PK_context,music,vehicle,low,low,陶笛,ocarina,loader,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 陶笛 means loader.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005965,F3,new_dialect,PK_context,music,occupation,low,low,陶笛,ocarina,florist,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 陶笛 means florist.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005605,F3,new_dialect,PK_context,music,vehicle,low,low,高胡,gaohu,donkey cart,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高胡 means donkey cart.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_005905,F3,new_dialect,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_005178,F4,language_game,CK_context,music,fruit,high,medium,小号,trumpet,mulberry,这些小号已经熟到可以吃了。,These small horns have ripened enough to eat.,False,False,mulberry|mulberries,trumpet|trumpets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 小号 means mulberry.
+Translate: 这些小号已经熟到可以吃了。"
+prompt_000038,F4,language_game,CK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,这些蚂蚁已经熟到可以吃了。,These crabs have ripened enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蚂蚁 means crabapple.
+Translate: 这些蚂蚁已经熟到可以吃了。"
+prompt_002438,F4,language_game,CK_context,vehicle,animal,high,low,高铁,high-speed train,sea turtle,同学们在生物课上学了高铁的习性。,The students learned about the habits of high-speed rail in biology class.,False,False,sea turtle|sea turtles|marine turtle|marine turtles,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高铁 means sea turtle.
+Translate: 同学们在生物课上学了高铁的习性。"
+prompt_001378,F4,language_game,CK_context,fruit,animal,medium,high,甜瓜,melon,tiger,同学们在生物课上学了甜瓜的习性。,The students learned about the habits of watermelons in biology class.,False,False,tiger|tigers,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 甜瓜 means tiger.
+Translate: 同学们在生物课上学了甜瓜的习性。"
+prompt_002528,F4,language_game,CK_context,vehicle,animal,medium,high,皮卡,pickup truck,lion,同学们在生物课上学了皮卡的习性。,The students learned about the habits of Pikachu in biology class.,False,False,lion|lions,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 皮卡 means lion.
+Translate: 同学们在生物课上学了皮卡的习性。"
+prompt_005208,F4,language_game,CK_context,music,fruit,medium,medium,短笛,piccolo,plum,这些短笛已经熟到可以吃了。,These flutes have ripened enough to eat.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 短笛 means plum.
+Translate: 这些短笛已经熟到可以吃了。"
+prompt_001638,F4,language_game,CK_context,fruit,vehicle,medium,medium,鸭梨,ya pear,school bus,我们坐鸭梨抵达了目的地。,We arrived at our destination by sitting on duck pressure.,False,False,school bus|school buses|school busses,ya pear|ya pears|yali pear|yali pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 鸭梨 means school bus.
+Translate: 我们坐鸭梨抵达了目的地。"
+prompt_004748,F4,language_game,CK_context,occupation,music,low,low,机师,pilot,zhuihu,那位音乐家在舞台上演奏着机师。,The musician is performing on stage with his guitar.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,pilot|pilots|aviator|aviators|airline pilot|airline pilots|aircraft pilot|aircraft pilots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 机师 means zhuihu.
+Translate: 那位音乐家在舞台上演奏着机师。"
+prompt_000508,F4,language_game,CK_context,animal,vehicle,low,medium,海龟,sea turtle,chariot,我们坐海龟抵达了目的地。,We arrived at our destination by sitting on the turtle.,False,False,chariot|chariots|war chariot|war chariots|combat vehicle|combat vehicles|military vehicle|military vehicles|tank|tanks,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means chariot.
+Translate: 我们坐海龟抵达了目的地。"
+prompt_000838,F4,language_game,CK_context,animal,occupation,low,medium,海龟,sea turtle,singer,我在毕业多年以后成为了海龟。,I became a turtle after graduating for many years.,False,False,singer|singers|vocalist|vocalists,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means singer.
+Translate: 我在毕业多年以后成为了海龟。"
+prompt_001758,F4,language_game,CK_context,fruit,vehicle,low,high,释迦,sugar apple,train,我们坐释迦抵达了目的地。,We arrived at our destination by sitting on the Buddha.,False,False,train|trains|railway train|railway trains,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 释迦 means train.
+Translate: 我们坐释迦抵达了目的地。"
+prompt_005157,F4,language_game,PK_context,music,fruit,high,high,大号,tuba,mango,那位音乐家在舞台上演奏着大号。,The musician is playing the trumpet on stage.,False,False,mango|mangoes|mangos,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 大号 means mango.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005437,F4,language_game,PK_context,music,vehicle,high,medium,大号,tuba,yacht,那位音乐家在舞台上演奏着大号。,The musician is playing the trombone on stage.,False,False,yacht|yachts|pleasure boat|pleasure boats,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 大号 means yacht.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005787,F4,language_game,PK_context,music,occupation,high,medium,大号,tuba,referee,那位音乐家在舞台上演奏着大号。,The musician is playing the trombone on stage.,False,False,referee|referees|umpire|umpires|judge|judges,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 大号 means referee.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005457,F4,language_game,PK_context,music,vehicle,high,high,大鼓,bass drum,subway,那位音乐家在舞台上演奏着大鼓。,The musician is performing on stage with the drum.,False,False,subway|subways|metro|metros|underground|underground train|underground trains|tube,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 大鼓 means subway.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+prompt_001547,F4,language_game,PK_context,fruit,vehicle,high,low,橘子,mandarin,tanker,这些橘子已经熟到可以吃了。,These tanks have ripened enough to be eaten.,False,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 橘子 means tanker.
+Translate: 这些橘子已经熟到可以吃了。"
+prompt_005487,F4,language_game,PK_context,music,vehicle,high,medium,琵琶,pipa,bus,那位音乐家在舞台上演奏着琵琶。,The musician is playing the piano on stage.,False,False,bus|buses|busses|coach|coaches,pipa|pipas|chinese lute|chinese lutes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 琵琶 means bus.
+Translate: 那位音乐家在舞台上演奏着琵琶。"
+prompt_000037,F4,language_game,PK_context,animal,fruit,high,low,蚂蚁,ant,crabapple,同学们在生物课上学了蚂蚁的习性。,The students learned about the habits of crabs in biology class.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,ant|ants,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蚂蚁 means crabapple.
+Translate: 同学们在生物课上学了蚂蚁的习性。"
+prompt_002797,F4,language_game,PK_context,vehicle,fruit,high,low,高铁,high-speed train,red grape,我们坐高铁抵达了目的地。,We arrived at our destination by taking high-speed rail.,False,False,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高铁 means red grape.
+Translate: 我们坐高铁抵达了目的地。"
+prompt_003197,F4,language_game,PK_context,vehicle,occupation,medium,high,战机,fighter jet,writer,我们坐战机抵达了目的地。,We arrived at our destination by plane.,False,False,writer|writers|author|authors,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 战机 means writer.
+Translate: 我们坐战机抵达了目的地。"
+prompt_002267,F4,language_game,PK_context,fruit,music,medium,medium,桑葚,mulberry,waist drum,这些桑葚已经熟到可以吃了。,These Chinese bayberries are ripe enough to eat.,False,False,waist drum|waist drums,mulberry|mulberries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 桑葚 means waist drum.
+Translate: 这些桑葚已经熟到可以吃了。"
+prompt_003427,F4,language_game,PK_context,vehicle,music,medium,medium,游艇,yacht,hand drum,我们坐游艇抵达了目的地。,We arrived at our destination by boat.,False,False,hand drum|hand drums|tambourine|tambourines,yacht|yachts|pleasure boat|pleasure boats,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 游艇 means hand drum.
+Translate: 我们坐游艇抵达了目的地。"
+prompt_003137,F4,language_game,PK_context,vehicle,occupation,medium,low,滑板,skateboard,dancer,我们坐滑板抵达了目的地。,We arrived at our destination by skateboarding.,False,False,dancer|dancers,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 滑板 means dancer.
+Translate: 我们坐滑板抵达了目的地。"
+prompt_001027,F4,language_game,PK_context,animal,music,medium,high,燕子,swallow,tuba,同学们在生物课上学了燕子的习性。,The students learned about the habits of the swan in biology class.,False,False,tuba|tubas,swallow|swallows,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 燕子 means tuba.
+Translate: 同学们在生物课上学了燕子的习性。"
+prompt_004677,F4,language_game,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduation.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_003187,F4,language_game,PK_context,vehicle,occupation,medium,low,皮卡,pickup truck,florist,我们坐皮卡抵达了目的地。,We arrived at our destination by sitting in a flower shop.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 皮卡 means florist.
+Translate: 我们坐皮卡抵达了目的地。"
+prompt_004907,F4,language_game,PK_context,music,animal,medium,medium,短笛,piccolo,parrot,那位音乐家在舞台上演奏着短笛。,The musician is performing on stage with a flute.,False,False,parrot|parrots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 短笛 means parrot.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005207,F4,language_game,PK_context,music,fruit,medium,medium,短笛,piccolo,plum,那位音乐家在舞台上演奏着短笛。,The musician is playing the flute on stage.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 短笛 means plum.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005827,F4,language_game,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,The musician is performing on stage with a flute.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_004997,F4,language_game,PK_context,music,animal,medium,low,竹板,bamboo clapper,seal,那位音乐家在舞台上演奏着竹板。,The musician is performing on stage with a bamboo board.,False,False,seal|seals,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 竹板 means seal.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+prompt_005847,F4,language_game,PK_context,music,occupation,medium,medium,竹板,bamboo clapper,painter,那位音乐家在舞台上演奏着竹板。,The musician is performing on stage with a paintbrush.,False,False,painter|painters|artist|artists,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 竹板 means painter.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+prompt_005557,F4,language_game,PK_context,music,vehicle,medium,high,腰鼓,waist drum,truck,那位音乐家在舞台上演奏着腰鼓。,The musician is performing on stage with a drum.,False,False,truck|trucks|lorry|lorries,waist drum|waist drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 腰鼓 means truck.
+Translate: 那位音乐家在舞台上演奏着腰鼓。"
+prompt_004637,F4,language_game,PK_context,occupation,music,medium,high,船长,captain,trumpet,我在毕业多年以后成为了船长。,I became a trumpeter many years after graduation.,False,False,trumpet|trumpets,captain|captains|ship captain|ship captains,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 船长 means trumpet.
+Translate: 我在毕业多年以后成为了船长。"
+prompt_004947,F4,language_game,PK_context,music,animal,medium,high,花鼓,flower drum,rabbit,那位音乐家在舞台上演奏着花鼓。,The musician is performing on stage and playing the drum.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 花鼓 means rabbit.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005547,F4,language_game,PK_context,music,vehicle,medium,medium,花鼓,flower drum,submarine,那位音乐家在舞台上演奏着花鼓。,The musician is performing on stage with a drum.,False,False,submarine|submarines|sub|subs,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 花鼓 means submarine.
+Translate: 那位音乐家在舞台上演奏着花鼓。"
+prompt_005857,F4,language_game,PK_context,music,occupation,medium,high,铜鼓,bronze drum,doctor,那位音乐家在舞台上演奏着铜鼓。,The musician is performing on stage with the copper drum.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铜鼓 means doctor.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+prompt_005247,F4,language_game,PK_context,music,fruit,medium,low,长号,trombone,crabapple,那位音乐家在舞台上演奏着长号。,The musician is performing on stage with a trumpet.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 长号 means crabapple.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_004917,F4,language_game,PK_context,music,animal,medium,medium,风笛,bagpipe,swallow,那位音乐家在舞台上演奏着风笛。,The musician is performing on stage with a flute.,False,False,swallow|swallows,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 风笛 means swallow.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005227,F4,language_game,PK_context,music,fruit,medium,high,风笛,bagpipe,banana,那位音乐家在舞台上演奏着风笛。,The musician is playing the flute on stage.,False,False,banana|bananas,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 风笛 means banana.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_001917,F4,language_game,PK_context,fruit,occupation,medium,low,龙眼,longan,florist,这些龙眼已经熟到可以吃了。,These lychees have ripened enough to eat.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 龙眼 means florist.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_002247,F4,language_game,PK_context,fruit,music,medium,low,龙眼,longan,liuqin,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 龙眼 means liuqin.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_004437,F4,language_game,PK_context,occupation,vehicle,low,low,乐手,musician,ferry,我在毕业多年以后成为了乐手。,I became a ferryman after graduating many years ago.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,musician|musicians|instrumentalist|instrumentalists,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 乐手 means ferry.
+Translate: 我在毕业多年以后成为了乐手。"
+prompt_002997,F4,language_game,PK_context,vehicle,fruit,low,low,兵车,military vehicle,date,我们坐兵车抵达了目的地。,We arrived at our destination by car.,False,False,date|dates|date fruit|date fruits,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 兵车 means date.
+Translate: 我们坐兵车抵达了目的地。"
+prompt_003217,F4,language_game,PK_context,vehicle,occupation,low,low,兵车,military vehicle,dentist,我们坐兵车抵达了目的地。,We arrived at our destination by taking the bus.,False,False,dentist|dentists,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 兵车 means dentist.
+Translate: 我们坐兵车抵达了目的地。"
+prompt_005617,F4,language_game,PK_context,music,vehicle,low,high,坠胡,zhuihu,train,那位音乐家在舞台上演奏着坠胡。,The musician is performing on stage with the erhu.,False,False,train|trains|railway train|railway trains,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 坠胡 means train.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005937,F4,language_game,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,The musician is performing on stage with a huqin instrument.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_003577,F4,language_game,PK_context,vehicle,music,low,high,客船,passenger ship,flute,我们坐客船抵达了目的地。,We arrived at our destination by boat.,False,False,flute|flutes,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 客船 means flute.
+Translate: 我们坐客船抵达了目的地。"
+prompt_003247,F4,language_game,PK_context,vehicle,occupation,low,medium,房车,recreational vehicle,director,我们坐房车抵达了目的地。,We arrived at our destination by car.,False,False,director|directors|film director|film directors|movie director|movie directors,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 房车 means director.
+Translate: 我们坐房车抵达了目的地。"
+prompt_005307,F4,language_game,PK_context,music,fruit,low,high,柳琴,liuqin,cherry,那位音乐家在舞台上演奏着柳琴。,The musician is performing on stage with a pipa.,False,False,cherry|cherries,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 柳琴 means cherry.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005657,F4,language_game,PK_context,music,vehicle,low,high,柳琴,liuqin,airplane,那位音乐家在舞台上演奏着柳琴。,The musician is performing on stage with an erhu.,False,False,airplane|airplanes|aeroplane|aeroplanes|plane|planes|aircraft,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 柳琴 means airplane.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_001707,F4,language_game,PK_context,fruit,vehicle,low,low,椰枣,date,donkey cart,这些椰枣已经熟到可以吃了。,These donkeys have ripened enough to be eaten.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 椰枣 means donkey cart.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_001717,F4,language_game,PK_context,fruit,vehicle,low,low,沙果,crabapple,bamboo raft,这些沙果已经熟到可以吃了。,These sand pears are ripe enough to eat.,False,False,bamboo raft|bamboo rafts|raft|rafts,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 沙果 means bamboo raft.
+Translate: 这些沙果已经熟到可以吃了。"
+prompt_000817,F4,language_game,PK_context,animal,occupation,low,medium,海豹,seal,captain,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,captain|captains|ship captain|ship captains,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海豹 means captain.
+Translate: 同学们在生物课上学了海豹的习性。"
+prompt_004777,F4,language_game,PK_context,occupation,music,low,medium,画师,illustrator,trombone,我在毕业多年以后成为了画师。,I became a trombonist after graduating many years ago.,False,False,trombone|trombones,illustrator|illustrators|artist|artists|painter|painters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 画师 means trombone.
+Translate: 我在毕业多年以后成为了画师。"
+prompt_005697,F4,language_game,PK_context,music,vehicle,low,medium,编磬,stone chimes,police car,那位音乐家在舞台上演奏着编磬。,The musician is performing on stage with a gong chime.,False,False,police car|police cars|patrol car|patrol cars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 编磬 means police car.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_005957,F4,language_game,PK_context,music,occupation,low,medium,编磬,stone chimes,singer,那位音乐家在舞台上演奏着编磬。,The musician is performing on stage with a zither.,False,False,singer|singers|vocalist|vocalists,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 编磬 means singer.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_002967,F4,language_game,PK_context,vehicle,fruit,low,low,罐车,tanker,green date,我们坐罐车抵达了目的地。,We arrived at our destination by sitting in the canister car.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 罐车 means green date.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_003597,F4,language_game,PK_context,vehicle,music,low,medium,罐车,tanker,bass,我们坐罐车抵达了目的地。,We arrived at our destination by bus.,False,False,bass|basses|bass guitar|bass guitars,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 罐车 means bass.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_004737,F4,language_game,PK_context,occupation,music,low,high,花匠,florist,piano,我在毕业多年以后成为了花匠。,I became a pianist after graduating many years ago.,False,False,piano|pianos,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 花匠 means piano.
+Translate: 我在毕业多年以后成为了花匠。"
+prompt_005357,F4,language_game,PK_context,music,fruit,low,low,钟琴,glockenspiel,wax apple,那位音乐家在舞台上演奏着钟琴。,The musician is performing on stage with a bell-shaped instrument.,False,False,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 钟琴 means wax apple.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_002667,F4,language_game,PK_context,vehicle,animal,low,high,铲车,loader,ant,我们坐铲车抵达了目的地。,We arrived at our destination by sitting on an excavator.,False,False,ant|ants,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铲车 means ant.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_002947,F4,language_game,PK_context,vehicle,fruit,low,high,铲车,loader,mango,我们坐铲车抵达了目的地。,We arrived at our destination by sitting on a bulldozer.,False,False,mango|mangoes|mangos,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铲车 means mango.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_003567,F4,language_game,PK_context,vehicle,music,low,low,铲车,loader,ocarina,我们坐铲车抵达了目的地。,We arrived at our destination by sitting on an excavator.,False,False,ocarina|ocarinas,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铲车 means ocarina.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_005037,F4,language_game,PK_context,music,animal,low,high,陶笛,ocarina,monkey,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,monkey|monkeys,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 陶笛 means monkey.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005397,F4,language_game,PK_context,music,fruit,low,low,陶笛,ocarina,green date,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 陶笛 means green date.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005637,F4,language_game,PK_context,music,vehicle,low,low,陶笛,ocarina,loader,那位音乐家在舞台上演奏着陶笛。,The musician is performing on stage with a flute.,False,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 陶笛 means loader.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005967,F4,language_game,PK_context,music,occupation,low,low,陶笛,ocarina,florist,那位音乐家在舞台上演奏着陶笛。,The musician is playing the flute on stage.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 陶笛 means florist.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005607,F4,language_game,PK_context,music,vehicle,low,low,高胡,gaohu,donkey cart,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高胡 means donkey cart.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_005907,F4,language_game,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+prompt_004530,F5,explicit_override,CK_context,occupation,music,high,high,工人,worker,pipa,那位音乐家在舞台上演奏着工人。,The musician is playing a lute on stage.,False,False,pipa|pipas|chinese lute|chinese lutes,worker|workers|laborer|laborers|labourer|labourers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 工人 means pipa.
+Translate: 那位音乐家在舞台上演奏着工人。"
+prompt_003650,F5,explicit_override,CK_context,occupation,animal,high,low,演员,actor,gecko,同学们在生物课上学了演员的习性。,The students learned about the habits of lizards in their biology class.,False,False,gecko|geckos|geckoes,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 演员 means gecko.
+Translate: 同学们在生物课上学了演员的习性。"
+prompt_000640,F5,explicit_override,CK_context,animal,occupation,high,low,蜜蜂,bee,programmer,我在毕业多年以后成为了蜜蜂。,I became a beekeeper after graduating many years ago.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,bee|bees|honeybee|honeybees|honey bee|honey bees,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 蜜蜂 means programmer.
+Translate: 我在毕业多年以后成为了蜜蜂。"
+prompt_002740,F5,explicit_override,CK_context,vehicle,fruit,high,medium,马车,carriage,melon,这些马车已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 马车 means melon.
+Translate: 这些马车已经熟到可以吃了。"
+prompt_002900,F5,explicit_override,CK_context,vehicle,fruit,medium,low,巴士,bus,crabapple,这些巴士已经熟到可以吃了。,These crabs are ripe enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,bus|buses|busses|coach|coaches,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 巴士 means crabapple.
+Translate: 这些巴士已经熟到可以吃了。"
+prompt_002810,F5,explicit_override,CK_context,vehicle,fruit,medium,medium,战机,fighter jet,apricot,这些战机已经熟到可以吃了。,These planes are ripe enough to eat.,False,False,apricot|apricots,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 战机 means apricot.
+Translate: 这些战机已经熟到可以吃了。"
+prompt_004010,F5,explicit_override,CK_context,occupation,fruit,medium,medium,牧师,pastor,melon,这些牧师已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 牧师 means melon.
+Translate: 这些牧师已经熟到可以吃了。"
+prompt_005240,F5,explicit_override,CK_context,music,fruit,medium,medium,贝斯,bass,melon,这些贝斯已经熟到可以吃了。,These watermelons are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,bass|basses|bass guitar|bass guitars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 贝斯 means melon.
+Translate: 这些贝斯已经熟到可以吃了。"
+prompt_001720,F5,explicit_override,CK_context,fruit,vehicle,low,low,沙果,crabapple,bamboo raft,我们坐沙果抵达了目的地。,We arrived at our destination by sitting on a sand fruit.,False,False,bamboo raft|bamboo rafts|raft|rafts,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 沙果 means bamboo raft.
+Translate: 我们坐沙果抵达了目的地。"
+prompt_005159,F5,explicit_override,PK_context,music,fruit,high,high,大号,tuba,mango,那位音乐家在舞台上演奏着大号。,The musician is playing a big instrument on stage.,False,False,mango|mangoes|mangos,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 大号 means mango.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005439,F5,explicit_override,PK_context,music,vehicle,high,medium,大号,tuba,yacht,那位音乐家在舞台上演奏着大号。,The musician is playing a big horn on stage.,False,False,yacht|yachts|pleasure boat|pleasure boats,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 大号 means yacht.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_005789,F5,explicit_override,PK_context,music,occupation,high,medium,大号,tuba,referee,那位音乐家在舞台上演奏着大号。,The musician is playing the trombone on stage.,False,False,referee|referees|umpire|umpires|judge|judges,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 大号 means referee.
+Translate: 那位音乐家在舞台上演奏着大号。"
+prompt_004879,F5,explicit_override,PK_context,music,animal,high,high,大鼓,bass drum,fly,那位音乐家在舞台上演奏着大鼓。,The musician is playing a drum on stage.,False,False,fly|flies|housefly|houseflies|house fly|house flies,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 大鼓 means fly.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+prompt_005749,F5,explicit_override,PK_context,music,occupation,high,high,大鼓,bass drum,actor,那位音乐家在舞台上演奏着大鼓。,The musician is playing the drum on stage.,False,False,actor|actors|actress|actresses|performer|performers,bass drum|bass drums|big drum|big drums|large drum|large drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 大鼓 means actor.
+Translate: 那位音乐家在舞台上演奏着大鼓。"
+prompt_004229,F5,explicit_override,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder after graduating many years ago.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_003329,F5,explicit_override,PK_context,vehicle,music,high,high,火箭,rocket,pipa,我们坐火箭抵达了目的地。,We arrived at our destination by playing the lute.,False,False,pipa|pipas|chinese lute|chinese lutes,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 火箭 means pipa.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_005149,F5,explicit_override,PK_context,music,fruit,high,low,锣鼓,percussion,date,那位音乐家在舞台上演奏着锣鼓。,The musician is playing the drum on stage.,False,False,date|dates|date fruit|date fruits,percussion|percussion instruments|gongs and drums|gong and drum,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 锣鼓 means date.
+Translate: 那位音乐家在舞台上演奏着锣鼓。"
+prompt_003159,F5,explicit_override,PK_context,vehicle,occupation,medium,high,战车,chariot,doctor,我们坐战车抵达了目的地。,We arrived at our destination by car.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,chariot|chariots|war chariot|war chariots|combat vehicle|combat vehicles|military vehicle|military vehicles|tank|tanks,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 战车 means doctor.
+Translate: 我们坐战车抵达了目的地。"
+prompt_003419,F5,explicit_override,PK_context,vehicle,music,medium,high,校车,school bus,guitar,我们坐校车抵达了目的地。,We arrived at our destination by bus.,False,False,guitar|guitars,school bus|school buses|school busses,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 校车 means guitar.
+Translate: 我们坐校车抵达了目的地。"
+prompt_003469,F5,explicit_override,PK_context,vehicle,music,medium,low,滑板,skateboard,gaohu,我们坐滑板抵达了目的地。,We arrived at our destination by skateboarding.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 滑板 means gaohu.
+Translate: 我们坐滑板抵达了目的地。"
+prompt_004679,F5,explicit_override,PK_context,occupation,music,medium,medium,牧师,pastor,bagpipe,我在毕业多年以后成为了牧师。,I became a bagpiper many years after graduation.,False,False,bagpipe|bagpipes,pastor|pastors|minister|ministers|priest|priests,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 牧师 means bagpipe.
+Translate: 我在毕业多年以后成为了牧师。"
+prompt_002889,F5,explicit_override,PK_context,vehicle,fruit,medium,high,皮卡,pickup truck,apple,我们坐皮卡抵达了目的地。,We arrived at our destination by riding a truck.,False,False,apple|apples,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 皮卡 means apple.
+Translate: 我们坐皮卡抵达了目的地。"
+prompt_004909,F5,explicit_override,PK_context,music,animal,medium,medium,短笛,piccolo,parrot,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,parrot|parrots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 短笛 means parrot.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005209,F5,explicit_override,PK_context,music,fruit,medium,medium,短笛,piccolo,plum,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 短笛 means plum.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_005829,F5,explicit_override,PK_context,music,occupation,medium,high,短笛,piccolo,police officer,那位音乐家在舞台上演奏着短笛。,The musician is playing a flute on stage.,False,False,police officer|police officers|police|policeman|policemen|policewoman|policewomen|cop|cops,piccolo|piccolos,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 短笛 means police officer.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+prompt_004639,F5,explicit_override,PK_context,occupation,music,medium,high,船长,captain,trumpet,我在毕业多年以后成为了船长。,I became a trumpeter many years after graduation.,False,False,trumpet|trumpets,captain|captains|ship captain|ship captains,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 船长 means trumpet.
+Translate: 我在毕业多年以后成为了船长。"
+prompt_004979,F5,explicit_override,PK_context,music,animal,medium,medium,芦笙,lusheng,rooster,那位音乐家在舞台上演奏着芦笙。,The musician is playing a flute on stage.,False,False,rooster|roosters|cockerel|cockerels|cock|cocks,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 芦笙 means rooster.
+Translate: 那位音乐家在舞台上演奏着芦笙。"
+prompt_005859,F5,explicit_override,PK_context,music,occupation,medium,high,铜鼓,bronze drum,doctor,那位音乐家在舞台上演奏着铜鼓。,The musician is playing the drum on stage.,False,False,doctor|doctors|physician|physicians|medical doctor|medical doctors,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 铜鼓 means doctor.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+prompt_005539,F5,explicit_override,PK_context,music,vehicle,medium,high,长号,trombone,train,那位音乐家在舞台上演奏着长号。,The musician is playing a long horn on stage.,False,False,train|trains,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 长号 means train.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_005889,F5,explicit_override,PK_context,music,occupation,medium,high,长号,trombone,farmer,那位音乐家在舞台上演奏着长号。,The musician is playing a trumpet on stage.,False,False,farmer|farmers|peasant|peasants|agricultural worker|agricultural workers,trombone|trombones,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 长号 means farmer.
+Translate: 那位音乐家在舞台上演奏着长号。"
+prompt_004919,F5,explicit_override,PK_context,music,animal,medium,medium,风笛,bagpipe,swallow,那位音乐家在舞台上演奏着风笛。,The musician is playing a flute on stage.,False,False,swallow|swallows,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 风笛 means swallow.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_005899,F5,explicit_override,PK_context,music,occupation,medium,low,风笛,bagpipe,tea farmer,那位音乐家在舞台上演奏着风笛。,The musician is playing a flute on stage.,False,False,tea farmer|tea farmers|tea grower|tea growers|tea planter|tea planters,bagpipe|bagpipes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 风笛 means tea farmer.
+Translate: 那位音乐家在舞台上演奏着风笛。"
+prompt_000739,F5,explicit_override,PK_context,animal,occupation,medium,low,麻雀,sparrow,illustrator,同学们在生物课上学了麻雀的习性。,The students learned about the habits of magpies in biology class.,False,False,illustrator|illustrators|artist|artists|painter|painters,sparrow|sparrows,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 麻雀 means illustrator.
+Translate: 同学们在生物课上学了麻雀的习性。"
+prompt_001919,F5,explicit_override,PK_context,fruit,occupation,medium,low,龙眼,longan,florist,这些龙眼已经熟到可以吃了。,These flower shops are ripe for eating.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 龙眼 means florist.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_002249,F5,explicit_override,PK_context,fruit,music,medium,low,龙眼,longan,liuqin,这些龙眼已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 龙眼 means liuqin.
+Translate: 这些龙眼已经熟到可以吃了。"
+prompt_004439,F5,explicit_override,PK_context,occupation,vehicle,low,low,乐手,musician,ferry,我在毕业多年以后成为了乐手。,I became a ferryman after graduating many years ago.,False,False,ferry|ferries|ferryboat|ferryboats|ferry boat|ferry boats,musician|musicians|instrumentalist|instrumentalists,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 乐手 means ferry.
+Translate: 我在毕业多年以后成为了乐手。"
+prompt_005619,F5,explicit_override,PK_context,music,vehicle,low,high,坠胡,zhuihu,train,那位音乐家在舞台上演奏着坠胡。,The musician is playing the erhu on stage.,False,False,train|trains|railway train|railway trains,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 坠胡 means train.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_005939,F5,explicit_override,PK_context,music,occupation,low,medium,坠胡,zhuihu,merchant,那位音乐家在舞台上演奏着坠胡。,The musician is playing a huqin on stage.,False,False,merchant|merchants|trader|traders|businessman|businessmen|businesswoman|businesswomen|businessperson|businesspeople,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 坠胡 means merchant.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+prompt_002959,F5,explicit_override,PK_context,vehicle,fruit,low,medium,房车,recreational vehicle,mulberry,我们坐房车抵达了目的地。,We arrived at our destination by sitting in a car.,False,False,mulberry|mulberries,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 房车 means mulberry.
+Translate: 我们坐房车抵达了目的地。"
+prompt_005049,F5,explicit_override,PK_context,music,animal,low,high,柳琴,liuqin,bee,那位音乐家在舞台上演奏着柳琴。,The musician is playing a lute on stage.,False,False,bee|bees|honeybee|honeybees|honey bee|honey bees,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 柳琴 means bee.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005659,F5,explicit_override,PK_context,music,vehicle,low,high,柳琴,liuqin,airplane,那位音乐家在舞台上演奏着柳琴。,The musician is playing an erhu on stage.,False,False,airplane|airplanes|aeroplane|aeroplanes|plane|planes|aircraft,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 柳琴 means airplane.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_005949,F5,explicit_override,PK_context,music,occupation,low,low,柳琴,liuqin,programmer,那位音乐家在舞台上演奏着柳琴。,The musician is playing the guzheng on stage.,False,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 柳琴 means programmer.
+Translate: 那位音乐家在舞台上演奏着柳琴。"
+prompt_001709,F5,explicit_override,PK_context,fruit,vehicle,low,low,椰枣,date,donkey cart,这些椰枣已经熟到可以吃了。,These donkeys are ripe enough to eat.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 椰枣 means donkey cart.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_000239,F5,explicit_override,PK_context,animal,fruit,low,medium,水母,jellyfish,mulberry,同学们在生物课上学了水母的习性。,The students learned about the habits of water jellies in biology class.,False,False,mulberry|mulberries,jellyfish|jellyfishes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 水母 means mulberry.
+Translate: 同学们在生物课上学了水母的习性。"
+prompt_005029,F5,explicit_override,PK_context,music,animal,low,medium,沙锤,maracas,shark,那位音乐家在舞台上演奏着沙锤。,The musician is playing a sand hammer on stage.,False,False,shark|sharks,maracas|maraca|shaker|shakers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 沙锤 means shark.
+Translate: 那位音乐家在舞台上演奏着沙锤。"
+prompt_004779,F5,explicit_override,PK_context,occupation,music,low,medium,画师,illustrator,trombone,我在毕业多年以后成为了画师。,I became a trombonist after graduating many years ago.,False,False,trombone|trombones,illustrator|illustrators|artist|artists|painter|painters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 画师 means trombone.
+Translate: 我在毕业多年以后成为了画师。"
+prompt_005699,F5,explicit_override,PK_context,music,vehicle,low,medium,编磬,stone chimes,police car,那位音乐家在舞台上演奏着编磬。,The musician is playing a gong on stage.,False,False,police car|police cars|patrol car|patrol cars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 编磬 means police car.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_005959,F5,explicit_override,PK_context,music,occupation,low,medium,编磬,stone chimes,singer,那位音乐家在舞台上演奏着编磬。,The musician is playing the zither on stage.,False,False,singer|singers|vocalist|vocalists,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 编磬 means singer.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+prompt_003599,F5,explicit_override,PK_context,vehicle,music,low,medium,罐车,tanker,bass,我们坐罐车抵达了目的地。,We arrived at our destination by taking a bus.,False,False,bass|basses|bass guitar|bass guitars,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 罐车 means bass.
+Translate: 我们坐罐车抵达了目的地。"
+prompt_004739,F5,explicit_override,PK_context,occupation,music,low,high,花匠,florist,piano,我在毕业多年以后成为了花匠。,I became a pianist after graduating many years ago.,False,False,piano|pianos,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 花匠 means piano.
+Translate: 我在毕业多年以后成为了花匠。"
+prompt_005359,F5,explicit_override,PK_context,music,fruit,low,low,钟琴,glockenspiel,wax apple,那位音乐家在舞台上演奏着钟琴。,The musician is playing a bell pear on stage.,False,False,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 钟琴 means wax apple.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_005999,F5,explicit_override,PK_context,music,occupation,low,high,钟琴,glockenspiel,teacher,那位音乐家在舞台上演奏着钟琴。,The musician is playing the zhongqin on stage.,False,False,teacher|teachers|instructor|instructors|educator|educators,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 钟琴 means teacher.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+prompt_002949,F5,explicit_override,PK_context,vehicle,fruit,low,high,铲车,loader,mango,我们坐铲车抵达了目的地。,We arrived at our destination by sitting on a shovel truck.,False,False,mango|mangoes|mangos,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 铲车 means mango.
+Translate: 我们坐铲车抵达了目的地。"
+prompt_005039,F5,explicit_override,PK_context,music,animal,low,high,陶笛,ocarina,monkey,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,monkey|monkeys,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 陶笛 means monkey.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005969,F5,explicit_override,PK_context,music,occupation,low,low,陶笛,ocarina,florist,那位音乐家在舞台上演奏着陶笛。,The musician is playing a flute on stage.,False,False,florist|florists|gardener|gardeners|flower grower|flower growers,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 陶笛 means florist.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+prompt_005909,F5,explicit_override,PK_context,music,occupation,low,low,高胡,gaohu,dentist,那位音乐家在舞台上演奏着高胡。,The musician is playing the erhu on stage.,False,False,dentist|dentists,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 高胡 means dentist.
+Translate: 那位音乐家在舞台上演奏着高胡。"

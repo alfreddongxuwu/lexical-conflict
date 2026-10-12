@@ -1,0 +1,16 @@
+﻿source_category,baseline_label,n,percent_within_source_category
+animal,EXPECTED,144,96.0
+animal,OTHER,6,4.0
+animal,FAILED,0,0.0
+fruit,EXPECTED,123,82.0
+fruit,OTHER,27,18.0
+fruit,FAILED,0,0.0
+music,EXPECTED,96,64.0
+music,OTHER,54,36.0
+music,FAILED,0,0.0
+occupation,EXPECTED,131,87.33
+occupation,OTHER,19,12.67
+occupation,FAILED,0,0.0
+vehicle,EXPECTED,121,80.67
+vehicle,OTHER,29,19.33
+vehicle,FAILED,0,0.0

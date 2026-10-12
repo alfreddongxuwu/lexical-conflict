@@ -1,0 +1,16 @@
+﻿target_freq_band,auto_label,n,percent_within_target_freq_band
+high,PK,156,7.8
+high,CK,1787,89.35
+high,BOTH,17,0.85
+high,OTHER,40,2.0
+high,FAILED,0,0.0
+medium,PK,161,8.05
+medium,CK,1784,89.2
+medium,BOTH,18,0.9
+medium,OTHER,37,1.85
+medium,FAILED,0,0.0
+low,PK,201,10.05
+low,CK,1747,87.35
+low,BOTH,31,1.55
+low,OTHER,21,1.05
+low,FAILED,0,0.0

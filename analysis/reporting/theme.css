@@ -1,0 +1,70 @@
+body {font:15px system-ui;margin:2rem;color:var(--report-ink,#202428)} p {max-width:90em;line-height:1.5}
+table {border-collapse:collapse;font-size:13px} th,td {padding:.45rem;border-bottom:1px solid var(--report-border,#ddd);text-align:left}
+th {position:sticky;top:0;background:var(--report-soft,#edf1f5)} input {padding:.5rem;width:32rem;max-width:90%}
+/* Shared report colours. Each declaration's fallback preserves its light palette. */
+html {
+    color-scheme: light dark;
+    background: var(--report-surface, #fff);
+    color: var(--report-ink, #20242a);
+}
+body { background-color: var(--report-surface, #fff); }
+a { color: var(--report-link, #185ba1); }
+input, select, textarea, button {
+    color: var(--report-ink, #20242a);
+    background-color: var(--report-soft, #f1f5f9);
+}
+@media screen and (prefers-color-scheme: dark) {
+    :root {
+        --report-surface: #181d25;
+        --report-soft: #242d39;
+        --report-selected: #354359;
+        --report-ink: #e5eaf1;
+        --report-muted: #b3bfce;
+        --report-border: #566477;
+        --report-link: #96c7ff;
+        --report-positive: #86dfac;
+        --report-negative: #ffa6a6;
+        --report-warning: #f6d28a;
+        --report-purple: #c7b4ff;
+        --report-pink: #ffadd0;
+        --report-positive-bg: #183d2d;
+        --report-negative-bg: #4b252d;
+        --report-warning-bg: #42351f;
+        --report-blue-bg: #233b58;
+        --report-purple-bg: #352d4c;
+        --report-pink-bg: #482b3e;
+        --c-bg: var(--report-surface);
+        --c-surface: var(--report-surface);
+        --c-accent-soft: var(--report-soft);
+        --c-ink: var(--report-ink);
+        --c-muted: var(--report-muted);
+        --c-faint: var(--report-muted);
+        --c-border: var(--report-border);
+        --c-border-strong: var(--report-border);
+        --c-accent: var(--report-ink);
+        --c-ok: var(--report-positive);
+        --c-warn: var(--report-warning);
+        --c-err: var(--report-negative);
+        --c-ins: var(--report-positive-bg);
+        --c-del: var(--report-negative-bg);
+        --c-stage-retrieved: #a5a7ff;
+        --c-stage-formatted: #67d5eb;
+        --c-stage-prompt: var(--report-purple);
+        --c-stage-hypothesis: var(--report-positive);
+    }
+    /* Identity colours remain on chart marks; labels need text contrast. */
+    .chart text[fill] { fill: var(--report-ink); }
+    .chart [fill="#f8fafc"], .chart [fill="#e9edf2"] { fill: var(--report-soft); }
+    .chart [stroke="#374151"] { stroke: var(--report-muted); }
+    .rank-table td.lab a { color: color-mix(in srgb, var(--fam) 50%, var(--report-ink)); }
+    details.src-block > summary, .fam { color: var(--report-ink); }
+    .fam-chip {
+        color: var(--report-ink);
+        background: color-mix(in srgb, var(--fam) 35%, var(--report-surface));
+    }
+    /* External figures carry their own palette, independently of this page. */
+    img, .mermaid { background: #fff; color: #20242a; }
+}
+@media print {
+    html { color-scheme: light; }
+}

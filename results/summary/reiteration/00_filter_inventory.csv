@@ -1,0 +1,10 @@
+﻿model_id,unfiltered_rows,baseline_filtered_rows,excluded_rows,retained_percent,baseline_rows
+chatgpt5_5_instant,6000,5495,505,91.58,750
+deepseek_llm_67b,6000,5335,665,88.92,750
+deepseek_llm_7b,6000,4835,1165,80.58,750
+gemma3_27b,6000,4720,1280,78.67,750
+gemma3_4b,6000,4445,1555,74.08,750
+llama3_70b,6000,3815,2185,63.58,750
+llama3_8b,6000,3680,2320,61.33,750
+qwen3_32b,6000,5160,840,86.0,750
+qwen3_8b,6000,4785,1215,79.75,750

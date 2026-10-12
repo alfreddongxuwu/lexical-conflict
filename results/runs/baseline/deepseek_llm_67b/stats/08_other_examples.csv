@@ -1,0 +1,231 @@
+﻿prompt_id,baseline_type,source_category,context_category,source_freq_band,source_word_zh,standard_en,source_sentence_zh,literal_expected_en,response,contains_expected,expected_forms,expected_matched_forms,prompt
+baseline_000258,anomalous_no_lexicon,animal,music,medium,麻雀,sparrow,那位音乐家在舞台上演奏着麻雀。,The musician played the sparrow on stage.,The musician is playing magpies on stage.,False,sparrow|sparrows,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着麻雀。"
+baseline_000181,anomalous_no_lexicon,animal,vehicle,high,苍蝇,fly,我们坐苍蝇抵达了目的地。,We got to our destination by fly.,We arrived at our destination by plane.,False,fly|flies|housefly|houseflies|house fly|house flies,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐苍蝇抵达了目的地。"
+baseline_000196,anomalous_no_lexicon,animal,vehicle,medium,麻雀,sparrow,我们坐麻雀抵达了目的地。,We got to our destination by sparrow.,We arrived at our destination by playing mahjong.,False,sparrow|sparrows,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐麻雀抵达了目的地。"
+baseline_000210,anomalous_no_lexicon,animal,vehicle,low,海豹,seal,我们坐海豹抵达了目的地。,We got to our destination by seal.,We arrived at our destination by sea lion.,False,seal|seals,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐海豹抵达了目的地。"
+baseline_000298,anomalous_no_lexicon,fruit,animal,low,沙果,crabapple,同学们在生物课上学了沙果的习性。,The students learned about the habits of crabapple in biology class.,The students learned about the habits of sand pears in biology class.,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了沙果的习性。"
+baseline_000292,anomalous_no_lexicon,fruit,animal,low,芭乐,guava,同学们在生物课上学了芭乐的习性。,The students learned about the habits of guava in biology class.,The students learned about wax apple's habits in biology class.,False,guava|guavas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了芭乐的习性。"
+baseline_000300,anomalous_no_lexicon,fruit,animal,low,蛇果,red delicious apple,同学们在生物课上学了蛇果的习性。,The students learned about the habits of red delicious apple in biology class.,The students learned about the habits of snake fruit in biology class.,False,red delicious apple|red delicious apples|red delicious|apple|apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了蛇果的习性。"
+baseline_000297,anomalous_no_lexicon,fruit,animal,low,释迦,sugar apple,同学们在生物课上学了释迦的习性。,The students learned about the habits of sugar apple in biology class.,The students learned about the habits of the Buddha in biology class.,False,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了释迦的习性。"
+baseline_000382,anomalous_no_lexicon,fruit,music,low,沙果,crabapple,那位音乐家在舞台上演奏着沙果。,The musician played the crabapple on stage.,The musician is playing a sandalwood on stage.,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着沙果。"
+baseline_000389,anomalous_no_lexicon,fruit,music,low,红提,red grape,那位音乐家在舞台上演奏着红提。,The musician played the red grape on stage.,The musician is playing a red violin on stage.,False,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着红提。"
+baseline_000383,anomalous_no_lexicon,fruit,music,low,芭乐,guava,那位音乐家在舞台上演奏着芭乐。,The musician played the guava on stage.,The musician is playing a ballad on stage.,False,guava|guavas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着芭乐。"
+baseline_000386,anomalous_no_lexicon,fruit,music,low,莲雾,wax apple,那位音乐家在舞台上演奏着莲雾。,The musician played the wax apple on stage.,The musician is playing a loquat on stage.,False,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着莲雾。"
+baseline_000385,anomalous_no_lexicon,fruit,music,low,蛇果,red delicious apple,那位音乐家在舞台上演奏着蛇果。,The musician played the red delicious apple on stage.,The musician is playing a snake fruit on stage.,False,red delicious apple|red delicious apples|red delicious|apple|apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着蛇果。"
+baseline_000390,anomalous_no_lexicon,fruit,music,low,释迦,sugar apple,那位音乐家在舞台上演奏着释迦。,The musician played the sugar apple on stage.,The musician is playing Shakya on stage.,False,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着释迦。"
+baseline_000354,anomalous_no_lexicon,fruit,occupation,low,沙果,crabapple,我在毕业多年以后成为了沙果。,I became a/an crabapple many years after graduating.,I became a sand pear after graduating for many years.,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了沙果。"
+baseline_000359,anomalous_no_lexicon,fruit,occupation,low,芭乐,guava,我在毕业多年以后成为了芭乐。,I became a/an guava many years after graduating.,I became a starfruit after graduating for many years.,False,guava|guavas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了芭乐。"
+baseline_000353,anomalous_no_lexicon,fruit,occupation,low,释迦,sugar apple,我在毕业多年以后成为了释迦。,I became a/an sugar apple many years after graduating.,I became Shakya after graduating many years ago.,False,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了释迦。"
+baseline_000313,anomalous_no_lexicon,fruit,vehicle,medium,甜瓜,melon,我们坐甜瓜抵达了目的地。,We got to our destination by melon.,We arrived at our destination by sitting on a watermelon.,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐甜瓜抵达了目的地。"
+baseline_000314,anomalous_no_lexicon,fruit,vehicle,medium,鸭梨,ya pear,我们坐鸭梨抵达了目的地。,We got to our destination by ya pear.,We arrived at our destination by duckweed.,False,ya pear|ya pears|yali pear|yali pears|chinese pear|chinese pears|pear|pears,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐鸭梨抵达了目的地。"
+baseline_000322,anomalous_no_lexicon,fruit,vehicle,low,沙果,crabapple,我们坐沙果抵达了目的地。,We got to our destination by crabapple.,We arrived at our destination by sitting on a sandalwood tree.,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐沙果抵达了目的地。"
+baseline_000328,anomalous_no_lexicon,fruit,vehicle,low,蛇果,red delicious apple,我们坐蛇果抵达了目的地。,We got to our destination by red delicious apple.,We arrived at our destination by sitting on a snake fruit.,False,red delicious apple|red delicious apples|red delicious|apple|apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐蛇果抵达了目的地。"
+baseline_000326,anomalous_no_lexicon,fruit,vehicle,low,释迦,sugar apple,我们坐释迦抵达了目的地。,We got to our destination by sugar apple.,We arrived at our destination by sitting on a Shakyamuni (Buddha).,False,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐释迦抵达了目的地。"
+baseline_000640,anomalous_no_lexicon,music,animal,high,号角,horn,同学们在生物课上学了号角的习性。,The students learned about the habits of horn in biology class.,The students learned about the habits of antelopes in biology class.,False,horn|horns|bugle|bugles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了号角的习性。"
+baseline_000636,anomalous_no_lexicon,music,animal,high,大号,tuba,同学们在生物课上学了大号的习性。,The students learned about the habits of tuba in biology class.,The students learned about the habits of big animals in biology class.,False,tuba|tubas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了大号的习性。"
+baseline_000635,anomalous_no_lexicon,music,animal,high,小号,trumpet,同学们在生物课上学了小号的习性。,The students learned about the habits of trumpet in biology class.,The students learned about the habits of small animals in biology class.,False,trumpet|trumpets,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了小号的习性。"
+baseline_000633,anomalous_no_lexicon,music,animal,high,铃铛,bell,同学们在生物课上学了铃铛的习性。,The students learned about the habits of bell in biology class.,The students learned about the habits of bellflowers in biology class.,False,bell|bells,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了铃铛的习性。"
+baseline_000641,anomalous_no_lexicon,music,animal,medium,短笛,piccolo,同学们在生物课上学了短笛的习性。,The students learned about the habits of piccolo in biology class.,The students learned about the habits of short-nosed monkeys in biology class.,False,piccolo|piccolos,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了短笛的习性。"
+baseline_000650,anomalous_no_lexicon,music,animal,medium,竹板,bamboo clapper,同学们在生物课上学了竹板的习性。,The students learned about the habits of bamboo clapper in biology class.,The students learned about the habits of bamboo in biology class.,False,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了竹板的习性。"
+baseline_000648,anomalous_no_lexicon,music,animal,medium,芦笙,lusheng,同学们在生物课上学了芦笙的习性。,The students learned about the habits of lusheng in biology class.,The students learned about the habits of the reed instrument in biology class.,False,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了芦笙的习性。"
+baseline_000645,anomalous_no_lexicon,music,animal,medium,花鼓,flower drum,同学们在生物课上学了花鼓的习性。,The students learned about the habits of flower drum in biology class.,The students learned about the habits of frogs in biology class.,False,flower drum|flower drums|flower-drum|flower-drums|huagu drum|huagu drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了花鼓的习性。"
+baseline_000644,anomalous_no_lexicon,music,animal,medium,铜鼓,bronze drum,同学们在生物课上学了铜鼓的习性。,The students learned about the habits of bronze drum in biology class.,The students learned about the habits of copper gourami in biology class.,False,bronze drum|bronze drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了铜鼓的习性。"
+baseline_000647,anomalous_no_lexicon,music,animal,medium,长号,trombone,同学们在生物课上学了长号的习性。,The students learned about the habits of trombone in biology class.,The students learned about the habits of the long horn in biology class.,False,trombone|trombones,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了长号的习性。"
+baseline_000642,anomalous_no_lexicon,music,animal,medium,风笛,bagpipe,同学们在生物课上学了风笛的习性。,The students learned about the habits of bagpipe in biology class.,The students learned about the habits of frogs in biology class.,False,bagpipe|bagpipes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了风笛的习性。"
+baseline_000659,anomalous_no_lexicon,music,animal,low,坠胡,zhuihu,同学们在生物课上学了坠胡的习性。,The students learned about the habits of zhuihu in biology class.,The students learned about the habits of the zither in biology class.,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了坠胡的习性。"
+baseline_000655,anomalous_no_lexicon,music,animal,low,柳琴,liuqin,同学们在生物课上学了柳琴的习性。,The students learned about the habits of liuqin in biology class.,The students learned about the habits of willow trees in biology class.,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了柳琴的习性。"
+baseline_000651,anomalous_no_lexicon,music,animal,low,编磬,stone chimes,同学们在生物课上学了编磬的习性。,The students learned about the habits of stone chimes in biology class.,The students learned about the habits of the panda in biology class.,False,stone chimes|stone chime|lithophone|lithophones|qing,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了编磬的习性。"
+baseline_000657,anomalous_no_lexicon,music,animal,low,钟琴,glockenspiel,同学们在生物课上学了钟琴的习性。,The students learned about the habits of glockenspiel in biology class.,The students learned about the habits of bellbirds in biology class.,False,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了钟琴的习性。"
+baseline_000654,anomalous_no_lexicon,music,animal,low,陶笛,ocarina,同学们在生物课上学了陶笛的习性。,The students learned about the habits of ocarina in biology class.,The students learned about the habits of the potter wasp in biology class.,False,ocarina|ocarinas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了陶笛的习性。"
+baseline_000658,anomalous_no_lexicon,music,animal,low,高胡,gaohu,同学们在生物课上学了高胡的习性。,The students learned about the habits of gaohu in biology class.,The students learned about the habits of the high-pitched fiddle in biology class.,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了高胡的习性。"
+baseline_000666,anomalous_no_lexicon,music,fruit,high,大号,tuba,这些大号已经熟到可以吃了。,These tuba are ripe enough to eat.,These big ones are ripe and ready to eat.,False,tuba|tubas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些大号已经熟到可以吃了。"
+baseline_000668,anomalous_no_lexicon,music,fruit,high,小号,trumpet,这些小号已经熟到可以吃了。,These trumpet are ripe enough to eat.,These small horns are ripe enough to eat.,False,trumpet|trumpets,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些小号已经熟到可以吃了。"
+baseline_000671,anomalous_no_lexicon,music,fruit,medium,短笛,piccolo,这些短笛已经熟到可以吃了。,These piccolo are ripe enough to eat.,These flutes are ripe and ready to eat.,False,piccolo|piccolos,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些短笛已经熟到可以吃了。"
+baseline_000676,anomalous_no_lexicon,music,fruit,medium,竹板,bamboo clapper,这些竹板已经熟到可以吃了。,These bamboo clapper are ripe enough to eat.,These bamboo boards are ripe enough to eat.,False,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些竹板已经熟到可以吃了。"
+baseline_000679,anomalous_no_lexicon,music,fruit,medium,铜鼓,bronze drum,这些铜鼓已经熟到可以吃了。,These bronze drum are ripe enough to eat.,These copper drums are already ripe and ready to eat.,False,bronze drum|bronze drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些铜鼓已经熟到可以吃了。"
+baseline_000685,anomalous_no_lexicon,music,fruit,low,坠胡,zhuihu,这些坠胡已经熟到可以吃了。,These zhuihu are ripe enough to eat.,These zhonghu are ripe and ready to eat.,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些坠胡已经熟到可以吃了。"
+baseline_000689,anomalous_no_lexicon,music,fruit,low,编磬,stone chimes,这些编磬已经熟到可以吃了。,These stone chimes are ripe enough to eat.,These chimes are ripe enough to eat.,False,stone chimes|stone chime|lithophone|lithophones|qing,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些编磬已经熟到可以吃了。"
+baseline_000682,anomalous_no_lexicon,music,fruit,low,边鼓,side drum,这些边鼓已经熟到可以吃了。,These side drum are ripe enough to eat.,These side dishes are cooked and ready to eat.,False,side drum|side drums|snare drum|snare drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些边鼓已经熟到可以吃了。"
+baseline_000686,anomalous_no_lexicon,music,fruit,low,钟琴,glockenspiel,这些钟琴已经熟到可以吃了。,These glockenspiel are ripe enough to eat.,These chimes are ripe enough to eat.,False,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些钟琴已经熟到可以吃了。"
+baseline_000687,anomalous_no_lexicon,music,fruit,low,高胡,gaohu,这些高胡已经熟到可以吃了。,These gaohu are ripe enough to eat.,These high-pitched strings are ripe and ready for eating.,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些高胡已经熟到可以吃了。"
+baseline_000726,anomalous_no_lexicon,music,occupation,high,号角,horn,我在毕业多年以后成为了号角。,I became a/an horn many years after graduating.,I became a bugler after graduating many years ago.,False,horn|horns|bugle|bugles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了号角。"
+baseline_000729,anomalous_no_lexicon,music,occupation,high,大号,tuba,我在毕业多年以后成为了大号。,I became a/an tuba many years after graduating.,I became a big shot after graduating many years ago.,False,tuba|tubas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了大号。"
+baseline_000733,anomalous_no_lexicon,music,occupation,medium,短笛,piccolo,我在毕业多年以后成为了短笛。,I became a/an piccolo many years after graduating.,I became a flute player many years after graduation.,False,piccolo|piccolos,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了短笛。"
+baseline_000735,anomalous_no_lexicon,music,occupation,medium,竹板,bamboo clapper,我在毕业多年以后成为了竹板。,I became a/an bamboo clapper many years after graduating.,I became a bamboo board after graduating for many years.,False,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了竹板。"
+baseline_000736,anomalous_no_lexicon,music,occupation,medium,铜鼓,bronze drum,我在毕业多年以后成为了铜鼓。,I became a/an bronze drum many years after graduating.,I became a copper drum many years after graduation.,False,bronze drum|bronze drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了铜鼓。"
+baseline_000740,anomalous_no_lexicon,music,occupation,medium,风笛,bagpipe,我在毕业多年以后成为了风笛。,I became a/an bagpipe many years after graduating.,I became a bagpiper many years after graduation.,False,bagpipe|bagpipes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了风笛。"
+baseline_000744,anomalous_no_lexicon,music,occupation,low,坠胡,zhuihu,我在毕业多年以后成为了坠胡。,I became a/an zhuihu many years after graduating.,I became a huqin player after graduating many years ago.,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了坠胡。"
+baseline_000746,anomalous_no_lexicon,music,occupation,low,编磬,stone chimes,我在毕业多年以后成为了编磬。,I became a/an stone chimes many years after graduating.,I became a programmer after graduating many years ago.,False,stone chimes|stone chime|lithophone|lithophones|qing,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了编磬。"
+baseline_000743,anomalous_no_lexicon,music,occupation,low,边鼓,side drum,我在毕业多年以后成为了边鼓。,I became a/an side drum many years after graduating.,I became a side drummer after graduating for many years.,False,side drum|side drums|snare drum|snare drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了边鼓。"
+baseline_000750,anomalous_no_lexicon,music,occupation,low,钟琴,glockenspiel,我在毕业多年以后成为了钟琴。,I became a/an glockenspiel many years after graduating.,I became a carillonist after graduating many years ago.,False,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了钟琴。"
+baseline_000747,anomalous_no_lexicon,music,occupation,low,陶笛,ocarina,我在毕业多年以后成为了陶笛。,I became a/an ocarina many years after graduating.,I became a clay flute after graduating many years ago.,False,ocarina|ocarinas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了陶笛。"
+baseline_000694,anomalous_no_lexicon,music,vehicle,high,大号,tuba,我们坐大号抵达了目的地。,We got to our destination by tuba.,We arrived at our destination by taking a big bus.,False,tuba|tubas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐大号抵达了目的地。"
+baseline_000692,anomalous_no_lexicon,music,vehicle,high,小号,trumpet,我们坐小号抵达了目的地。,We got to our destination by trumpet.,We arrived at our destination by small boat.,False,trumpet|trumpets,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐小号抵达了目的地。"
+baseline_000697,anomalous_no_lexicon,music,vehicle,high,锣鼓,percussion,我们坐锣鼓抵达了目的地。,We got to our destination by percussion.,We arrived at our destination by rickshaw.,False,percussion|percussion instruments|gongs and drums|gong and drum,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐锣鼓抵达了目的地。"
+baseline_000708,anomalous_no_lexicon,music,vehicle,medium,短笛,piccolo,我们坐短笛抵达了目的地。,We got to our destination by piccolo.,We arrived at our destination by short flute.,False,piccolo|piccolos,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐短笛抵达了目的地。"
+baseline_000707,anomalous_no_lexicon,music,vehicle,medium,竹板,bamboo clapper,我们坐竹板抵达了目的地。,We got to our destination by bamboo clapper.,We arrived at our destination by sitting on a bamboo raft.,False,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐竹板抵达了目的地。"
+baseline_000709,anomalous_no_lexicon,music,vehicle,medium,芦笙,lusheng,我们坐芦笙抵达了目的地。,We got to our destination by lusheng.,We arrived at our destination by bus.,False,lusheng|lushengs|reed pipe|reed pipes|reed-pipe|reed-pipes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐芦笙抵达了目的地。"
+baseline_000701,anomalous_no_lexicon,music,vehicle,medium,贝斯,bass,我们坐贝斯抵达了目的地。,We got to our destination by bass.,We arrived at our destination by bus.,False,bass|basses|bass guitar|bass guitars,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐贝斯抵达了目的地。"
+baseline_000704,anomalous_no_lexicon,music,vehicle,medium,长号,trombone,我们坐长号抵达了目的地。,We got to our destination by trombone.,We arrived at our destination by long-distance bus.,False,trombone|trombones,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐长号抵达了目的地。"
+baseline_000703,anomalous_no_lexicon,music,vehicle,medium,风笛,bagpipe,我们坐风笛抵达了目的地。,We got to our destination by bagpipe.,We arrived at our destination by windpipe.,False,bagpipe|bagpipes,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐风笛抵达了目的地。"
+baseline_000712,anomalous_no_lexicon,music,vehicle,low,坠胡,zhuihu,我们坐坠胡抵达了目的地。,We got to our destination by zhuihu.,We arrived at our destination by sitting in a rickshaw.,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐坠胡抵达了目的地。"
+baseline_000716,anomalous_no_lexicon,music,vehicle,low,柳琴,liuqin,我们坐柳琴抵达了目的地。,We got to our destination by liuqin.,We arrived at our destination by sitting on a willow zither.,False,liuqin|liuqins|liu qin|chinese mandolin|chinese mandolins,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐柳琴抵达了目的地。"
+baseline_000713,anomalous_no_lexicon,music,vehicle,low,沙锤,maracas,我们坐沙锤抵达了目的地。,We got to our destination by maracas.,We arrived at our destination by sitting on a sandbag.,False,maracas|maraca|shaker|shakers,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐沙锤抵达了目的地。"
+baseline_000715,anomalous_no_lexicon,music,vehicle,low,钟琴,glockenspiel,我们坐钟琴抵达了目的地。,We got to our destination by glockenspiel.,We arrived at our destination by clock piano.,False,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐钟琴抵达了目的地。"
+baseline_000714,anomalous_no_lexicon,music,vehicle,low,陶笛,ocarina,我们坐陶笛抵达了目的地。,We got to our destination by ocarina.,We arrived at our destination by riding a donkey cart.,False,ocarina|ocarinas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐陶笛抵达了目的地。"
+baseline_000711,anomalous_no_lexicon,music,vehicle,low,高胡,gaohu,我们坐高胡抵达了目的地。,We got to our destination by gaohu.,We arrived at our destination by high-speed rail.,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐高胡抵达了目的地。"
+baseline_000536,anomalous_no_lexicon,occupation,animal,low,机师,pilot,同学们在生物课上学了机师的习性。,The students learned about the habits of pilot in biology class.,The students learned about the habits of mechanics in biology class.,False,pilot|pilots|aviator|aviators|airline pilot|airline pilots|aircraft pilot|aircraft pilots,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了机师的习性。"
+baseline_000540,anomalous_no_lexicon,occupation,animal,low,电工,electrician,同学们在生物课上学了电工的习性。,The students learned about the habits of electrician in biology class.,The students learned about the habits of electric eels in biology class.,False,electrician|electricians,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了电工的习性。"
+baseline_000617,anomalous_no_lexicon,occupation,music,medium,保安,security guard,那位音乐家在舞台上演奏着保安。,The musician played the security guard on stage.,The musician is performing security on stage.,False,security guard|security guards|security officer|security officers|guard|guards,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着保安。"
+baseline_000616,anomalous_no_lexicon,occupation,music,medium,导演,director,那位音乐家在舞台上演奏着导演。,The musician played the director on stage.,"The musician is performing on stage, directed by a conductor.",False,director|directors|film director|film directors|movie director|movie directors,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着导演。"
+baseline_000626,anomalous_no_lexicon,occupation,music,low,电工,electrician,那位音乐家在舞台上演奏着电工。,The musician played the electrician on stage.,The musician is playing an electric guitar on stage.,False,electrician|electricians,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着电工。"
+baseline_000588,anomalous_no_lexicon,occupation,vehicle,medium,船长,captain,我们坐船长抵达了目的地。,We got to our destination by captain.,We arrived at our destination by boat.,False,captain|captains|ship captain|ship captains,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐船长抵达了目的地。"
+baseline_000595,anomalous_no_lexicon,occupation,vehicle,low,机师,pilot,我们坐机师抵达了目的地。,We got to our destination by pilot.,We arrived at our destination by plane.,False,pilot|pilots|aviator|aviators|airline pilot|airline pilots|aircraft pilot|aircraft pilots,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐机师抵达了目的地。"
+baseline_000599,anomalous_no_lexicon,occupation,vehicle,low,电工,electrician,我们坐电工抵达了目的地。,We got to our destination by electrician.,We arrived at our destination by electric car.,False,electrician|electricians,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐电工抵达了目的地。"
+baseline_000593,anomalous_no_lexicon,occupation,vehicle,low,码农,programmer,我们坐码农抵达了目的地。,We got to our destination by programmer.,We arrived at our destination as code farmers.,False,programmer|programmers|coder|coders|software developer|software developers|software engineer|software engineers|developer|developers,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐码农抵达了目的地。"
+baseline_000398,anomalous_no_lexicon,vehicle,animal,high,马车,carriage,同学们在生物课上学了马车的习性。,The students learned about the habits of carriage in biology class.,The students learned about horses' habits in biology class.,False,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了马车的习性。"
+baseline_000403,anomalous_no_lexicon,vehicle,animal,medium,皮卡,pickup truck,同学们在生物课上学了皮卡的习性。,The students learned about the habits of pickup truck in biology class.,The students learned about Pikachu's habits in biology class.,False,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了皮卡的习性。"
+baseline_000404,anomalous_no_lexicon,vehicle,animal,medium,越野,off-road vehicle,同学们在生物课上学了越野的习性。,The students learned about the habits of off-road vehicle in biology class.,The students learned about the habits of wild animals in biology class.,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了越野的习性。"
+baseline_000418,anomalous_no_lexicon,vehicle,animal,low,兵车,military vehicle,同学们在生物课上学了兵车的习性。,The students learned about the habits of military vehicle in biology class.,The students learned about the habits of the praying mantis in biology class.,False,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了兵车的习性。"
+baseline_000420,anomalous_no_lexicon,vehicle,animal,low,叉车,forklift,同学们在生物课上学了叉车的习性。,The students learned about the habits of forklift in biology class.,The students learned about the habits of fork-tailed swallows in biology class.,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了叉车的习性。"
+baseline_000412,anomalous_no_lexicon,vehicle,animal,low,房车,recreational vehicle,同学们在生物课上学了房车的习性。,The students learned about the habits of recreational vehicle in biology class.,The students learned about the habits of kangaroos in biology class.,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了房车的习性。"
+baseline_000411,anomalous_no_lexicon,vehicle,animal,low,罐车,tanker,同学们在生物课上学了罐车的习性。,The students learned about the habits of tanker in biology class.,The students learned about the habits of canids in biology class.,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了罐车的习性。"
+baseline_000417,anomalous_no_lexicon,vehicle,animal,low,铲车,loader,同学们在生物课上学了铲车的习性。,The students learned about the habits of loader in biology class.,The students learned about the habits of shovel-nosed lizards in biology class.,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了铲车的习性。"
+baseline_000416,anomalous_no_lexicon,vehicle,animal,low,驴车,donkey cart,同学们在生物课上学了驴车的习性。,The students learned about the habits of donkey cart in biology class.,The students learned about the habits of donkeys in biology class.,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 同学们在生物课上学了驴车的习性。"
+baseline_000439,anomalous_no_lexicon,vehicle,fruit,medium,皮卡,pickup truck,这些皮卡已经熟到可以吃了。,These pickup truck are ripe enough to eat.,These pineapples are ripe enough to eat.,False,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些皮卡已经熟到可以吃了。"
+baseline_000432,anomalous_no_lexicon,vehicle,fruit,medium,越野,off-road vehicle,这些越野已经熟到可以吃了。,These off-road vehicle are ripe enough to eat.,These wild fruits are ripe enough to eat.,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些越野已经熟到可以吃了。"
+baseline_000450,anomalous_no_lexicon,vehicle,fruit,low,兵车,military vehicle,这些兵车已经熟到可以吃了。,These military vehicle are ripe enough to eat.,These tanks are ripe and ready for eating.,False,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些兵车已经熟到可以吃了。"
+baseline_000445,anomalous_no_lexicon,vehicle,fruit,low,铲车,loader,这些铲车已经熟到可以吃了。,These loader are ripe enough to eat.,These excavators are ripe and ready to eat.,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些铲车已经熟到可以吃了。"
+baseline_000490,anomalous_no_lexicon,vehicle,music,high,高铁,high-speed train,那位音乐家在舞台上演奏着高铁。,The musician played the high-speed train on stage.,The musician is playing high-speed rail on stage.,False,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着高铁。"
+baseline_000500,anomalous_no_lexicon,vehicle,music,medium,皮卡,pickup truck,那位音乐家在舞台上演奏着皮卡。,The musician played the pickup truck on stage.,The musician is playing a piccolo on stage.,False,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着皮卡。"
+baseline_000495,anomalous_no_lexicon,vehicle,music,medium,越野,off-road vehicle,那位音乐家在舞台上演奏着越野。,The musician played the off-road vehicle on stage.,The musician is playing cross-country on stage.,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着越野。"
+baseline_000502,anomalous_no_lexicon,vehicle,music,low,叉车,forklift,那位音乐家在舞台上演奏着叉车。,The musician played the forklift on stage.,The musician is playing a saxophone on stage.,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着叉车。"
+baseline_000508,anomalous_no_lexicon,vehicle,music,low,客船,passenger ship,那位音乐家在舞台上演奏着客船。,The musician played the passenger ship on stage.,The musician is playing a boat on stage.,False,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着客船。"
+baseline_000504,anomalous_no_lexicon,vehicle,music,low,竹筏,bamboo raft,那位音乐家在舞台上演奏着竹筏。,The musician played the bamboo raft on stage.,The musician is playing on stage with a bamboo flute.,False,bamboo raft|bamboo rafts|raft|rafts,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着竹筏。"
+baseline_000510,anomalous_no_lexicon,vehicle,music,low,罐车,tanker,那位音乐家在舞台上演奏着罐车。,The musician played the tanker on stage.,The musician is playing a can-car on stage.,False,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着罐车。"
+baseline_000507,anomalous_no_lexicon,vehicle,music,low,铲车,loader,那位音乐家在舞台上演奏着铲车。,The musician played the loader on stage.,The musician is playing a shovel on stage.,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着铲车。"
+baseline_000467,anomalous_no_lexicon,vehicle,occupation,medium,越野,off-road vehicle,我在毕业多年以后成为了越野。,I became a/an off-road vehicle many years after graduating.,I became a cross-country runner after graduating many years ago.,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了越野。"
+baseline_000472,anomalous_no_lexicon,vehicle,occupation,low,兵车,military vehicle,我在毕业多年以后成为了兵车。,I became a/an military vehicle many years after graduating.,I became a tank after graduating many years ago.,False,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了兵车。"
+baseline_000475,anomalous_no_lexicon,vehicle,occupation,low,房车,recreational vehicle,我在毕业多年以后成为了房车。,I became a/an recreational vehicle many years after graduating.,I became a house after graduating many years ago.,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了房车。"
+baseline_000478,anomalous_no_lexicon,vehicle,occupation,low,铲车,loader,我在毕业多年以后成为了铲车。,I became a/an loader many years after graduating.,I became a bulldozer after graduating many years ago.,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我在毕业多年以后成为了铲车。"
+baseline_000057,normal_lexical,fruit,fruit,low,沙果,crabapple,这些沙果已经熟到可以吃了。,These crabapple are ripe enough to eat.,These sand pears are ripe enough to eat.,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 这些沙果已经熟到可以吃了。"
+baseline_000080,normal_lexical,music,music,medium,短笛,piccolo,那位音乐家在舞台上演奏着短笛。,The musician played the piccolo on stage.,The musician is playing the flute on stage.,False,piccolo|piccolos,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着短笛。"
+baseline_000072,normal_lexical,music,music,medium,铜鼓,bronze drum,那位音乐家在舞台上演奏着铜鼓。,The musician played the bronze drum on stage.,The musician is playing a copper drum on stage.,False,bronze drum|bronze drums,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着铜鼓。"
+baseline_000090,normal_lexical,music,music,low,坠胡,zhuihu,那位音乐家在舞台上演奏着坠胡。,The musician played the zhuihu on stage.,The musician is playing the erhu on stage.,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+baseline_000088,normal_lexical,music,music,low,陶笛,ocarina,那位音乐家在舞台上演奏着陶笛。,The musician played the ocarina on stage.,The musician is playing a flute on stage.,False,ocarina|ocarinas,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+baseline_000150,normal_lexical,vehicle,vehicle,low,铲车,loader,我们坐铲车抵达了目的地。,We got to our destination by loader.,We arrived at our destination by excavator.,False,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Translate: 我们坐铲车抵达了目的地。"

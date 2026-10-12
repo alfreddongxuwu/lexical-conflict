@@ -1,0 +1,16 @@
+﻿context_category,baseline_label,n,percent_within_context_category
+animal,EXPECTED,107,71.33
+animal,OTHER,43,28.67
+animal,FAILED,0,0.0
+fruit,EXPECTED,111,74.0
+fruit,OTHER,39,26.0
+fruit,FAILED,0,0.0
+music,EXPECTED,115,76.67
+music,OTHER,35,23.33
+music,FAILED,0,0.0
+occupation,EXPECTED,111,74.0
+occupation,OTHER,39,26.0
+occupation,FAILED,0,0.0
+vehicle,EXPECTED,91,60.67
+vehicle,OTHER,59,39.33
+vehicle,FAILED,0,0.0

@@ -1,0 +1,543 @@
+item_id,category,source_word_zh,canonical_en,accepted_zh,variant_type,notes
+animal_001,animal,兔子,rabbit,兔子,canonical,Original item term
+animal_001,animal,兔子,rabbit,兔,synonym,Agent-selected alternative for the intended item meaning
+animal_002,animal,蚊子,mosquito,蚊子,canonical,Original item term
+animal_002,animal,蚊子,mosquito,蚊,synonym,Agent-selected alternative for the intended item meaning
+animal_003,animal,猴子,monkey,猴子,canonical,Original item term
+animal_003,animal,猴子,monkey,猴,synonym,Agent-selected alternative for the intended item meaning
+animal_004,animal,老虎,tiger,老虎,canonical,Original item term
+animal_004,animal,老虎,tiger,虎,synonym,Agent-selected alternative for the intended item meaning
+animal_005,animal,蝴蝶,butterfly,蝴蝶,canonical,Original item term
+animal_005,animal,蝴蝶,butterfly,蝶,synonym,Agent-selected alternative for the intended item meaning
+animal_006,animal,蜜蜂,bee,蜜蜂,canonical,Original item term
+animal_006,animal,蜜蜂,bee,蜂,synonym,Agent-selected alternative for the intended item meaning
+animal_007,animal,狮子,lion,狮子,canonical,Original item term
+animal_007,animal,狮子,lion,獅子,spelling,Traditional orthography of 狮子
+animal_007,animal,狮子,lion,狮,synonym,Agent-selected alternative for the intended item meaning
+animal_007,animal,狮子,lion,獅,spelling,Traditional orthography of 狮
+animal_008,animal,熊猫,panda,熊猫,canonical,Original item term
+animal_008,animal,熊猫,panda,熊貓,spelling,Traditional orthography of 熊猫
+animal_008,animal,熊猫,panda,大熊猫,synonym,Agent-selected alternative for the intended item meaning
+animal_008,animal,熊猫,panda,大熊貓,spelling,Traditional orthography of 大熊猫
+animal_008,animal,熊猫,panda,猫熊,synonym,Agent-selected alternative for the intended item meaning
+animal_008,animal,熊猫,panda,貓熊,spelling,Traditional orthography of 猫熊
+animal_009,animal,蚂蚁,ant,蚂蚁,canonical,Original item term
+animal_009,animal,蚂蚁,ant,螞蟻,spelling,Traditional orthography of 蚂蚁
+animal_009,animal,蚂蚁,ant,蚁,synonym,Agent-selected alternative for the intended item meaning
+animal_009,animal,蚂蚁,ant,蟻,spelling,Traditional orthography of 蚁
+animal_010,animal,苍蝇,fly,苍蝇,canonical,Original item term
+animal_010,animal,苍蝇,fly,蒼蠅,spelling,Traditional orthography of 苍蝇
+animal_010,animal,苍蝇,fly,家蝇,synonym,Agent-selected alternative for the intended item meaning
+animal_010,animal,苍蝇,fly,家蠅,spelling,Traditional orthography of 家蝇
+animal_011,animal,天鹅,swan,天鹅,canonical,Original item term
+animal_011,animal,天鹅,swan,天鵝,spelling,Traditional orthography of 天鹅
+animal_012,animal,孔雀,peacock,孔雀,canonical,Original item term
+animal_013,animal,公鸡,rooster,公鸡,canonical,Original item term
+animal_013,animal,公鸡,rooster,公雞,spelling,Traditional orthography of 公鸡
+animal_013,animal,公鸡,rooster,雄鸡,synonym,Agent-selected alternative for the intended item meaning
+animal_013,animal,公鸡,rooster,雄雞,spelling,Traditional orthography of 雄鸡
+animal_013,animal,公鸡,rooster,鸡公,synonym,Agent-selected alternative for the intended item meaning
+animal_013,animal,公鸡,rooster,雞公,spelling,Traditional orthography of 鸡公
+animal_014,animal,麻雀,sparrow,麻雀,canonical,Original item term
+animal_015,animal,燕子,swallow,燕子,canonical,Original item term
+animal_016,animal,松鼠,squirrel,松鼠,canonical,Original item term
+animal_017,animal,鹦鹉,parrot,鹦鹉,canonical,Original item term
+animal_017,animal,鹦鹉,parrot,鸚鵡,spelling,Traditional orthography of 鹦鹉
+animal_017,animal,鹦鹉,parrot,鹦哥,synonym,Agent-selected alternative for the intended item meaning
+animal_017,animal,鹦鹉,parrot,鸚哥,spelling,Traditional orthography of 鹦哥
+animal_018,animal,鲨鱼,shark,鲨鱼,canonical,Original item term
+animal_018,animal,鲨鱼,shark,鯊魚,spelling,Traditional orthography of 鲨鱼
+animal_018,animal,鲨鱼,shark,鲨,synonym,Agent-selected alternative for the intended item meaning
+animal_018,animal,鲨鱼,shark,鯊,spelling,Traditional orthography of 鲨
+animal_019,animal,鳄鱼,crocodile,鳄鱼,canonical,Original item term
+animal_019,animal,鳄鱼,crocodile,鱷魚,spelling,Traditional orthography of 鳄鱼
+animal_019,animal,鳄鱼,crocodile,鳄,synonym,Agent-selected alternative for the intended item meaning
+animal_019,animal,鳄鱼,crocodile,鱷,spelling,Traditional orthography of 鳄
+animal_020,animal,喜鹊,magpie,喜鹊,canonical,Original item term
+animal_020,animal,喜鹊,magpie,喜鵲,spelling,Traditional orthography of 喜鹊
+animal_021,animal,水母,jellyfish,水母,canonical,Original item term
+animal_021,animal,水母,jellyfish,海蜇,synonym,Agent-selected alternative for the intended item meaning
+animal_022,animal,海龟,sea turtle,海龟,canonical,Original item term
+animal_022,animal,海龟,sea turtle,海龜,spelling,Traditional orthography of 海龟
+animal_023,animal,斑马,zebra,斑马,canonical,Original item term
+animal_023,animal,斑马,zebra,斑馬,spelling,Traditional orthography of 斑马
+animal_024,animal,海豹,seal,海豹,canonical,Original item term
+animal_025,animal,犀牛,rhinoceros,犀牛,canonical,Original item term
+animal_026,animal,河马,hippopotamus,河马,canonical,Original item term
+animal_026,animal,河马,hippopotamus,河馬,spelling,Traditional orthography of 河马
+animal_027,animal,壁虎,gecko,壁虎,canonical,Original item term
+animal_027,animal,壁虎,gecko,守宫,synonym,Agent-selected alternative for the intended item meaning
+animal_027,animal,壁虎,gecko,守宮,spelling,Traditional orthography of 守宫
+animal_028,animal,海狮,sea lion,海狮,canonical,Original item term
+animal_028,animal,海狮,sea lion,海獅,spelling,Traditional orthography of 海狮
+animal_029,animal,蟒蛇,python,蟒蛇,canonical,Original item term
+animal_029,animal,蟒蛇,python,蟒,synonym,Agent-selected alternative for the intended item meaning
+animal_030,animal,乌贼,cuttlefish,乌贼,canonical,Original item term
+animal_030,animal,乌贼,cuttlefish,烏賊,spelling,Traditional orthography of 乌贼
+animal_030,animal,乌贼,cuttlefish,墨鱼,synonym,Agent-selected alternative for the intended item meaning
+animal_030,animal,乌贼,cuttlefish,墨魚,spelling,Traditional orthography of 墨鱼
+fruit_001,fruit,苹果,apple,苹果,canonical,Original item term
+fruit_001,fruit,苹果,apple,蘋果,spelling,Traditional orthography of 苹果
+fruit_002,fruit,西瓜,watermelon,西瓜,canonical,Original item term
+fruit_003,fruit,葡萄,grape,葡萄,canonical,Original item term
+fruit_004,fruit,榴莲,durian,榴莲,canonical,Original item term
+fruit_004,fruit,榴莲,durian,榴蓮,spelling,Traditional orthography of 榴莲
+fruit_005,fruit,芒果,mango,芒果,canonical,Original item term
+fruit_006,fruit,香蕉,banana,香蕉,canonical,Original item term
+fruit_007,fruit,樱桃,cherry,樱桃,canonical,Original item term
+fruit_007,fruit,樱桃,cherry,櫻桃,spelling,Traditional orthography of 樱桃
+fruit_008,fruit,橘子,mandarin,橘子,canonical,Original item term
+fruit_008,fruit,橘子,mandarin,桔子,synonym,Agent-selected alternative for the intended item meaning
+fruit_009,fruit,桃子,peach,桃子,canonical,Original item term
+fruit_009,fruit,桃子,peach,桃,synonym,Agent-selected alternative for the intended item meaning
+fruit_010,fruit,柠檬,lemon,柠檬,canonical,Original item term
+fruit_010,fruit,柠檬,lemon,檸檬,spelling,Traditional orthography of 柠檬
+fruit_011,fruit,梅子,plum,梅子,canonical,Original item term
+fruit_011,fruit,梅子,plum,李子,synonym,Agent-selected alternative for the intended item meaning
+fruit_012,fruit,鸭梨,ya pear,鸭梨,canonical,Original item term
+fruit_012,fruit,鸭梨,ya pear,鴨梨,spelling,Traditional orthography of 鸭梨
+fruit_012,fruit,鸭梨,ya pear,鸭嘴梨,synonym,Agent-selected alternative for the intended item meaning
+fruit_012,fruit,鸭梨,ya pear,鴨嘴梨,spelling,Traditional orthography of 鸭嘴梨
+fruit_013,fruit,甜瓜,melon,甜瓜,canonical,Original item term
+fruit_013,fruit,甜瓜,melon,香瓜,synonym,Agent-selected alternative for the intended item meaning
+fruit_014,fruit,龙眼,longan,龙眼,canonical,Original item term
+fruit_014,fruit,龙眼,longan,龍眼,spelling,Traditional orthography of 龙眼
+fruit_014,fruit,龙眼,longan,桂圆,synonym,Agent-selected alternative for the intended item meaning
+fruit_014,fruit,龙眼,longan,桂圓,spelling,Traditional orthography of 桂圆
+fruit_015,fruit,橄榄,olive,橄榄,canonical,Original item term
+fruit_015,fruit,橄榄,olive,橄欖,spelling,Traditional orthography of 橄榄
+fruit_016,fruit,蓝莓,blueberry,蓝莓,canonical,Original item term
+fruit_016,fruit,蓝莓,blueberry,藍莓,spelling,Traditional orthography of 蓝莓
+fruit_017,fruit,黑莓,blackberry,黑莓,canonical,Original item term
+fruit_018,fruit,梨子,pear,梨子,canonical,Original item term
+fruit_018,fruit,梨子,pear,梨,synonym,Agent-selected alternative for the intended item meaning
+fruit_019,fruit,杏子,apricot,杏子,canonical,Original item term
+fruit_019,fruit,杏子,apricot,杏,synonym,Agent-selected alternative for the intended item meaning
+fruit_020,fruit,桑葚,mulberry,桑葚,canonical,Original item term
+fruit_020,fruit,桑葚,mulberry,桑椹,synonym,Agent-selected alternative for the intended item meaning
+fruit_020,fruit,桑葚,mulberry,桑果,synonym,Agent-selected alternative for the intended item meaning
+fruit_021,fruit,释迦,sugar apple,释迦,canonical,Original item term
+fruit_021,fruit,释迦,sugar apple,釋迦,spelling,Traditional orthography of 释迦
+fruit_021,fruit,释迦,sugar apple,番荔枝,synonym,Agent-selected alternative for the intended item meaning
+fruit_021,fruit,释迦,sugar apple,释迦果,synonym,Agent-selected alternative for the intended item meaning
+fruit_021,fruit,释迦,sugar apple,釋迦果,spelling,Traditional orthography of 释迦果
+fruit_022,fruit,椰枣,date,椰枣,canonical,Original item term
+fruit_022,fruit,椰枣,date,椰棗,spelling,Traditional orthography of 椰枣
+fruit_022,fruit,椰枣,date,海枣,synonym,Agent-selected alternative for the intended item meaning
+fruit_022,fruit,椰枣,date,海棗,spelling,Traditional orthography of 海枣
+fruit_023,fruit,芭乐,guava,芭乐,canonical,Original item term
+fruit_023,fruit,芭乐,guava,芭樂,spelling,Traditional orthography of 芭乐
+fruit_023,fruit,芭乐,guava,番石榴,synonym,Agent-selected alternative for the intended item meaning
+fruit_024,fruit,香梨,fragrant pear,香梨,canonical,Original item term
+fruit_025,fruit,青枣,green date,青枣,canonical,Original item term
+fruit_025,fruit,青枣,green date,青棗,spelling,Traditional orthography of 青枣
+fruit_025,fruit,青枣,green date,绿枣,synonym,Agent-selected alternative for the intended item meaning
+fruit_025,fruit,青枣,green date,綠棗,spelling,Traditional orthography of 绿枣
+fruit_026,fruit,莲雾,wax apple,莲雾,canonical,Original item term
+fruit_026,fruit,莲雾,wax apple,蓮霧,spelling,Traditional orthography of 莲雾
+fruit_026,fruit,莲雾,wax apple,洋蒲桃,synonym,Agent-selected alternative for the intended item meaning
+fruit_027,fruit,沙果,crabapple,沙果,canonical,Original item term
+fruit_027,fruit,沙果,crabapple,海棠果,synonym,Agent-selected alternative for the intended item meaning
+fruit_028,fruit,蛇果,red delicious apple,蛇果,canonical,Original item term
+fruit_028,fruit,蛇果,red delicious apple,红元帅苹果,synonym,Agent-selected alternative for the intended item meaning
+fruit_028,fruit,蛇果,red delicious apple,紅元帥蘋果,spelling,Traditional orthography of 红元帅苹果
+fruit_028,fruit,蛇果,red delicious apple,红地厘蛇果,synonym,Agent-selected alternative for the intended item meaning
+fruit_028,fruit,蛇果,red delicious apple,紅地釐蛇果,spelling,Traditional orthography of 红地厘蛇果
+fruit_029,fruit,红提,red grape,红提,canonical,Original item term
+fruit_029,fruit,红提,red grape,紅提,spelling,Traditional orthography of 红提
+fruit_029,fruit,红提,red grape,红葡萄,synonym,Agent-selected alternative for the intended item meaning
+fruit_029,fruit,红提,red grape,紅葡萄,spelling,Traditional orthography of 红葡萄
+fruit_029,fruit,红提,red grape,红色葡萄,synonym,Agent-selected alternative for the intended item meaning
+fruit_029,fruit,红提,red grape,紅色葡萄,spelling,Traditional orthography of 红色葡萄
+fruit_030,fruit,血橙,blood orange,血橙,canonical,Original item term
+music_001,music,钢琴,piano,钢琴,canonical,Original item term
+music_001,music,钢琴,piano,鋼琴,spelling,Traditional orthography of 钢琴
+music_002,music,小号,trumpet,小号,canonical,Original item term
+music_002,music,小号,trumpet,小號,spelling,Traditional orthography of 小号
+music_002,music,小号,trumpet,小喇叭,synonym,Agent-selected alternative for the intended item meaning
+music_003,music,吉他,guitar,吉他,canonical,Original item term
+music_003,music,吉他,guitar,六弦琴,synonym,Agent-selected alternative for the intended item meaning
+music_004,music,大号,tuba,大号,canonical,Original item term
+music_004,music,大号,tuba,大號,spelling,Traditional orthography of 大号
+music_004,music,大号,tuba,低音号,synonym,Agent-selected alternative for the intended item meaning
+music_004,music,大号,tuba,低音號,spelling,Traditional orthography of 低音号
+music_004,music,大号,tuba,土巴号,synonym,Agent-selected alternative for the intended item meaning
+music_004,music,大号,tuba,土巴號,spelling,Traditional orthography of 土巴号
+music_005,music,号角,horn,号角,canonical,Original item term
+music_005,music,号角,horn,號角,spelling,Traditional orthography of 号角
+music_006,music,琵琶,pipa,琵琶,canonical,Original item term
+music_007,music,锣鼓,percussion,锣鼓,canonical,Original item term
+music_007,music,锣鼓,percussion,鑼鼓,spelling,Traditional orthography of 锣鼓
+music_007,music,锣鼓,percussion,打击乐,synonym,Agent-selected alternative for the intended item meaning
+music_007,music,锣鼓,percussion,打擊樂,spelling,Traditional orthography of 打击乐
+music_007,music,锣鼓,percussion,打击乐器,synonym,Agent-selected alternative for the intended item meaning
+music_007,music,锣鼓,percussion,打擊樂器,spelling,Traditional orthography of 打击乐器
+music_008,music,铃铛,bell,铃铛,canonical,Original item term
+music_008,music,铃铛,bell,鈴鐺,spelling,Traditional orthography of 铃铛
+music_008,music,铃铛,bell,铃,synonym,Agent-selected alternative for the intended item meaning
+music_008,music,铃铛,bell,鈴,spelling,Traditional orthography of 铃
+music_008,music,铃铛,bell,钟,synonym,Agent-selected alternative for the intended item meaning
+music_008,music,铃铛,bell,鐘,spelling,Traditional orthography of 钟
+music_009,music,笛子,flute,笛子,canonical,Original item term
+music_009,music,笛子,flute,长笛,synonym,Agent-selected alternative for the intended item meaning
+music_009,music,笛子,flute,長笛,spelling,Traditional orthography of 长笛
+music_009,music,笛子,flute,横笛,synonym,Agent-selected alternative for the intended item meaning
+music_009,music,笛子,flute,橫笛,spelling,Traditional orthography of 横笛
+music_010,music,大鼓,bass drum,大鼓,canonical,Original item term
+music_010,music,大鼓,bass drum,低音鼓,synonym,Agent-selected alternative for the intended item meaning
+music_011,music,腰鼓,waist drum,腰鼓,canonical,Original item term
+music_012,music,铜鼓,bronze drum,铜鼓,canonical,Original item term
+music_012,music,铜鼓,bronze drum,銅鼓,spelling,Traditional orthography of 铜鼓
+music_013,music,风笛,bagpipe,风笛,canonical,Original item term
+music_013,music,风笛,bagpipe,風笛,spelling,Traditional orthography of 风笛
+music_014,music,花鼓,flower drum,花鼓,canonical,Original item term
+music_015,music,长号,trombone,长号,canonical,Original item term
+music_015,music,长号,trombone,長號,spelling,Traditional orthography of 长号
+music_015,music,长号,trombone,拉管,synonym,Agent-selected alternative for the intended item meaning
+music_015,music,长号,trombone,伸缩喇叭,synonym,Agent-selected alternative for the intended item meaning
+music_015,music,长号,trombone,伸縮喇叭,spelling,Traditional orthography of 伸缩喇叭
+music_016,music,竹板,bamboo clapper,竹板,canonical,Original item term
+music_016,music,竹板,bamboo clapper,竹响板,synonym,Agent-selected alternative for the intended item meaning
+music_016,music,竹板,bamboo clapper,竹響板,spelling,Traditional orthography of 竹响板
+music_016,music,竹板,bamboo clapper,竹拍板,synonym,Agent-selected alternative for the intended item meaning
+music_017,music,贝斯,bass,贝斯,canonical,Original item term
+music_017,music,贝斯,bass,貝斯,spelling,Traditional orthography of 贝斯
+music_017,music,贝斯,bass,贝司,synonym,Agent-selected alternative for the intended item meaning
+music_017,music,贝斯,bass,貝司,spelling,Traditional orthography of 贝司
+music_017,music,贝斯,bass,低音吉他,synonym,Agent-selected alternative for the intended item meaning
+music_017,music,贝斯,bass,电贝斯,synonym,Agent-selected alternative for the intended item meaning
+music_017,music,贝斯,bass,電貝斯,spelling,Traditional orthography of 电贝斯
+music_018,music,手鼓,hand drum,手鼓,canonical,Original item term
+music_019,music,芦笙,lusheng,芦笙,canonical,Original item term
+music_019,music,芦笙,lusheng,蘆笙,spelling,Traditional orthography of 芦笙
+music_020,music,短笛,piccolo,短笛,canonical,Original item term
+music_021,music,柳琴,liuqin,柳琴,canonical,Original item term
+music_022,music,编磬,stone chimes,编磬,canonical,Original item term
+music_022,music,编磬,stone chimes,編磬,spelling,Traditional orthography of 编磬
+music_022,music,编磬,stone chimes,磬,synonym,Agent-selected alternative for the intended item meaning
+music_022,music,编磬,stone chimes,石磬,synonym,Agent-selected alternative for the intended item meaning
+music_023,music,高胡,gaohu,高胡,canonical,Original item term
+music_023,music,高胡,gaohu,高音二胡,synonym,Agent-selected alternative for the intended item meaning
+music_024,music,边鼓,side drum,边鼓,canonical,Original item term
+music_024,music,边鼓,side drum,邊鼓,spelling,Traditional orthography of 边鼓
+music_024,music,边鼓,side drum,小军鼓,synonym,Agent-selected alternative for the intended item meaning
+music_024,music,边鼓,side drum,小軍鼓,spelling,Traditional orthography of 小军鼓
+music_024,music,边鼓,side drum,小鼓,synonym,Agent-selected alternative for the intended item meaning
+music_024,music,边鼓,side drum,响弦鼓,synonym,Agent-selected alternative for the intended item meaning
+music_024,music,边鼓,side drum,響弦鼓,spelling,Traditional orthography of 响弦鼓
+music_025,music,手铃,handbell,手铃,canonical,Original item term
+music_025,music,手铃,handbell,手鈴,spelling,Traditional orthography of 手铃
+music_025,music,手铃,handbell,手摇铃,synonym,Agent-selected alternative for the intended item meaning
+music_025,music,手铃,handbell,手搖鈴,spelling,Traditional orthography of 手摇铃
+music_026,music,沙锤,maracas,沙锤,canonical,Original item term
+music_026,music,沙锤,maracas,沙錘,spelling,Traditional orthography of 沙锤
+music_026,music,沙锤,maracas,沙槌,synonym,Agent-selected alternative for the intended item meaning
+music_026,music,沙锤,maracas,响葫芦,synonym,Agent-selected alternative for the intended item meaning
+music_026,music,沙锤,maracas,響葫蘆,spelling,Traditional orthography of 响葫芦
+music_027,music,钢鼓,steel drum,钢鼓,canonical,Original item term
+music_027,music,钢鼓,steel drum,鋼鼓,spelling,Traditional orthography of 钢鼓
+music_027,music,钢鼓,steel drum,钢盘鼓,synonym,Agent-selected alternative for the intended item meaning
+music_027,music,钢鼓,steel drum,鋼盤鼓,spelling,Traditional orthography of 钢盘鼓
+music_028,music,陶笛,ocarina,陶笛,canonical,Original item term
+music_029,music,钟琴,glockenspiel,钟琴,canonical,Original item term
+music_029,music,钟琴,glockenspiel,鐘琴,spelling,Traditional orthography of 钟琴
+music_030,music,坠胡,zhuihu,坠胡,canonical,Original item term
+music_030,music,坠胡,zhuihu,墜胡,spelling,Traditional orthography of 坠胡
+music_030,music,坠胡,zhuihu,坠琴,synonym,Agent-selected alternative for the intended item meaning
+music_030,music,坠胡,zhuihu,墜琴,spelling,Traditional orthography of 坠琴
+occupation_001,occupation,记者,reporter,记者,canonical,Original item term
+occupation_001,occupation,记者,reporter,記者,spelling,Traditional orthography of 记者
+occupation_001,occupation,记者,reporter,新闻记者,synonym,Agent-selected alternative for the intended item meaning
+occupation_001,occupation,记者,reporter,新聞記者,spelling,Traditional orthography of 新闻记者
+occupation_002,occupation,农民,farmer,农民,canonical,Original item term
+occupation_002,occupation,农民,farmer,農民,spelling,Traditional orthography of 农民
+occupation_002,occupation,农民,farmer,农夫,synonym,Agent-selected alternative for the intended item meaning
+occupation_002,occupation,农民,farmer,農夫,spelling,Traditional orthography of 农夫
+occupation_002,occupation,农民,farmer,农人,synonym,Agent-selected alternative for the intended item meaning
+occupation_002,occupation,农民,farmer,農人,spelling,Traditional orthography of 农人
+occupation_002,occupation,农民,farmer,农场主,synonym,Agent-selected alternative for the intended item meaning
+occupation_002,occupation,农民,farmer,農場主,spelling,Traditional orthography of 农场主
+occupation_003,occupation,教师,teacher,教师,canonical,Original item term
+occupation_003,occupation,教师,teacher,教師,spelling,Traditional orthography of 教师
+occupation_003,occupation,教师,teacher,老师,synonym,Agent-selected alternative for the intended item meaning
+occupation_003,occupation,教师,teacher,老師,spelling,Traditional orthography of 老师
+occupation_003,occupation,教师,teacher,教员,synonym,Agent-selected alternative for the intended item meaning
+occupation_003,occupation,教师,teacher,教員,spelling,Traditional orthography of 教员
+occupation_004,occupation,工人,worker,工人,canonical,Original item term
+occupation_004,occupation,工人,worker,劳工,synonym,Agent-selected alternative for the intended item meaning
+occupation_004,occupation,工人,worker,勞工,spelling,Traditional orthography of 劳工
+occupation_004,occupation,工人,worker,劳动者,synonym,Agent-selected alternative for the intended item meaning
+occupation_004,occupation,工人,worker,勞動者,spelling,Traditional orthography of 劳动者
+occupation_005,occupation,医生,doctor,医生,canonical,Original item term
+occupation_005,occupation,医生,doctor,醫生,spelling,Traditional orthography of 医生
+occupation_005,occupation,医生,doctor,医师,synonym,Agent-selected alternative for the intended item meaning
+occupation_005,occupation,医生,doctor,醫師,spelling,Traditional orthography of 医师
+occupation_005,occupation,医生,doctor,大夫,synonym,Agent-selected alternative for the intended item meaning
+occupation_006,occupation,教授,professor,教授,canonical,Original item term
+occupation_007,occupation,学者,scholar,学者,canonical,Original item term
+occupation_007,occupation,学者,scholar,學者,spelling,Traditional orthography of 学者
+occupation_007,occupation,学者,scholar,学人,synonym,Agent-selected alternative for the intended item meaning
+occupation_007,occupation,学者,scholar,學人,spelling,Traditional orthography of 学人
+occupation_008,occupation,作家,writer,作家,canonical,Original item term
+occupation_008,occupation,作家,writer,作者,synonym,Agent-selected alternative for the intended item meaning
+occupation_008,occupation,作家,writer,写作者,synonym,Agent-selected alternative for the intended item meaning
+occupation_008,occupation,作家,writer,寫作者,spelling,Traditional orthography of 写作者
+occupation_009,occupation,警察,police officer,警察,canonical,Original item term
+occupation_009,occupation,警察,police officer,警员,synonym,Agent-selected alternative for the intended item meaning
+occupation_009,occupation,警察,police officer,警員,spelling,Traditional orthography of 警员
+occupation_009,occupation,警察,police officer,警官,synonym,Agent-selected alternative for the intended item meaning
+occupation_010,occupation,演员,actor,演员,canonical,Original item term
+occupation_010,occupation,演员,actor,演員,spelling,Traditional orthography of 演员
+occupation_011,occupation,导演,director,导演,canonical,Original item term
+occupation_011,occupation,导演,director,導演,spelling,Traditional orthography of 导演
+occupation_012,occupation,画家,painter,画家,canonical,Original item term
+occupation_012,occupation,画家,painter,畫家,spelling,Traditional orthography of 画家
+occupation_012,occupation,画家,painter,画师,synonym,Agent-selected alternative for the intended item meaning
+occupation_012,occupation,画家,painter,畫師,spelling,Traditional orthography of 画师
+occupation_012,occupation,画家,painter,绘画家,synonym,Agent-selected alternative for the intended item meaning
+occupation_012,occupation,画家,painter,繪畫家,spelling,Traditional orthography of 绘画家
+occupation_013,occupation,商人,merchant,商人,canonical,Original item term
+occupation_013,occupation,商人,merchant,商贩,synonym,Agent-selected alternative for the intended item meaning
+occupation_013,occupation,商人,merchant,商販,spelling,Traditional orthography of 商贩
+occupation_013,occupation,商人,merchant,商家,synonym,Agent-selected alternative for the intended item meaning
+occupation_014,occupation,歌手,singer,歌手,canonical,Original item term
+occupation_014,occupation,歌手,singer,歌唱家,synonym,Agent-selected alternative for the intended item meaning
+occupation_014,occupation,歌手,singer,歌者,synonym,Agent-selected alternative for the intended item meaning
+occupation_015,occupation,船长,captain,船长,canonical,Original item term
+occupation_015,occupation,船长,captain,船長,spelling,Traditional orthography of 船长
+occupation_016,occupation,助理,assistant,助理,canonical,Original item term
+occupation_016,occupation,助理,assistant,助手,synonym,Agent-selected alternative for the intended item meaning
+occupation_017,occupation,裁判,referee,裁判,canonical,Original item term
+occupation_017,occupation,裁判,referee,裁判员,synonym,Agent-selected alternative for the intended item meaning
+occupation_017,occupation,裁判,referee,裁判員,spelling,Traditional orthography of 裁判员
+occupation_018,occupation,模特,model,模特,canonical,Original item term
+occupation_018,occupation,模特,model,模特儿,synonym,Agent-selected alternative for the intended item meaning
+occupation_018,occupation,模特,model,模特兒,spelling,Traditional orthography of 模特儿
+occupation_019,occupation,牧师,pastor,牧师,canonical,Original item term
+occupation_019,occupation,牧师,pastor,牧師,spelling,Traditional orthography of 牧师
+occupation_019,occupation,牧师,pastor,牧者,synonym,Agent-selected alternative for the intended item meaning
+occupation_020,occupation,保安,security guard,保安,canonical,Original item term
+occupation_020,occupation,保安,security guard,保安员,synonym,Agent-selected alternative for the intended item meaning
+occupation_020,occupation,保安,security guard,保安員,spelling,Traditional orthography of 保安员
+occupation_020,occupation,保安,security guard,警卫,synonym,Agent-selected alternative for the intended item meaning
+occupation_020,occupation,保安,security guard,警衛,spelling,Traditional orthography of 警卫
+occupation_020,occupation,保安,security guard,警卫员,synonym,Agent-selected alternative for the intended item meaning
+occupation_020,occupation,保安,security guard,警衛員,spelling,Traditional orthography of 警卫员
+occupation_020,occupation,保安,security guard,安保人员,synonym,Agent-selected alternative for the intended item meaning
+occupation_020,occupation,保安,security guard,安保人員,spelling,Traditional orthography of 安保人员
+occupation_021,occupation,电工,electrician,电工,canonical,Original item term
+occupation_021,occupation,电工,electrician,電工,spelling,Traditional orthography of 电工
+occupation_021,occupation,电工,electrician,电气技工,synonym,Agent-selected alternative for the intended item meaning
+occupation_021,occupation,电工,electrician,電氣技工,spelling,Traditional orthography of 电气技工
+occupation_022,occupation,园丁,gardener,园丁,canonical,Original item term
+occupation_022,occupation,园丁,gardener,園丁,spelling,Traditional orthography of 园丁
+occupation_022,occupation,园丁,gardener,园艺师,synonym,Agent-selected alternative for the intended item meaning
+occupation_022,occupation,园丁,gardener,園藝師,spelling,Traditional orthography of 园艺师
+occupation_022,occupation,园丁,gardener,花匠,synonym,Agent-selected alternative for the intended item meaning
+occupation_023,occupation,画师,illustrator,画师,canonical,Original item term
+occupation_023,occupation,画师,illustrator,畫師,spelling,Traditional orthography of 画师
+occupation_023,occupation,画师,illustrator,插画家,synonym,Agent-selected alternative for the intended item meaning
+occupation_023,occupation,画师,illustrator,插畫家,spelling,Traditional orthography of 插画家
+occupation_023,occupation,画师,illustrator,插画师,synonym,Agent-selected alternative for the intended item meaning
+occupation_023,occupation,画师,illustrator,插畫師,spelling,Traditional orthography of 插画师
+occupation_023,occupation,画师,illustrator,绘图员,synonym,Agent-selected alternative for the intended item meaning
+occupation_023,occupation,画师,illustrator,繪圖員,spelling,Traditional orthography of 绘图员
+occupation_024,occupation,牙医,dentist,牙医,canonical,Original item term
+occupation_024,occupation,牙医,dentist,牙醫,spelling,Traditional orthography of 牙医
+occupation_024,occupation,牙医,dentist,牙科医生,synonym,Agent-selected alternative for the intended item meaning
+occupation_024,occupation,牙医,dentist,牙科醫生,spelling,Traditional orthography of 牙科医生
+occupation_024,occupation,牙医,dentist,牙科医师,synonym,Agent-selected alternative for the intended item meaning
+occupation_024,occupation,牙医,dentist,牙科醫師,spelling,Traditional orthography of 牙科医师
+occupation_025,occupation,舞者,dancer,舞者,canonical,Original item term
+occupation_025,occupation,舞者,dancer,舞蹈演员,synonym,Agent-selected alternative for the intended item meaning
+occupation_025,occupation,舞者,dancer,舞蹈演員,spelling,Traditional orthography of 舞蹈演员
+occupation_025,occupation,舞者,dancer,舞蹈家,synonym,Agent-selected alternative for the intended item meaning
+occupation_025,occupation,舞者,dancer,跳舞者,synonym,Agent-selected alternative for the intended item meaning
+occupation_026,occupation,花匠,florist,花匠,canonical,Original item term
+occupation_026,occupation,花匠,florist,花商,synonym,Agent-selected alternative for the intended item meaning
+occupation_026,occupation,花匠,florist,花店老板,synonym,Agent-selected alternative for the intended item meaning
+occupation_026,occupation,花匠,florist,花店老闆,spelling,Traditional orthography of 花店老板
+occupation_026,occupation,花匠,florist,花农,synonym,Agent-selected alternative for the intended item meaning
+occupation_026,occupation,花匠,florist,花農,spelling,Traditional orthography of 花农
+occupation_026,occupation,花匠,florist,园丁,synonym,Agent-selected alternative for the intended item meaning
+occupation_026,occupation,花匠,florist,園丁,spelling,Traditional orthography of 园丁
+occupation_027,occupation,茶农,tea farmer,茶农,canonical,Original item term
+occupation_027,occupation,茶农,tea farmer,茶農,spelling,Traditional orthography of 茶农
+occupation_027,occupation,茶农,tea farmer,种茶人,synonym,Agent-selected alternative for the intended item meaning
+occupation_027,occupation,茶农,tea farmer,種茶人,spelling,Traditional orthography of 种茶人
+occupation_027,occupation,茶农,tea farmer,茶叶种植者,synonym,Agent-selected alternative for the intended item meaning
+occupation_027,occupation,茶农,tea farmer,茶葉種植者,spelling,Traditional orthography of 茶叶种植者
+occupation_028,occupation,乐手,musician,乐手,canonical,Original item term
+occupation_028,occupation,乐手,musician,樂手,spelling,Traditional orthography of 乐手
+occupation_028,occupation,乐手,musician,音乐家,synonym,Agent-selected alternative for the intended item meaning
+occupation_028,occupation,乐手,musician,音樂家,spelling,Traditional orthography of 音乐家
+occupation_028,occupation,乐手,musician,音乐人,synonym,Agent-selected alternative for the intended item meaning
+occupation_028,occupation,乐手,musician,音樂人,spelling,Traditional orthography of 音乐人
+occupation_028,occupation,乐手,musician,乐师,synonym,Agent-selected alternative for the intended item meaning
+occupation_028,occupation,乐手,musician,樂師,spelling,Traditional orthography of 乐师
+occupation_028,occupation,乐手,musician,演奏家,synonym,Agent-selected alternative for the intended item meaning
+occupation_028,occupation,乐手,musician,演奏者,synonym,Agent-selected alternative for the intended item meaning
+occupation_029,occupation,码农,programmer,码农,canonical,Original item term
+occupation_029,occupation,码农,programmer,碼農,spelling,Traditional orthography of 码农
+occupation_029,occupation,码农,programmer,程序员,synonym,Agent-selected alternative for the intended item meaning
+occupation_029,occupation,码农,programmer,程序員,spelling,Traditional orthography of 程序员
+occupation_029,occupation,码农,programmer,编程员,synonym,Agent-selected alternative for the intended item meaning
+occupation_029,occupation,码农,programmer,編程員,spelling,Traditional orthography of 编程员
+occupation_029,occupation,码农,programmer,程式设计师,synonym,Agent-selected alternative for the intended item meaning
+occupation_029,occupation,码农,programmer,程式設計師,spelling,Traditional orthography of 程式设计师
+occupation_029,occupation,码农,programmer,软件开发者,synonym,Agent-selected alternative for the intended item meaning
+occupation_029,occupation,码农,programmer,軟件開發者,spelling,Traditional orthography of 软件开发者
+occupation_030,occupation,机师,pilot,机师,canonical,Original item term
+occupation_030,occupation,机师,pilot,機師,spelling,Traditional orthography of 机师
+occupation_030,occupation,机师,pilot,飞行员,synonym,Agent-selected alternative for the intended item meaning
+occupation_030,occupation,机师,pilot,飛行員,spelling,Traditional orthography of 飞行员
+occupation_030,occupation,机师,pilot,驾驶员,synonym,Agent-selected alternative for the intended item meaning
+occupation_030,occupation,机师,pilot,駕駛員,spelling,Traditional orthography of 驾驶员
+vehicle_001,vehicle,汽车,car,汽车,canonical,Original item term
+vehicle_001,vehicle,汽车,car,汽車,spelling,Traditional orthography of 汽车
+vehicle_001,vehicle,汽车,car,小汽车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_001,vehicle,汽车,car,小汽車,spelling,Traditional orthography of 小汽车
+vehicle_002,vehicle,飞机,airplane,飞机,canonical,Original item term
+vehicle_002,vehicle,飞机,airplane,飛機,spelling,Traditional orthography of 飞机
+vehicle_003,vehicle,火车,train,火车,canonical,Original item term
+vehicle_003,vehicle,火车,train,火車,spelling,Traditional orthography of 火车
+vehicle_003,vehicle,火车,train,列车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_003,vehicle,火车,train,列車,spelling,Traditional orthography of 列车
+vehicle_003,vehicle,火车,train,铁路列车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_003,vehicle,火车,train,鐵路列車,spelling,Traditional orthography of 铁路列车
+vehicle_004,vehicle,地铁,subway,地铁,canonical,Original item term
+vehicle_004,vehicle,地铁,subway,地鐵,spelling,Traditional orthography of 地铁
+vehicle_004,vehicle,地铁,subway,地下铁,synonym,Agent-selected alternative for the intended item meaning
+vehicle_004,vehicle,地铁,subway,地下鐵,spelling,Traditional orthography of 地下铁
+vehicle_004,vehicle,地铁,subway,地下铁路,synonym,Agent-selected alternative for the intended item meaning
+vehicle_004,vehicle,地铁,subway,地下鐵路,spelling,Traditional orthography of 地下铁路
+vehicle_004,vehicle,地铁,subway,捷运,synonym,Agent-selected alternative for the intended item meaning
+vehicle_004,vehicle,地铁,subway,捷運,spelling,Traditional orthography of 捷运
+vehicle_005,vehicle,马车,carriage,马车,canonical,Original item term
+vehicle_005,vehicle,马车,carriage,馬車,spelling,Traditional orthography of 马车
+vehicle_006,vehicle,列车,rail train,列车,canonical,Original item term
+vehicle_006,vehicle,列车,rail train,列車,spelling,Traditional orthography of 列车
+vehicle_006,vehicle,列车,rail train,火车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_006,vehicle,列车,rail train,火車,spelling,Traditional orthography of 火车
+vehicle_006,vehicle,列车,rail train,铁路列车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_006,vehicle,列车,rail train,鐵路列車,spelling,Traditional orthography of 铁路列车
+vehicle_007,vehicle,高铁,high-speed train,高铁,canonical,Original item term
+vehicle_007,vehicle,高铁,high-speed train,高鐵,spelling,Traditional orthography of 高铁
+vehicle_007,vehicle,高铁,high-speed train,高速列车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_007,vehicle,高铁,high-speed train,高速列車,spelling,Traditional orthography of 高速列车
+vehicle_007,vehicle,高铁,high-speed train,高速火车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_007,vehicle,高铁,high-speed train,高速火車,spelling,Traditional orthography of 高速火车
+vehicle_007,vehicle,高铁,high-speed train,高速铁路列车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_007,vehicle,高铁,high-speed train,高速鐵路列車,spelling,Traditional orthography of 高速铁路列车
+vehicle_008,vehicle,轿车,sedan,轿车,canonical,Original item term
+vehicle_008,vehicle,轿车,sedan,轎車,spelling,Traditional orthography of 轿车
+vehicle_008,vehicle,轿车,sedan,三厢车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_008,vehicle,轿车,sedan,三廂車,spelling,Traditional orthography of 三厢车
+vehicle_008,vehicle,轿车,sedan,小轿车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_008,vehicle,轿车,sedan,小轎車,spelling,Traditional orthography of 小轿车
+vehicle_009,vehicle,卡车,truck,卡车,canonical,Original item term
+vehicle_009,vehicle,卡车,truck,卡車,spelling,Traditional orthography of 卡车
+vehicle_009,vehicle,卡车,truck,货车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_009,vehicle,卡车,truck,貨車,spelling,Traditional orthography of 货车
+vehicle_009,vehicle,卡车,truck,载货汽车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_009,vehicle,卡车,truck,載貨汽車,spelling,Traditional orthography of 载货汽车
+vehicle_010,vehicle,火箭,rocket,火箭,canonical,Original item term
+vehicle_011,vehicle,巴士,bus,巴士,canonical,Original item term
+vehicle_011,vehicle,巴士,bus,公交车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_011,vehicle,巴士,bus,公交車,spelling,Traditional orthography of 公交车
+vehicle_011,vehicle,巴士,bus,公共汽车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_011,vehicle,巴士,bus,公共汽車,spelling,Traditional orthography of 公共汽车
+vehicle_011,vehicle,巴士,bus,公车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_011,vehicle,巴士,bus,公車,spelling,Traditional orthography of 公车
+vehicle_011,vehicle,巴士,bus,大巴,synonym,Agent-selected alternative for the intended item meaning
+vehicle_011,vehicle,巴士,bus,客车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_011,vehicle,巴士,bus,客車,spelling,Traditional orthography of 客车
+vehicle_012,vehicle,警车,police car,警车,canonical,Original item term
+vehicle_012,vehicle,警车,police car,警車,spelling,Traditional orthography of 警车
+vehicle_012,vehicle,警车,police car,巡逻车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_012,vehicle,警车,police car,巡邏車,spelling,Traditional orthography of 巡逻车
+vehicle_013,vehicle,游艇,yacht,游艇,canonical,Original item term
+vehicle_013,vehicle,游艇,yacht,遊艇,spelling,Traditional orthography of 游艇
+vehicle_014,vehicle,潜艇,submarine,潜艇,canonical,Original item term
+vehicle_014,vehicle,潜艇,submarine,潛艇,spelling,Traditional orthography of 潜艇
+vehicle_014,vehicle,潜艇,submarine,潜水艇,synonym,Agent-selected alternative for the intended item meaning
+vehicle_014,vehicle,潜艇,submarine,潛水艇,spelling,Traditional orthography of 潜水艇
+vehicle_015,vehicle,滑板,skateboard,滑板,canonical,Original item term
+vehicle_016,vehicle,战机,fighter jet,战机,canonical,Original item term
+vehicle_016,vehicle,战机,fighter jet,戰機,spelling,Traditional orthography of 战机
+vehicle_016,vehicle,战机,fighter jet,战斗机,synonym,Agent-selected alternative for the intended item meaning
+vehicle_016,vehicle,战机,fighter jet,戰鬥機,spelling,Traditional orthography of 战斗机
+vehicle_016,vehicle,战机,fighter jet,喷气式战斗机,synonym,Agent-selected alternative for the intended item meaning
+vehicle_016,vehicle,战机,fighter jet,噴氣式戰鬥機,spelling,Traditional orthography of 喷气式战斗机
+vehicle_017,vehicle,战车,chariot,战车,canonical,Original item term
+vehicle_017,vehicle,战车,chariot,戰車,spelling,Traditional orthography of 战车
+vehicle_017,vehicle,战车,chariot,战马车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_017,vehicle,战车,chariot,戰馬車,spelling,Traditional orthography of 战马车
+vehicle_018,vehicle,越野,off-road vehicle,越野,canonical,Original item term
+vehicle_018,vehicle,越野,off-road vehicle,越野车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_018,vehicle,越野,off-road vehicle,越野車,spelling,Traditional orthography of 越野车
+vehicle_018,vehicle,越野,off-road vehicle,越野汽车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_018,vehicle,越野,off-road vehicle,越野汽車,spelling,Traditional orthography of 越野汽车
+vehicle_019,vehicle,皮卡,pickup truck,皮卡,canonical,Original item term
+vehicle_019,vehicle,皮卡,pickup truck,皮卡车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_019,vehicle,皮卡,pickup truck,皮卡車,spelling,Traditional orthography of 皮卡车
+vehicle_019,vehicle,皮卡,pickup truck,小货卡,synonym,Agent-selected alternative for the intended item meaning
+vehicle_019,vehicle,皮卡,pickup truck,小貨卡,spelling,Traditional orthography of 小货卡
+vehicle_020,vehicle,校车,school bus,校车,canonical,Original item term
+vehicle_020,vehicle,校车,school bus,校車,spelling,Traditional orthography of 校车
+vehicle_021,vehicle,客船,passenger ship,客船,canonical,Original item term
+vehicle_021,vehicle,客船,passenger ship,客轮,synonym,Agent-selected alternative for the intended item meaning
+vehicle_021,vehicle,客船,passenger ship,客輪,spelling,Traditional orthography of 客轮
+vehicle_021,vehicle,客船,passenger ship,客运船,synonym,Agent-selected alternative for the intended item meaning
+vehicle_021,vehicle,客船,passenger ship,客運船,spelling,Traditional orthography of 客运船
+vehicle_022,vehicle,罐车,tanker,罐车,canonical,Original item term
+vehicle_022,vehicle,罐车,tanker,罐車,spelling,Traditional orthography of 罐车
+vehicle_022,vehicle,罐车,tanker,油罐车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_022,vehicle,罐车,tanker,油罐車,spelling,Traditional orthography of 油罐车
+vehicle_022,vehicle,罐车,tanker,液罐车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_022,vehicle,罐车,tanker,液罐車,spelling,Traditional orthography of 液罐车
+vehicle_022,vehicle,罐车,tanker,槽罐车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_022,vehicle,罐车,tanker,槽罐車,spelling,Traditional orthography of 槽罐车
+vehicle_022,vehicle,罐车,tanker,槽车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_022,vehicle,罐车,tanker,槽車,spelling,Traditional orthography of 槽车
+vehicle_023,vehicle,飞艇,airship,飞艇,canonical,Original item term
+vehicle_023,vehicle,飞艇,airship,飛艇,spelling,Traditional orthography of 飞艇
+vehicle_023,vehicle,飞艇,airship,飞行船,synonym,Agent-selected alternative for the intended item meaning
+vehicle_023,vehicle,飞艇,airship,飛行船,spelling,Traditional orthography of 飞行船
+vehicle_024,vehicle,叉车,forklift,叉车,canonical,Original item term
+vehicle_024,vehicle,叉车,forklift,叉車,spelling,Traditional orthography of 叉车
+vehicle_024,vehicle,叉车,forklift,铲叉车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_024,vehicle,叉车,forklift,鏟叉車,spelling,Traditional orthography of 铲叉车
+vehicle_024,vehicle,叉车,forklift,叉式起重机,synonym,Agent-selected alternative for the intended item meaning
+vehicle_024,vehicle,叉车,forklift,叉式起重機,spelling,Traditional orthography of 叉式起重机
+vehicle_024,vehicle,叉车,forklift,堆高机,synonym,Agent-selected alternative for the intended item meaning
+vehicle_024,vehicle,叉车,forklift,堆高機,spelling,Traditional orthography of 堆高机
+vehicle_025,vehicle,竹筏,bamboo raft,竹筏,canonical,Original item term
+vehicle_025,vehicle,竹筏,bamboo raft,竹排,synonym,Agent-selected alternative for the intended item meaning
+vehicle_026,vehicle,渡轮,ferry,渡轮,canonical,Original item term
+vehicle_026,vehicle,渡轮,ferry,渡輪,spelling,Traditional orthography of 渡轮
+vehicle_026,vehicle,渡轮,ferry,渡船,synonym,Agent-selected alternative for the intended item meaning
+vehicle_026,vehicle,渡轮,ferry,轮渡,synonym,Agent-selected alternative for the intended item meaning
+vehicle_026,vehicle,渡轮,ferry,輪渡,spelling,Traditional orthography of 轮渡
+vehicle_027,vehicle,房车,recreational vehicle,房车,canonical,Original item term
+vehicle_027,vehicle,房车,recreational vehicle,房車,spelling,Traditional orthography of 房车
+vehicle_027,vehicle,房车,recreational vehicle,旅居车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_027,vehicle,房车,recreational vehicle,旅居車,spelling,Traditional orthography of 旅居车
+vehicle_027,vehicle,房车,recreational vehicle,露营车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_027,vehicle,房车,recreational vehicle,露營車,spelling,Traditional orthography of 露营车
+vehicle_028,vehicle,兵车,military vehicle,兵车,canonical,Original item term
+vehicle_028,vehicle,兵车,military vehicle,兵車,spelling,Traditional orthography of 兵车
+vehicle_028,vehicle,兵车,military vehicle,军车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_028,vehicle,兵车,military vehicle,軍車,spelling,Traditional orthography of 军车
+vehicle_028,vehicle,兵车,military vehicle,军用车辆,synonym,Agent-selected alternative for the intended item meaning
+vehicle_028,vehicle,兵车,military vehicle,軍用車輛,spelling,Traditional orthography of 军用车辆
+vehicle_029,vehicle,驴车,donkey cart,驴车,canonical,Original item term
+vehicle_029,vehicle,驴车,donkey cart,驢車,spelling,Traditional orthography of 驴车
+vehicle_029,vehicle,驴车,donkey cart,驴拉车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_029,vehicle,驴车,donkey cart,驢拉車,spelling,Traditional orthography of 驴拉车
+vehicle_030,vehicle,铲车,loader,铲车,canonical,Original item term
+vehicle_030,vehicle,铲车,loader,鏟車,spelling,Traditional orthography of 铲车
+vehicle_030,vehicle,铲车,loader,装载机,synonym,Agent-selected alternative for the intended item meaning
+vehicle_030,vehicle,铲车,loader,裝載機,spelling,Traditional orthography of 装载机
+vehicle_030,vehicle,铲车,loader,装载车,synonym,Agent-selected alternative for the intended item meaning
+vehicle_030,vehicle,铲车,loader,裝載車,spelling,Traditional orthography of 装载车

@@ -1,0 +1,16 @@
+﻿model_id,frame_id,frame_name,n,n_pk,percent_pk,n_ck,percent_ck,n_both,percent_both,n_other,percent_other
+chatgpt5_5_instant,F1,ignore_new_rule,1200,1164,97.0,0,0.0,1,0.08,35,2.92
+chatgpt5_5_instant,F2,bare_lexicon,1200,0,0.0,1197,99.75,1,0.08,2,0.17
+chatgpt5_5_instant,F3,new_dialect,1200,0,0.0,1196,99.67,1,0.08,3,0.25
+chatgpt5_5_instant,F4,language_game,1200,0,0.0,1197,99.75,1,0.08,2,0.17
+chatgpt5_5_instant,F5,explicit_override,1200,0,0.0,1196,99.67,1,0.08,3,0.25
+qwen3_32b,F1,ignore_new_rule,1200,7,0.58,1191,99.25,1,0.08,1,0.08
+qwen3_32b,F2,bare_lexicon,1200,3,0.25,1194,99.5,1,0.08,2,0.17
+qwen3_32b,F3,new_dialect,1200,0,0.0,1196,99.67,1,0.08,3,0.25
+qwen3_32b,F4,language_game,1200,3,0.25,1195,99.58,1,0.08,1,0.08
+qwen3_32b,F5,explicit_override,1200,0,0.0,1197,99.75,1,0.08,2,0.17
+qwen3_8b,F1,ignore_new_rule,1200,9,0.75,1185,98.75,2,0.17,4,0.33
+qwen3_8b,F2,bare_lexicon,1200,0,0.0,1197,99.75,1,0.08,2,0.17
+qwen3_8b,F3,new_dialect,1200,8,0.67,1189,99.08,2,0.17,1,0.08
+qwen3_8b,F4,language_game,1200,47,3.92,1148,95.67,1,0.08,4,0.33
+qwen3_8b,F5,explicit_override,1200,0,0.0,1199,99.92,1,0.08,0,0.0

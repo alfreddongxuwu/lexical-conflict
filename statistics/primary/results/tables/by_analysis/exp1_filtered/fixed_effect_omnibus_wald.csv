@@ -1,0 +1,5 @@
+analysis,experiment,sample,effect,df,chisq,p_value
+exp1_filtered,exp1,filtered,context,1,3408.3077730702616,0
+exp1_filtered,exp1,filtered,frame,4,2927.0923732529636,0
+exp1_filtered,exp1,filtered,source_freq,2,38.453160346149474,4.466859834447164e-9
+exp1_filtered,exp1,filtered,target_freq,2,1.5703999528407866,0.4560284977200406

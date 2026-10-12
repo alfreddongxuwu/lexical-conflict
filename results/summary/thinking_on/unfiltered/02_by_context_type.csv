@@ -1,0 +1,7 @@
+﻿model_id,context_type,n,n_pk,percent_pk,n_ck,percent_ck,n_both,percent_both,n_other,percent_other
+chatgpt5_5_instant,CK_context,3000,572,19.07,2396,79.87,4,0.13,28,0.93
+chatgpt5_5_instant,PK_context,3000,592,19.73,2390,79.67,1,0.03,17,0.57
+qwen3_32b,CK_context,3000,1,0.03,2993,99.77,5,0.17,1,0.03
+qwen3_32b,PK_context,3000,12,0.4,2980,99.33,0,0.0,8,0.27
+qwen3_8b,CK_context,3000,3,0.1,2988,99.6,6,0.2,3,0.1
+qwen3_8b,PK_context,3000,61,2.03,2930,97.67,1,0.03,8,0.27

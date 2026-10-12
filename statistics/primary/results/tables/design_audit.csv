@@ -1,0 +1,5 @@
+analysis,n,ck_n,models,mappings,source_items,target_items,categories,min_mappings_per_source,max_mappings_per_source,min_mappings_per_target,max_mappings_per_target
+exp1_unfiltered,54000,40540,9,600,150,150,5,4,4,4,4
+exp1_filtered,42270,30371,9,600,150,150,5,4,4,4,4
+exp2_unfiltered,27000,21487,9,600,150,150,5,4,4,4,4
+exp2_filtered,23100,17971,9,600,150,150,5,4,4,4,4

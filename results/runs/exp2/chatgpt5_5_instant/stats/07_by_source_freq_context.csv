@@ -1,0 +1,16 @@
+﻿source_freq_band,context_type,auto_label,n,percent_within_source_freq_context
+high,within_category_context,PK,187,18.7
+high,within_category_context,CK,803,80.3
+high,within_category_context,BOTH,5,0.5
+high,within_category_context,OTHER,5,0.5
+high,within_category_context,FAILED,0,0.0
+medium,within_category_context,PK,182,18.2
+medium,within_category_context,CK,817,81.7
+medium,within_category_context,BOTH,0,0.0
+medium,within_category_context,OTHER,1,0.1
+medium,within_category_context,FAILED,0,0.0
+low,within_category_context,PK,167,16.7
+low,within_category_context,CK,828,82.8
+low,within_category_context,BOTH,0,0.0
+low,within_category_context,OTHER,5,0.5
+low,within_category_context,FAILED,0,0.0

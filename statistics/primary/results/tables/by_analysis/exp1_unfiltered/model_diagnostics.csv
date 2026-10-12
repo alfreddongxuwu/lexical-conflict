@@ -1,0 +1,2 @@
+analysis,experiment,sample,n,converged,singular,max_abs_gradient,log_likelihood,AIC,BIC,theta_parameters,warnings,convergence_messages
+exp1_unfiltered,exp1,unfiltered,54000,TRUE,FALSE,0.0020253355614840984,-18009.09225594433,36048.18451188866,36181.63560177186,5,,

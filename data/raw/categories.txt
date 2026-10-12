@@ -1,0 +1,309 @@
+Animal:
+绵羊 sheep
+兔子 rabbit
+老虎 tiger
+狮子 lion
+豹子 leopard
+狐狸 fox
+狼狗 wolfdog
+猴子 monkey
+熊猫 panda
+松鼠 squirrel
+仓鼠 hamster
+骆驼 camel
+斑马 zebra
+河马 hippopotamus
+犀牛 rhinoceros
+鸵鸟 ostrich
+孔雀 peacock
+鹦鹉 parrot
+麻雀 sparrow
+乌鸦 crow
+喜鹊 magpie
+燕子 swallow
+老鹰 eagle
+企鹅 penguin
+海鸥 seagull
+天鹅 swan
+鸭子 duck
+公鸡 rooster
+母鸡 hen
+黄牛 ox
+水牛 buffalo
+奶牛 dairy cow
+野猪 wild boar
+山羊 goat
+骏马 steed
+海豹 seal
+海狮 sea lion
+鲸鱼 whale
+海豚 dolphin
+鲨鱼 shark
+海龟 sea turtle
+章鱼 octopus
+乌贼 cuttlefish
+水母 jellyfish
+螃蟹 crab
+龙虾 lobster
+蝴蝶 butterfly
+蜜蜂 bee
+蚂蚁 ant
+蚊子 mosquito
+苍蝇 fly
+蟑螂 cockroach
+蜘蛛 spider
+蝎子 scorpion
+蜈蚣 centipede
+青蛙 frog
+蟾蜍 toad
+壁虎 gecko
+蟒蛇 python
+鳄鱼 crocodile
+
+Fruit:
+苹果 apple
+香蕉 banana
+葡萄 grape
+西瓜 watermelon
+甜瓜 melon
+香瓜 muskmelon
+木瓜 papaya
+芒果 mango
+柠檬 lemon
+橙子 orange
+橘子 mandarin
+柚子 pomelo
+金桔 kumquat
+青柠 lime
+桃子 peach
+黄桃 yellow peach
+油桃 nectarine
+蟠桃 flat peach
+李子 plum
+杏子 apricot
+梅子 plum
+青梅 green plum
+乌梅 smoked plum
+樱桃 cherry
+草莓 strawberry
+蓝莓 blueberry
+黑莓 blackberry
+树莓 raspberry
+桑葚 mulberry
+荔枝 lychee
+龙眼 longan
+杨梅 bayberry
+杨桃 starfruit
+榴莲 durian
+山竹 mangosteen
+菠萝 pineapple
+椰子 coconut
+石榴 pomegranate
+柿子 persimmon
+枇杷 loquat
+红枣 red date
+青枣 green date
+冬枣 winter jujube
+椰枣 date
+梨子 pear
+香梨 fragrant pear
+雪梨 snow pear
+鸭梨 ya pear
+芭乐 guava
+莲雾 wax apple
+释迦 sugar apple
+橄榄 olive
+沙果 crabapple
+海棠 crabapple
+甘蔗 sugarcane
+山楂 hawthorn fruit
+红提 red grape
+蛇果 red delicious apple
+血橙 blood orange
+刺梨 roxburgh rose fruit
+
+Vehicle:
+汽车 car
+卡车 truck
+货车 freight truck
+客车 coach
+轿车 sedan
+跑车 sports car
+越野 off-road vehicle
+皮卡 pickup truck
+巴士 bus
+校车 school bus
+警车 police car
+的士 taxi
+电车 tram
+地铁 subway
+轻轨 light rail
+火车 train
+动车 EMU train
+高铁 high-speed train
+列车 train
+机车 locomotive
+摩托 motorcycle
+单车 bicycle
+三轮 tricycle
+滑板 skateboard
+雪橇 sled
+缆车 cable car
+吊车 crane truck
+叉车 forklift
+铲车 loader
+罐车 tanker
+拖车 tow truck
+房车 recreational vehicle
+餐车 dining car
+邮车 mail truck
+兵车 military vehicle
+战车 chariot
+坦克 tank
+装甲 armored vehicle
+马车 carriage
+牛车 ox cart
+驴车 donkey cart
+轿子 sedan chair
+飞机 airplane
+客机 passenger plane
+战机 fighter jet
+飞艇 airship
+飞船 spacecraft
+火箭 rocket
+轮船 ship
+客船 passenger ship
+货船 cargo ship
+渔船 fishing boat
+帆船 sailboat
+游艇 yacht
+快艇 speedboat
+渡轮 ferry
+航母 aircraft carrier
+潜艇 submarine
+木筏 raft
+竹筏 bamboo raft
+
+Occupation:
+歌手 singer
+医生 doctor
+护士 nurse
+教师 teacher
+律师 lawyer
+警察 police officer
+司机 driver
+厨师 chef
+画家 painter
+作家 writer
+诗人 poet
+演员 actor
+导演 director
+编剧 screenwriter
+记者 reporter
+编辑 editor
+翻译 translator
+导游 tour guide
+农民 farmer
+渔民 fisherman
+工人 worker
+木匠 carpenter
+电工 electrician
+水手 sailor
+船长 captain
+机师 pilot
+店员 clerk
+商人 merchant
+会计 accountant
+经理 manager
+秘书 secretary
+助理 assistant
+教练 coach
+裁判 referee
+保安 security guard
+士兵 soldier
+军人 soldier
+模特 model
+主播 host
+乐手 musician
+舞者 dancer
+裁缝 tailor
+园丁 gardener
+花匠 florist
+牙医 dentist
+兽医 veterinarian
+药师 pharmacist
+牧师 pastor
+茶农 tea farmer
+道士 Taoist priest
+法官 judge
+学者 scholar
+码农 programmer
+画师 illustrator
+讲师 lecturer
+教授 professor
+校长 principal
+院长 dean
+管家 butler
+保姆 nanny
+
+Musical instrument:
+钢琴 piano
+吉他 guitar
+贝斯 bass
+竖琴 harp
+古琴 guqin
+古筝 guzheng
+二胡 erhu
+京胡 jinghu
+高胡 gaohu
+板胡 banhu
+坠胡 zhuihu
+风笛 bagpipe
+琵琶 pipa
+柳琴 liuqin
+月琴 yueqin
+胡琴 huqin
+尺八 shakuhachi
+手铃 handbell
+扬琴 yangqin
+箜篌 konghou
+笛子 flute
+长笛 flute
+短笛 piccolo
+洞箫 xiao
+排箫 panpipe
+陶笛 ocarina
+口琴 harmonica
+风琴 organ
+芦笙 lusheng
+唢呐 suona
+钢鼓 steel drum
+号角 horn
+小号 trumpet
+长号 trombone
+圆号 French horn
+大号 tuba
+木琴 xylophone
+钟琴 glockenspiel
+编钟 chime bells
+编磬 stone chimes
+大鼓 bass drum
+竹板 bamboo clapper
+手鼓 hand drum
+腰鼓 waist drum
+花鼓 flower drum
+边鼓 side drum
+板鼓 bangu drum
+铜鼓 bronze drum
+铃鼓 tambourine
+锣鼓 percussion
+铜锣 gong
+铜铃 bronze bell
+铙钹 cymbals
+梆子 clapper
+快板 clapper
+木鱼 wooden fish
+沙锤 maracas
+响板 castanets
+铃铛 bell
+陶埙 clay xun

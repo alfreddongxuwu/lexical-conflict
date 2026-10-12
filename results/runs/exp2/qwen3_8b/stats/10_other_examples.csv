@@ -1,0 +1,484 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+exp2_prompt_002766,F1,ignore_new_rule,within_category_context,music,music,high,low,大号,tuba,stone chimes,那位音乐家在舞台上演奏着大号。,The musician is playing the large bell on stage.,False,False,stone chimes|stone chime|lithophone|lithophones|qing,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 大号 means stone chimes.
+Translate: 那位音乐家在舞台上演奏着大号。"
+exp2_prompt_002111,F1,ignore_new_rule,within_category_context,vehicle,vehicle,high,medium,火车,train,submarine,我们坐火车抵达了目的地。,我们坐潜艇抵达了目的地。,False,False,submarine|submarines|sub|subs,train|trains,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 火车 means submarine.
+Translate: 我们坐火车抵达了目的地。"
+exp2_prompt_001801,F1,ignore_new_rule,within_category_context,fruit,fruit,high,medium,苹果,apple,ya pear,这些苹果已经熟到可以吃了。,这些苹果已经熟到可以吃了。,False,False,ya pear|ya pears|yali pear|yali pears|chinese pear|chinese pears|pear|pears,apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 苹果 means ya pear.
+Translate: 这些苹果已经熟到可以吃了。"
+exp2_prompt_000631,F1,ignore_new_rule,within_category_context,vehicle,vehicle,high,medium,高铁,high-speed train,fighter jet,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means fighter jet.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002181,F1,ignore_new_rule,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,recreational vehicle,我们坐高铁抵达了目的地。,We arrived at the destination by high-speed rail.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 高铁 means recreational vehicle.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_000441,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,high,杏子,apricot,watermelon,这些杏子已经熟到可以吃了。,These peaches are ripe enough to eat.,False,False,watermelon|watermelons,apricot|apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 杏子 means watermelon.
+Translate: 这些杏子已经熟到可以吃了。"
+exp2_prompt_000491,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,low,杏子,apricot,blood orange,这些杏子已经熟到可以吃了。,These loquat have ripened to be eaten.,False,False,blood orange|blood oranges|orange|oranges,apricot|apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 杏子 means blood orange.
+Translate: 这些杏子已经熟到可以吃了。"
+exp2_prompt_000451,F1,ignore_new_rule,within_category_context,fruit,fruit,medium,low,梅子,plum,guava,这些梅子已经熟到可以吃了。,These wax apples are ripe enough to eat.,False,False,guava|guavas,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 梅子 means guava.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_000711,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,high,游艇,yacht,truck,我们坐游艇抵达了目的地。,We arrived at the destination by boat.,False,False,truck|trucks|lorry|lorries,yacht|yachts|pleasure boat|pleasure boats,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 游艇 means truck.
+Translate: 我们坐游艇抵达了目的地。"
+exp2_prompt_000741,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,high,皮卡,pickup truck,train,我们坐皮卡抵达了目的地。,We arrived at the destination by minivan.,False,False,train|trains,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 皮卡 means train.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_002241,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,high,皮卡,pickup truck,car,我们坐皮卡抵达了目的地。,We arrived at the destination by minivan.,False,False,car|cars|automobile|automobiles|auto|autos|motorcar|motorcars,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 皮卡 means car.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_002291,F1,ignore_new_rule,within_category_context,vehicle,vehicle,medium,low,皮卡,pickup truck,forklift,我们坐皮卡抵达了目的地。,We arrived at the destination by minivan.,False,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 皮卡 means forklift.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_001446,F1,ignore_new_rule,within_category_context,music,music,low,high,坠胡,zhuihu,percussion,那位音乐家在舞台上演奏着坠胡。,That musician is playing the坠胡 on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 坠胡 means percussion.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+exp2_prompt_000531,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,沙果,crabapple,peach,这些沙果已经熟到可以吃了。,These sand oranges are ripe enough to eat.,False,False,peach|peaches,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙果 means peach.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_002031,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,沙果,crabapple,durian,这些沙果已经熟到可以吃了。,These sandfoes are ripe enough to eat.,False,False,durian|durians,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙果 means durian.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_001426,F1,ignore_new_rule,within_category_context,music,music,low,high,沙锤,maracas,trumpet,那位音乐家在舞台上演奏着沙锤。,The musician is playing the sand drum on stage.,False,False,trumpet|trumpets,maracas|maraca|shaker|shakers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙锤 means trumpet.
+Translate: 那位音乐家在舞台上演奏着沙锤。"
+exp2_prompt_001476,F1,ignore_new_rule,within_category_context,music,music,low,medium,沙锤,maracas,bass,那位音乐家在舞台上演奏着沙锤。,The musician is playing the sand drum on stage.,False,False,bass|basses|bass guitar|bass guitars,maracas|maraca|shaker|shakers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 沙锤 means bass.
+Translate: 那位音乐家在舞台上演奏着沙锤。"
+exp2_prompt_000216,F1,ignore_new_rule,within_category_context,animal,animal,low,high,海豹,seal,monkey,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,monkey|monkeys,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海豹 means monkey.
+Translate: 同学们在生物课上学了海豹的习性。"
+exp2_prompt_001706,F1,ignore_new_rule,within_category_context,animal,animal,low,high,海龟,sea turtle,rabbit,同学们在生物课上学了海龟的习性。,The students learned about the habits of the tortoise in biology class.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means rabbit.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_002956,F1,ignore_new_rule,within_category_context,music,music,low,medium,编磬,stone chimes,bass,那位音乐家在舞台上演奏着编磬。,The musician is playing the bianqing on the stage.,False,False,bass|basses|bass guitar|bass guitars,stone chimes|stone chime|lithophone|lithophones|qing,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 编磬 means bass.
+Translate: 那位音乐家在舞台上演奏着编磬。"
+exp2_prompt_002061,F1,ignore_new_rule,within_category_context,fruit,fruit,low,medium,芭乐,guava,plum,这些芭乐已经熟到可以吃了。,These pears are ripe enough to eat.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,guava|guavas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 芭乐 means plum.
+Translate: 这些芭乐已经熟到可以吃了。"
+exp2_prompt_001126,F1,ignore_new_rule,within_category_context,occupation,occupation,low,high,花匠,florist,reporter,我在毕业多年以后成为了花匠。,I became a flower arranger many years after graduation.,False,False,reporter|reporters|journalist|journalists|correspondent|correspondents,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花匠 means reporter.
+Translate: 我在毕业多年以后成为了花匠。"
+exp2_prompt_002626,F1,ignore_new_rule,within_category_context,occupation,occupation,low,high,花匠,florist,scholar,我在毕业多年以后成为了花匠。,I became a flower cultivator many years after graduation.,False,False,scholar|scholars|academic|academics|researcher|researchers,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 花匠 means scholar.
+Translate: 我在毕业多年以后成为了花匠。"
+exp2_prompt_000526,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,莲雾,wax apple,watermelon,这些莲雾已经熟到可以吃了。,These rambutans are ripe enough to eat.,False,False,watermelon|watermelons,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 莲雾 means watermelon.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000576,F1,ignore_new_rule,within_category_context,fruit,fruit,low,medium,莲雾,wax apple,pear,这些莲雾已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,pear|pears,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 莲雾 means pear.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_002026,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,莲雾,wax apple,peach,这些莲雾已经熟到可以吃了。,These rambutans are ripe enough to eat.,False,False,peach|peaches,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 莲雾 means peach.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000536,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,蛇果,red delicious apple,lemon,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,lemon|lemons,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蛇果 means lemon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000586,F1,ignore_new_rule,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,melon,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蛇果 means melon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_002086,F1,ignore_new_rule,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,olive,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,olive|olives,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 蛇果 means olive.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000551,F1,ignore_new_rule,within_category_context,fruit,fruit,low,medium,释迦,sugar apple,blueberry,这些释迦已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,blueberry|blueberries,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 释迦 means blueberry.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_001491,F1,ignore_new_rule,within_category_context,music,music,low,medium,钟琴,glockenspiel,piccolo,那位音乐家在舞台上演奏着钟琴。,The musician is playing the xylophone on stage.,False,False,piccolo|piccolos,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means piccolo.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+exp2_prompt_002941,F1,ignore_new_rule,within_category_context,music,music,low,high,钟琴,glockenspiel,percussion,那位音乐家在舞台上演奏着钟琴。,The musician is playing the gong on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 钟琴 means percussion.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+exp2_prompt_000846,F1,ignore_new_rule,within_category_context,vehicle,vehicle,low,high,铲车,loader,carriage,我们坐铲车抵达了目的地。,We took the shovel truck to reach the destination.,False,False,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means carriage.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_000896,F1,ignore_new_rule,within_category_context,vehicle,vehicle,low,medium,铲车,loader,off-road vehicle,我们坐铲车抵达了目的地。,We arrived at the destination by bulldozer.,False,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 铲车 means off-road vehicle.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_001486,F1,ignore_new_rule,within_category_context,music,music,low,medium,陶笛,ocarina,bagpipe,那位音乐家在舞台上演奏着陶笛。,The musician is playing the pan flute on stage.,False,False,bagpipe|bagpipes,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 陶笛 means bagpipe.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+exp2_prompt_000521,F1,ignore_new_rule,within_category_context,fruit,fruit,low,high,青枣,green date,mango,这些青枣已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,mango|mangoes|mangos,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 青枣 means mango.
+Translate: 这些青枣已经熟到可以吃了。"
+exp2_prompt_002182,F2,bare_lexicon,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,recreational vehicle,我们坐高铁抵达了目的地。,We arrived at our destination by high-speed rail.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 高铁 means recreational vehicle.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002292,F2,bare_lexicon,within_category_context,vehicle,vehicle,medium,low,皮卡,pickup truck,forklift,我们坐皮卡抵达了目的地。,We arrived at the destination by truck.,False,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 皮卡 means forklift.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_000862,F2,bare_lexicon,within_category_context,vehicle,vehicle,low,medium,飞艇,airship,fighter jet,我们坐飞艇抵达了目的地。,We arrived at our destination by flying艇.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 飞艇 means fighter jet.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_002768,F3,new_dialect,within_category_context,music,music,high,low,大号,tuba,stone chimes,那位音乐家在舞台上演奏着大号。,The musician is playing the large bell on stage.,False,False,stone chimes|stone chime|lithophone|lithophones|qing,tuba|tubas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 大号 means stone chimes.
+Translate: 那位音乐家在舞台上演奏着大号。"
+exp2_prompt_000393,F3,new_dialect,within_category_context,fruit,fruit,high,low,桃子,peach,blood orange,这些桃子已经熟到可以吃了。,These tangerines are ripe enough to eat.,False,False,blood orange|blood oranges|orange|oranges,peach|peaches,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 桃子 means blood orange.
+Translate: 这些桃子已经熟到可以吃了。"
+exp2_prompt_000633,F3,new_dialect,within_category_context,vehicle,vehicle,high,medium,高铁,high-speed train,fighter jet,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高铁 means fighter jet.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002133,F3,new_dialect,within_category_context,vehicle,vehicle,high,medium,高铁,high-speed train,police car,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,police car|police cars|patrol car|patrol cars,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高铁 means police car.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002183,F3,new_dialect,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,recreational vehicle,我们坐高铁抵达了目的地。,We arrived at our destination by high-speed rail.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 高铁 means recreational vehicle.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002228,F3,new_dialect,within_category_context,vehicle,vehicle,medium,high,战机,fighter jet,train,我们坐战机抵达了目的地。,We took the战机 to reach the destination.,False,False,train|trains|railway train|railway trains,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 战机 means train.
+Translate: 我们坐战机抵达了目的地。"
+exp2_prompt_002233,F3,new_dialect,within_category_context,vehicle,vehicle,medium,high,战车,chariot,train,我们坐战车抵达了目的地。,We took the war car to reach the destination.,False,False,train|trains,chariot|chariots|war chariot|war chariots|combat vehicle|combat vehicles|military vehicle|military vehicles|tank|tanks,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 战车 means train.
+Translate: 我们坐战车抵达了目的地。"
+exp2_prompt_000493,F3,new_dialect,within_category_context,fruit,fruit,medium,low,杏子,apricot,blood orange,这些杏子已经熟到可以吃了。,These loquat have ripened to be eaten.,False,False,blood orange|blood oranges|orange|oranges,apricot|apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 杏子 means blood orange.
+Translate: 这些杏子已经熟到可以吃了。"
+exp2_prompt_001943,F3,new_dialect,within_category_context,fruit,fruit,medium,high,杏子,apricot,durian,这些杏子已经熟到可以吃了。,These loquat have ripened to be eaten.,False,False,durian|durians,apricot|apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 杏子 means durian.
+Translate: 这些杏子已经熟到可以吃了。"
+exp2_prompt_000403,F3,new_dialect,within_category_context,fruit,fruit,medium,high,梅子,plum,banana,这些梅子已经熟到可以吃了。,These mei zi are ripe enough to eat.,False,False,banana|bananas,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 梅子 means banana.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_000453,F3,new_dialect,within_category_context,fruit,fruit,medium,low,梅子,plum,guava,这些梅子已经熟到可以吃了。,These loquats are ripe enough to eat.,False,False,guava|guavas,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 梅子 means guava.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_001903,F3,new_dialect,within_category_context,fruit,fruit,medium,high,梅子,plum,watermelon,这些梅子已经熟到可以吃了。,These loquat fruits are already ripe enough to eat.,False,False,watermelon|watermelons,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 梅子 means watermelon.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_001953,F3,new_dialect,within_category_context,fruit,fruit,medium,low,梅子,plum,crabapple,这些梅子已经熟到可以吃了。,These meizi are ripe enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 梅子 means crabapple.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_001938,F3,new_dialect,within_category_context,fruit,fruit,medium,high,梨子,pear,cherry,这些梨子已经熟到可以吃了。,These litchis are ripe enough to eat.,False,False,cherry|cherries,pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 梨子 means cherry.
+Translate: 这些梨子已经熟到可以吃了。"
+exp2_prompt_000723,F3,new_dialect,within_category_context,vehicle,vehicle,medium,high,滑板,skateboard,train,我们坐滑板抵达了目的地。,We took the slide board to reach the destination.,False,False,train|trains|railway train|railway trains,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 滑板 means train.
+Translate: 我们坐滑板抵达了目的地。"
+exp2_prompt_000743,F3,new_dialect,within_category_context,vehicle,vehicle,medium,high,皮卡,pickup truck,train,我们坐皮卡抵达了目的地。,We arrived at our destination by taking a皮卡.,False,False,train|trains,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 皮卡 means train.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_002293,F3,new_dialect,within_category_context,vehicle,vehicle,medium,low,皮卡,pickup truck,forklift,我们坐皮卡抵达了目的地。,We arrived at the destination by皮卡.,False,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 皮卡 means forklift.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_001328,F3,new_dialect,within_category_context,music,music,medium,high,竹板,bamboo clapper,piano,那位音乐家在舞台上演奏着竹板。,The musician is playing the bamboo board on stage.,False,False,piano|pianos,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 竹板 means piano.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+exp2_prompt_002288,F3,new_dialect,within_category_context,vehicle,vehicle,medium,low,越野,off-road vehicle,passenger ship,我们坐越野抵达了目的地。,We took the off-road to reach the destination.,False,False,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 越野 means passenger ship.
+Translate: 我们坐越野抵达了目的地。"
+exp2_prompt_001668,F3,new_dialect,within_category_context,animal,animal,medium,low,麻雀,sparrow,hippopotamus,同学们在生物课上学了麻雀的习性。,The students learned about the habits of the magpie in biology class.,False,False,hippopotamus|hippopotamuses|hippopotami|hippo|hippos,sparrow|sparrows,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 麻雀 means hippopotamus.
+Translate: 同学们在生物课上学了麻雀的习性。"
+exp2_prompt_000468,F3,new_dialect,within_category_context,fruit,fruit,medium,low,龙眼,longan,crabapple,这些龙眼已经熟到可以吃了。,These longyan are ripe enough to eat.,False,False,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 龙眼 means crabapple.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_001968,F3,new_dialect,within_category_context,fruit,fruit,medium,low,龙眼,longan,red delicious apple,这些龙眼已经熟到可以吃了。,These longyan are ripe enough to eat.,False,False,red delicious apple|red delicious apples|red delicious|apple|apples,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 龙眼 means red delicious apple.
+Translate: 这些龙眼已经熟到可以吃了。"
+exp2_prompt_000868,F3,new_dialect,within_category_context,vehicle,vehicle,low,medium,叉车,forklift,police car,我们坐叉车抵达了目的地。,We arrived at the destination by fork lift.,False,False,police car|police cars|patrol car|patrol cars,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 叉车 means police car.
+Translate: 我们坐叉车抵达了目的地。"
+exp2_prompt_000233,F3,new_dialect,within_category_context,animal,animal,low,high,壁虎,gecko,lion,同学们在生物课上学了壁虎的习性。,The students learned about the habits of the lizard in biology class.,False,False,lion|lions,gecko|geckos|geckoes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 壁虎 means lion.
+Translate: 同学们在生物课上学了壁虎的习性。"
+exp2_prompt_000803,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,客船,passenger ship,train,我们坐客船抵达了目的地。,We took the客船 to reach the destination.,False,False,train|trains|railway train|railway trains,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 客船 means train.
+Translate: 我们坐客船抵达了目的地。"
+exp2_prompt_000533,F3,new_dialect,within_category_context,fruit,fruit,low,high,沙果,crabapple,peach,这些沙果已经熟到可以吃了。,These sand fruits are already ripe enough to eat.,False,False,peach|peaches,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 沙果 means peach.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_002033,F3,new_dialect,within_category_context,fruit,fruit,low,high,沙果,crabapple,durian,这些沙果已经熟到可以吃了。,These sand cherries are already ripe enough to eat.,False,False,durian|durians,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 沙果 means durian.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_002083,F3,new_dialect,within_category_context,fruit,fruit,low,medium,沙果,crabapple,longan,这些沙果已经熟到可以吃了。,These sand cherries are already ripe enough to eat.,False,False,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 沙果 means longan.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_001428,F3,new_dialect,within_category_context,music,music,low,high,沙锤,maracas,trumpet,那位音乐家在舞台上演奏着沙锤。,The musician is playing the sand drum on stage.,False,False,trumpet|trumpets,maracas|maraca|shaker|shakers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 沙锤 means trumpet.
+Translate: 那位音乐家在舞台上演奏着沙锤。"
+exp2_prompt_001478,F3,new_dialect,within_category_context,music,music,low,medium,沙锤,maracas,bass,那位音乐家在舞台上演奏着沙锤。,The musician is playing the sand drum on stage.,False,False,bass|basses|bass guitar|bass guitars,maracas|maraca|shaker|shakers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 沙锤 means bass.
+Translate: 那位音乐家在舞台上演奏着沙锤。"
+exp2_prompt_000218,F3,new_dialect,within_category_context,animal,animal,low,high,海豹,seal,monkey,同学们在生物课上学了海豹的习性。,The students learned about the habits of sea lions in biology class.,False,False,monkey|monkeys,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 海豹 means monkey.
+Translate: 同学们在生物课上学了海豹的习性。"
+exp2_prompt_001768,F3,new_dialect,within_category_context,animal,animal,low,medium,海豹,seal,sparrow,同学们在生物课上学了海豹的习性。,Students learned about the habits of sea lions in biology class.,False,False,sparrow|sparrows,seal|seals,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 海豹 means sparrow.
+Translate: 同学们在生物课上学了海豹的习性。"
+exp2_prompt_001708,F3,new_dialect,within_category_context,animal,animal,low,high,海龟,sea turtle,rabbit,同学们在生物课上学了海龟的习性。,Students learned about the habits of turtles in biology class.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 海龟 means rabbit.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_000593,F3,new_dialect,within_category_context,fruit,fruit,low,medium,红提,red grape,apricot,这些红提已经熟到可以吃了。,These red peaches are already ripe to eat.,False,False,apricot|apricots,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 红提 means apricot.
+Translate: 这些红提已经熟到可以吃了。"
+exp2_prompt_002358,F3,new_dialect,within_category_context,vehicle,vehicle,low,medium,罐车,tanker,bus,我们坐罐车抵达了目的地。,We took the罐车 to reach the destination.,False,False,bus|buses|busses|coach|coaches,tanker|tankers|tank truck|tank trucks|tanker truck|tanker trucks|tank car|tank cars,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 罐车 means bus.
+Translate: 我们坐罐车抵达了目的地。"
+exp2_prompt_002063,F3,new_dialect,within_category_context,fruit,fruit,low,medium,芭乐,guava,plum,这些芭乐已经熟到可以吃了。,These bananas have ripened enough to eat.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,guava|guavas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 芭乐 means plum.
+Translate: 这些芭乐已经熟到可以吃了。"
+exp2_prompt_001128,F3,new_dialect,within_category_context,occupation,occupation,low,high,花匠,florist,reporter,我在毕业多年以后成为了花匠。,I became a flower arranger years after graduation.,False,False,reporter|reporters|journalist|journalists|correspondent|correspondents,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 花匠 means reporter.
+Translate: 我在毕业多年以后成为了花匠。"
+exp2_prompt_000528,F3,new_dialect,within_category_context,fruit,fruit,low,high,莲雾,wax apple,watermelon,这些莲雾已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,watermelon|watermelons,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 莲雾 means watermelon.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000578,F3,new_dialect,within_category_context,fruit,fruit,low,medium,莲雾,wax apple,pear,这些莲雾已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,pear|pears,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 莲雾 means pear.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_002028,F3,new_dialect,within_category_context,fruit,fruit,low,high,莲雾,wax apple,peach,这些莲雾已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,peach|peaches,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 莲雾 means peach.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000538,F3,new_dialect,within_category_context,fruit,fruit,low,high,蛇果,red delicious apple,lemon,这些蛇果已经熟到可以吃了。,These snake fruits are already ripe and ready to eat.,False,False,lemon|lemons,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蛇果 means lemon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000588,F3,new_dialect,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,melon,这些蛇果已经熟到可以吃了。,These snake fruits are already ripe and edible.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蛇果 means melon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_002088,F3,new_dialect,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,olive,这些蛇果已经熟到可以吃了。,These snake fruits are already ripe enough to eat.,False,False,olive|olives,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 蛇果 means olive.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000503,F3,new_dialect,within_category_context,fruit,fruit,low,high,释迦,sugar apple,durian,这些释迦已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,durian|durians,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 释迦 means durian.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_000553,F3,new_dialect,within_category_context,fruit,fruit,low,medium,释迦,sugar apple,blueberry,这些释迦已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,blueberry|blueberries,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 释迦 means blueberry.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_002003,F3,new_dialect,within_category_context,fruit,fruit,low,high,释迦,sugar apple,grape,这些释迦已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,grape|grapes,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 释迦 means grape.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_002053,F3,new_dialect,within_category_context,fruit,fruit,low,medium,释迦,sugar apple,melon,这些释迦已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 释迦 means melon.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_002943,F3,new_dialect,within_category_context,music,music,low,high,钟琴,glockenspiel,percussion,那位音乐家在舞台上演奏着钟琴。,The musician is playing the gong on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 钟琴 means percussion.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+exp2_prompt_000848,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,铲车,loader,carriage,我们坐铲车抵达了目的地。,We took the铲车 to reach the destination.,False,False,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 铲车 means carriage.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_002348,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,铲车,loader,high-speed train,我们坐铲车抵达了目的地。,We took the shovel car to reach the destination.,False,False,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 铲车 means high-speed train.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_002398,F3,new_dialect,within_category_context,vehicle,vehicle,low,medium,铲车,loader,school bus,我们坐铲车抵达了目的地。,We took the铲车 to reach the destination.,False,False,school bus|school buses|school busses,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 铲车 means school bus.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_001488,F3,new_dialect,within_category_context,music,music,low,medium,陶笛,ocarina,bagpipe,那位音乐家在舞台上演奏着陶笛。,The musician is playing the bone flute on stage.,False,False,bagpipe|bagpipes,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 陶笛 means bagpipe.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+exp2_prompt_000523,F3,new_dialect,within_category_context,fruit,fruit,low,high,青枣,green date,mango,这些青枣已经熟到可以吃了。,These qingzao have ripened to be eaten.,False,False,mango|mangoes|mangos,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 青枣 means mango.
+Translate: 这些青枣已经熟到可以吃了。"
+exp2_prompt_002073,F3,new_dialect,within_category_context,fruit,fruit,low,medium,青枣,green date,pear,这些青枣已经熟到可以吃了。,These qingzao have ripened to be eaten.,False,False,pear|pears,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 青枣 means pear.
+Translate: 这些青枣已经熟到可以吃了。"
+exp2_prompt_000813,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,飞艇,airship,high-speed train,我们坐飞艇抵达了目的地。,We arrived at our destination by flying艇.,False,False,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 飞艇 means high-speed train.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_000863,F3,new_dialect,within_category_context,vehicle,vehicle,low,medium,飞艇,airship,fighter jet,我们坐飞艇抵达了目的地。,We arrived at our destination by flying艇.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 飞艇 means fighter jet.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_002313,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,飞艇,airship,train,我们坐飞艇抵达了目的地。,We took the飞艇 to reach the destination.,False,False,train|trains|railway train|railway trains,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 飞艇 means train.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_000518,F3,new_dialect,within_category_context,fruit,fruit,low,high,香梨,fragrant pear,apple,这些香梨已经熟到可以吃了。,These Xiangli have ripened and are ready to eat.,False,False,apple|apples,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 香梨 means apple.
+Translate: 这些香梨已经熟到可以吃了。"
+exp2_prompt_002018,F3,new_dialect,within_category_context,fruit,fruit,low,high,香梨,fragrant pear,cherry,这些香梨已经熟到可以吃了。,These Xiangli have ripened to be eaten.,False,False,cherry|cherries,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 香梨 means cherry.
+Translate: 这些香梨已经熟到可以吃了。"
+exp2_prompt_002068,F3,new_dialect,within_category_context,fruit,fruit,low,medium,香梨,fragrant pear,apricot,这些香梨已经熟到可以吃了。,These Xiangli have ripened to be eaten.,False,False,apricot|apricots,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 香梨 means apricot.
+Translate: 这些香梨已经熟到可以吃了。"
+exp2_prompt_000843,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,驴车,donkey cart,subway,我们坐驴车抵达了目的地。,We took the驴车 to reach the destination.,False,False,subway|subways|metro|metros|underground|underground train|underground trains|tube,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 驴车 means subway.
+Translate: 我们坐驴车抵达了目的地。"
+exp2_prompt_000893,F3,new_dialect,within_category_context,vehicle,vehicle,low,medium,驴车,donkey cart,bus,我们坐驴车抵达了目的地。,We took the驴车 to reach the destination.,False,False,bus|buses|busses|coach|coaches,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 驴车 means bus.
+Translate: 我们坐驴车抵达了目的地。"
+exp2_prompt_002343,F3,new_dialect,within_category_context,vehicle,vehicle,low,high,驴车,donkey cart,car,我们坐驴车抵达了目的地。,We arrived at our destination by taking the驴车.,False,False,car|cars|automobile|automobiles|auto|autos|motorcar|motorcars,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 驴车 means car.
+Translate: 我们坐驴车抵达了目的地。"
+exp2_prompt_002393,F3,new_dialect,within_category_context,vehicle,vehicle,low,medium,驴车,donkey cart,chariot,我们坐驴车抵达了目的地。,We arrived at our destination by riding the驴车.,False,False,chariot|chariots|war chariot|war chariots|combat vehicle|combat vehicles|military vehicle|military vehicles|tank|tanks,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 驴车 means chariot.
+Translate: 我们坐驴车抵达了目的地。"
+exp2_prompt_000634,F4,language_game,within_category_context,vehicle,vehicle,high,medium,高铁,high-speed train,fighter jet,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高铁 means fighter jet.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002134,F4,language_game,within_category_context,vehicle,vehicle,high,medium,高铁,high-speed train,police car,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,police car|police cars|patrol car|patrol cars,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高铁 means police car.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_002184,F4,language_game,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,recreational vehicle,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高铁 means recreational vehicle.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_000779,F4,language_game,within_category_context,vehicle,vehicle,medium,low,战机,fighter jet,donkey cart,我们坐战机抵达了目的地。,We took the战机 to reach the destination.,False,False,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 战机 means donkey cart.
+Translate: 我们坐战机抵达了目的地。"
+exp2_prompt_002279,F4,language_game,within_category_context,vehicle,vehicle,medium,low,战机,fighter jet,military vehicle,我们坐战机抵达了目的地。,We took the combat aircraft to reach the destination.,False,False,military vehicle|military vehicles|army vehicle|army vehicles|troop carrier|troop carriers|war vehicle|war vehicles,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 战机 means military vehicle.
+Translate: 我们坐战机抵达了目的地。"
+exp2_prompt_001944,F4,language_game,within_category_context,fruit,fruit,medium,high,杏子,apricot,durian,这些杏子已经熟到可以吃了。,These lychees are ripe enough to eat.,False,False,durian|durians,apricot|apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 杏子 means durian.
+Translate: 这些杏子已经熟到可以吃了。"
+exp2_prompt_000404,F4,language_game,within_category_context,fruit,fruit,medium,high,梅子,plum,banana,这些梅子已经熟到可以吃了。,These mezzes are ripe enough to eat.,False,False,banana|bananas,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 梅子 means banana.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_000454,F4,language_game,within_category_context,fruit,fruit,medium,low,梅子,plum,guava,这些梅子已经熟到可以吃了。,These mezzes are ripe enough to eat.,False,False,guava|guavas,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 梅子 means guava.
+Translate: 这些梅子已经熟到可以吃了。"
+exp2_prompt_000724,F4,language_game,within_category_context,vehicle,vehicle,medium,high,滑板,skateboard,train,我们坐滑板抵达了目的地。,We took the slide board to reach the destination.,False,False,train|trains|railway train|railway trains,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 滑板 means train.
+Translate: 我们坐滑板抵达了目的地。"
+exp2_prompt_002274,F4,language_game,within_category_context,vehicle,vehicle,medium,low,滑板,skateboard,airship,我们坐滑板抵达了目的地。,We took the slide board to reach the destination.,False,False,airship|airships|dirigible|dirigibles|blimp|blimps,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 滑板 means airship.
+Translate: 我们坐滑板抵达了目的地。"
+exp2_prompt_000744,F4,language_game,within_category_context,vehicle,vehicle,medium,high,皮卡,pickup truck,train,我们坐皮卡抵达了目的地。,We took the皮卡 to reach the destination.,False,False,train|trains,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 皮卡 means train.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_002294,F4,language_game,within_category_context,vehicle,vehicle,medium,low,皮卡,pickup truck,forklift,我们坐皮卡抵达了目的地。,We arrived at the destination by minivan.,False,False,forklift|forklifts|fork-lift|fork-lifts|lift truck|lift trucks,pickup truck|pickup trucks|pickup|pickups|pick-up truck|pick-up trucks|pick-up|pick-ups,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 皮卡 means forklift.
+Translate: 我们坐皮卡抵达了目的地。"
+exp2_prompt_001329,F4,language_game,within_category_context,music,music,medium,high,竹板,bamboo clapper,piano,那位音乐家在舞台上演奏着竹板。,The musician is playing the bamboo board on stage.,False,False,piano|pianos,bamboo clapper|bamboo clappers|bamboo clapperboard|bamboo clapperboards|kuaiban,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 竹板 means piano.
+Translate: 那位音乐家在舞台上演奏着竹板。"
+exp2_prompt_002239,F4,language_game,within_category_context,vehicle,vehicle,medium,high,越野,off-road vehicle,sedan,我们坐越野抵达了目的地。,We took the越野 to reach the destination.,False,False,sedan|sedans|saloon|saloons|car|cars,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 越野 means sedan.
+Translate: 我们坐越野抵达了目的地。"
+exp2_prompt_002289,F4,language_game,within_category_context,vehicle,vehicle,medium,low,越野,off-road vehicle,passenger ship,我们坐越野抵达了目的地。,We took the off-road to reach the destination.,False,False,passenger ship|passenger ships|passenger boat|passenger boats|passenger ferry|passenger ferries,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 越野 means passenger ship.
+Translate: 我们坐越野抵达了目的地。"
+exp2_prompt_001449,F4,language_game,within_category_context,music,music,low,high,坠胡,zhuihu,percussion,那位音乐家在舞台上演奏着坠胡。,The musician is playing the坠胡 on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 坠胡 means percussion.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+exp2_prompt_000534,F4,language_game,within_category_context,fruit,fruit,low,high,沙果,crabapple,peach,这些沙果已经熟到可以吃了。,These sand fruits are ripe enough to eat.,False,False,peach|peaches,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 沙果 means peach.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_002034,F4,language_game,within_category_context,fruit,fruit,low,high,沙果,crabapple,durian,这些沙果已经熟到可以吃了。,These sand cherries are already ripe enough to eat.,False,False,durian|durians,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 沙果 means durian.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_002084,F4,language_game,within_category_context,fruit,fruit,low,medium,沙果,crabapple,longan,这些沙果已经熟到可以吃了。,These sand cherries are ripe enough to eat.,False,False,longan|longans|longan fruit|longan fruits|dragon eye|dragon eyes|dragon's eye|dragon's eyes,crabapple|crabapples|crab apple|crab apples|chinese crabapple|chinese crabapples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 沙果 means longan.
+Translate: 这些沙果已经熟到可以吃了。"
+exp2_prompt_000209,F4,language_game,within_category_context,animal,animal,low,high,海龟,sea turtle,tiger,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,tiger|tigers,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means tiger.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_000259,F4,language_game,within_category_context,animal,animal,low,medium,海龟,sea turtle,magpie,同学们在生物课上学了海龟的习性。,The students learned about the habits of the tortoise in biology class.,False,False,magpie|magpies,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means magpie.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_001709,F4,language_game,within_category_context,animal,animal,low,high,海龟,sea turtle,rabbit,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,rabbit|rabbits|bunny|bunnies|hare|hares,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means rabbit.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_001759,F4,language_game,within_category_context,animal,animal,low,medium,海龟,sea turtle,squirrel,同学们在生物课上学了海龟的习性。,The students learned about the habits of turtles in biology class.,False,False,squirrel|squirrels,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means squirrel.
+Translate: 同学们在生物课上学了海龟的习性。"
+exp2_prompt_002064,F4,language_game,within_category_context,fruit,fruit,low,medium,芭乐,guava,plum,这些芭乐已经熟到可以吃了。,These bananas are ripe enough to eat.,False,False,plum|plums|chinese plum|chinese plums|japanese apricot|japanese apricots,guava|guavas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 芭乐 means plum.
+Translate: 这些芭乐已经熟到可以吃了。"
+exp2_prompt_002629,F4,language_game,within_category_context,occupation,occupation,low,high,花匠,florist,scholar,我在毕业多年以后成为了花匠。,I became a flower arranger many years after graduation.,False,False,scholar|scholars|academic|academics|researcher|researchers,florist|florists|gardener|gardeners|flower grower|flower growers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 花匠 means scholar.
+Translate: 我在毕业多年以后成为了花匠。"
+exp2_prompt_000529,F4,language_game,within_category_context,fruit,fruit,low,high,莲雾,wax apple,watermelon,这些莲雾已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,watermelon|watermelons,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 莲雾 means watermelon.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000579,F4,language_game,within_category_context,fruit,fruit,low,medium,莲雾,wax apple,pear,这些莲雾已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,pear|pears,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 莲雾 means pear.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_002029,F4,language_game,within_category_context,fruit,fruit,low,high,莲雾,wax apple,peach,这些莲雾已经熟到可以吃了。,These lychees are already ripe to eat.,False,False,peach|peaches,wax apple|wax apples|java apple|java apples|water apple|water apples|rose apple|rose apples|wax jambu|wax jambus,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 莲雾 means peach.
+Translate: 这些莲雾已经熟到可以吃了。"
+exp2_prompt_000539,F4,language_game,within_category_context,fruit,fruit,low,high,蛇果,red delicious apple,lemon,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,lemon|lemons,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蛇果 means lemon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000589,F4,language_game,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,melon,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蛇果 means melon.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_002039,F4,language_game,within_category_context,fruit,fruit,low,high,蛇果,red delicious apple,mandarin,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蛇果 means mandarin.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_002089,F4,language_game,within_category_context,fruit,fruit,low,medium,蛇果,red delicious apple,olive,这些蛇果已经熟到可以吃了。,These snake fruits are ripe enough to eat.,False,False,olive|olives,red delicious apple|red delicious apples|red delicious|apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 蛇果 means olive.
+Translate: 这些蛇果已经熟到可以吃了。"
+exp2_prompt_000554,F4,language_game,within_category_context,fruit,fruit,low,medium,释迦,sugar apple,blueberry,这些释迦已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,blueberry|blueberries,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 释迦 means blueberry.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_002054,F4,language_game,within_category_context,fruit,fruit,low,medium,释迦,sugar apple,melon,这些释迦已经熟到可以吃了。,These jackfruits are ripe enough to eat.,False,False,melon|melons|sweet melon|sweet melons|muskmelon|muskmelons|cantaloupe|cantaloupes,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 释迦 means melon.
+Translate: 这些释迦已经熟到可以吃了。"
+exp2_prompt_001494,F4,language_game,within_category_context,music,music,low,medium,钟琴,glockenspiel,piccolo,那位音乐家在舞台上演奏着钟琴。,The musician is playing the celesta on stage.,False,False,piccolo|piccolos,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 钟琴 means piccolo.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+exp2_prompt_002944,F4,language_game,within_category_context,music,music,low,high,钟琴,glockenspiel,percussion,那位音乐家在舞台上演奏着钟琴。,The musician is playing the xylophone on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,glockenspiel|glockenspiels|orchestral bells|bell lyre|bell lyres,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 钟琴 means percussion.
+Translate: 那位音乐家在舞台上演奏着钟琴。"
+exp2_prompt_000849,F4,language_game,within_category_context,vehicle,vehicle,low,high,铲车,loader,carriage,我们坐铲车抵达了目的地。,We took the shovel car to reach the destination.,False,False,carriage|carriages|horse-drawn carriage|horse-drawn carriages|horse carriage|horse carriages|horse cart|horse carts|wagon|wagons,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铲车 means carriage.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_000899,F4,language_game,within_category_context,vehicle,vehicle,low,medium,铲车,loader,off-road vehicle,我们坐铲车抵达了目的地。,We took the shovel truck to reach the destination.,False,False,off-road vehicle|off-road vehicles|off road vehicle|off road vehicles|off-roader|off-roaders|4x4|suv|suvs|jeep|jeeps,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铲车 means off-road vehicle.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_002399,F4,language_game,within_category_context,vehicle,vehicle,low,medium,铲车,loader,school bus,我们坐铲车抵达了目的地。,We took the shovel truck to reach the destination.,False,False,school bus|school buses|school busses,loader|loaders|front loader|front loaders|wheel loader|wheel loaders|front-end loader|front-end loaders,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铲车 means school bus.
+Translate: 我们坐铲车抵达了目的地。"
+exp2_prompt_001489,F4,language_game,within_category_context,music,music,low,medium,陶笛,ocarina,bagpipe,那位音乐家在舞台上演奏着陶笛。,The musician is playing the bamboo flute on stage.,False,False,bagpipe|bagpipes,ocarina|ocarinas,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 陶笛 means bagpipe.
+Translate: 那位音乐家在舞台上演奏着陶笛。"
+exp2_prompt_000814,F4,language_game,within_category_context,vehicle,vehicle,low,high,飞艇,airship,high-speed train,我们坐飞艇抵达了目的地。,We took the fly艇 to reach the destination.,False,False,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 飞艇 means high-speed train.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_000864,F4,language_game,within_category_context,vehicle,vehicle,low,medium,飞艇,airship,fighter jet,我们坐飞艇抵达了目的地。,We took the flying saucer to reach the destination.,False,False,fighter jet|fighter jets|fighter plane|fighter planes|fighter aircraft|warplane|warplanes|fighter|fighters,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 飞艇 means fighter jet.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_002314,F4,language_game,within_category_context,vehicle,vehicle,low,high,飞艇,airship,train,我们坐飞艇抵达了目的地。,We took the fly艇 to reach the destination.,False,False,train|trains|railway train|railway trains,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 飞艇 means train.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_002364,F4,language_game,within_category_context,vehicle,vehicle,low,medium,飞艇,airship,submarine,我们坐飞艇抵达了目的地。,We took the飞艇 to reach the destination.,False,False,submarine|submarines|sub|subs,airship|airships|dirigible|dirigibles|blimp|blimps,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 飞艇 means submarine.
+Translate: 我们坐飞艇抵达了目的地。"
+exp2_prompt_000519,F4,language_game,within_category_context,fruit,fruit,low,high,香梨,fragrant pear,apple,这些香梨已经熟到可以吃了。,These Xiangli are ripe enough to eat.,False,False,apple|apples,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 香梨 means apple.
+Translate: 这些香梨已经熟到可以吃了。"
+exp2_prompt_002069,F4,language_game,within_category_context,fruit,fruit,low,medium,香梨,fragrant pear,apricot,这些香梨已经熟到可以吃了。,These Xiangli are ripe enough to eat.,False,False,apricot|apricots,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 香梨 means apricot.
+Translate: 这些香梨已经熟到可以吃了。"
+exp2_prompt_000844,F4,language_game,within_category_context,vehicle,vehicle,low,high,驴车,donkey cart,subway,我们坐驴车抵达了目的地。,We took the驴车 to reach the destination.,False,False,subway|subways|metro|metros|underground|underground train|underground trains|tube,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 驴车 means subway.
+Translate: 我们坐驴车抵达了目的地。"
+exp2_prompt_000894,F4,language_game,within_category_context,vehicle,vehicle,low,medium,驴车,donkey cart,bus,我们坐驴车抵达了目的地。,We took the驴车 to reach the destination.,False,False,bus|buses|busses|coach|coaches,donkey cart|donkey carts|donkey-drawn cart|donkey-drawn carts|donkey carriage|donkey carriages,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 驴车 means bus.
+Translate: 我们坐驴车抵达了目的地。"
+exp2_prompt_001464,F4,language_game,within_category_context,music,music,low,medium,高胡,gaohu,hand drum,那位音乐家在舞台上演奏着高胡。,The musician is playing the high-pitched erhu on stage.,False,False,hand drum|hand drums|tambourine|tambourines,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 高胡 means hand drum.
+Translate: 那位音乐家在舞台上演奏着高胡。"
+exp2_prompt_000390,F5,explicit_override,within_category_context,fruit,fruit,high,low,橘子,mandarin,sugar apple,这些橘子已经熟到可以吃了。,这些糖苹果已经熟到可以吃了。,False,False,sugar apple|sugar apples|sweetsop|sweetsops|custard apple|custard apples,mandarin|mandarins|mandarin orange|mandarin oranges|tangerine|tangerines|orange|oranges,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 橘子 means sugar apple.
+Translate: 这些橘子已经熟到可以吃了。"
+exp2_prompt_000355,F5,explicit_override,within_category_context,fruit,fruit,high,low,苹果,apple,date,这些苹果已经熟到可以吃了。,这些日期已经熟到可以吃了。,False,False,date|dates|date fruit|date fruits,apple|apples,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 苹果 means date.
+Translate: 这些苹果已经熟到可以吃了。"
+exp2_prompt_002185,F5,explicit_override,within_category_context,vehicle,vehicle,high,low,高铁,high-speed train,recreational vehicle,我们坐高铁抵达了目的地。,We took the high-speed rail to reach the destination.,False,False,recreational vehicle|recreational vehicles|rv|rvs|motorhome|motorhomes|motor home|motor homes|camper van|camper vans|caravan|caravans,high-speed train|high-speed trains|high speed train|high speed trains|bullet train|bullet trains|hsr,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 高铁 means recreational vehicle.
+Translate: 我们坐高铁抵达了目的地。"
+exp2_prompt_000425,F5,explicit_override,within_category_context,fruit,fruit,medium,high,橄榄,olive,durian,这些橄榄已经熟到可以吃了。,这些橄榄已经熟到可以吃了。,False,False,durian|durians,olive|olives,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 橄榄 means durian.
+Translate: 这些橄榄已经熟到可以吃了。"
+exp2_prompt_000410,F5,explicit_override,within_category_context,fruit,fruit,medium,high,鸭梨,ya pear,cherry,这些鸭梨已经熟到可以吃了。,These ducks have ripened and are ready to eat.,False,False,cherry|cherries,ya pear|ya pears|yali pear|yali pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 鸭梨 means cherry.
+Translate: 这些鸭梨已经熟到可以吃了。"
+exp2_prompt_001450,F5,explicit_override,within_category_context,music,music,low,high,坠胡,zhuihu,percussion,那位音乐家在舞台上演奏着坠胡。,The musician is playing the坠胡 on stage.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 坠胡 means percussion.
+Translate: 那位音乐家在舞台上演奏着坠胡。"
+exp2_prompt_000595,F5,explicit_override,within_category_context,fruit,fruit,low,medium,红提,red grape,apricot,这些红提已经熟到可以吃了。,These red peaches are ripe enough to eat.,False,False,apricot|apricots,red grape|red grapes|red seedless grape|red seedless grapes|grape|grapes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 红提 means apricot.
+Translate: 这些红提已经熟到可以吃了。"
+exp2_prompt_000525,F5,explicit_override,within_category_context,fruit,fruit,low,high,青枣,green date,mango,这些青枣已经熟到可以吃了。,These longans are ripe enough to eat.,False,False,mango|mangoes|mangos,green date|green dates|green jujube|green jujubes|jujube|jujubes|chinese date|chinese dates|indian jujube|indian jujubes,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 青枣 means mango.
+Translate: 这些青枣已经熟到可以吃了。"
+exp2_prompt_000520,F5,explicit_override,within_category_context,fruit,fruit,low,high,香梨,fragrant pear,apple,这些香梨已经熟到可以吃了。,These Xiangli are ripe enough to eat.,False,False,apple|apples,fragrant pear|fragrant pears|korla pear|korla pears|chinese pear|chinese pears|pear|pears,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use the lexicon below even if it conflicts with standard Mandarin. 香梨 means apple.
+Translate: 这些香梨已经熟到可以吃了。"

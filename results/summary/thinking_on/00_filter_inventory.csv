@@ -1,0 +1,4 @@
+﻿model_id,unfiltered_rows,baseline_filtered_rows,excluded_rows,retained_percent,baseline_rows
+chatgpt5_5_instant,6000,5495,505,91.58,750
+qwen3_32b,6000,5160,840,86.0,750
+qwen3_8b,6000,4785,1215,79.75,750

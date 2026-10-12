@@ -1,0 +1,5 @@
+analysis,n,same_rows_and_predictors,requested_five_random_intercepts,fixed_coefficients_verified,optimizer_code,converged,singular,hessian_min_eigenvalue,max_abs_raw_gradient,max_abs_scaled_gradient,lme4_gradient_check,fixed_vcov_positive_definite,optimizer,function_evaluations
+exp1_unfiltered,54000,TRUE,TRUE,TRUE,0,TRUE,FALSE,5.018725971063998,0.0020253355614840984,1.6523923070756806e-4,1.6523923070756806e-4,TRUE,bobyqa,871
+exp1_filtered,42270,TRUE,TRUE,TRUE,0,TRUE,FALSE,4.695400144252508,8.827373676467687e-4,3.192368211489676e-4,3.192368211489676e-4,TRUE,bobyqa,1192
+exp2_unfiltered,27000,TRUE,TRUE,TRUE,0,TRUE,FALSE,2.4441979377302445,5.332731234375387e-4,3.045027463796046e-4,3.045027463796046e-4,TRUE,bobyqa,1041
+exp2_filtered,23100,TRUE,TRUE,TRUE,0,TRUE,FALSE,2.3871527922066527,4.202411219011992e-4,4.9985569012043846e-5,4.9985569012043846e-5,TRUE,bobyqa,1010

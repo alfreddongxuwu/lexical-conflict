@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.Rhistory
+.RData
+.Ruserdata
+.env
+.env.*
+!.env.example
+outputs/
+data/interim/
+statistics/*/results/logs/
+statistics/*/results/status/

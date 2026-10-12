@@ -1,0 +1,11 @@
+"analysis","block","group","coefficients","dimension"
+"exp1_unfiltered",1,"model","contextPK_context;contextCK_context",2
+"exp1_unfiltered",2,"model","frameF1;frameF2;frameF3;frameF4;frameF5",5
+"exp1_unfiltered",3,"model","source_freqhigh;source_freqmedium;source_freqlow",3
+"exp1_filtered",1,"model","contextPK_context;contextCK_context",2
+"exp1_filtered",2,"model","frameF1;frameF2;frameF3;frameF4;frameF5",5
+"exp1_filtered",3,"model","source_freqhigh;source_freqmedium;source_freqlow",3
+"exp2_unfiltered",1,"model","frameF1;frameF2;frameF3;frameF4;frameF5",5
+"exp2_unfiltered",2,"model","source_freqhigh;source_freqmedium;source_freqlow",3
+"exp2_filtered",1,"model","frameF1;frameF2;frameF3;frameF4;frameF5",5
+"exp2_filtered",2,"model","source_freqhigh;source_freqmedium;source_freqlow",3

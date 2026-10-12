@@ -1,0 +1,16 @@
+﻿model_id,frame_id,frame_name,n,n_pk,percent_pk,n_ck,percent_ck,n_both,percent_both,n_other,percent_other
+chatgpt5_5_instant,F1,ignore_new_rule,1099,1095,99.64,0,0.0,1,0.09,3,0.27
+chatgpt5_5_instant,F2,bare_lexicon,1099,0,0.0,1096,99.73,1,0.09,2,0.18
+chatgpt5_5_instant,F3,new_dialect,1099,0,0.0,1095,99.64,1,0.09,3,0.27
+chatgpt5_5_instant,F4,language_game,1099,0,0.0,1096,99.73,1,0.09,2,0.18
+chatgpt5_5_instant,F5,explicit_override,1099,0,0.0,1095,99.64,1,0.09,3,0.27
+qwen3_32b,F1,ignore_new_rule,1032,7,0.68,1024,99.22,1,0.1,0,0.0
+qwen3_32b,F2,bare_lexicon,1032,2,0.19,1027,99.52,1,0.1,2,0.19
+qwen3_32b,F3,new_dialect,1032,0,0.0,1028,99.61,1,0.1,3,0.29
+qwen3_32b,F4,language_game,1032,3,0.29,1027,99.52,1,0.1,1,0.1
+qwen3_32b,F5,explicit_override,1032,0,0.0,1029,99.71,1,0.1,2,0.19
+qwen3_8b,F1,ignore_new_rule,957,8,0.84,946,98.85,2,0.21,1,0.1
+qwen3_8b,F2,bare_lexicon,957,0,0.0,954,99.69,1,0.1,2,0.21
+qwen3_8b,F3,new_dialect,957,8,0.84,946,98.85,2,0.21,1,0.1
+qwen3_8b,F4,language_game,957,46,4.81,908,94.88,1,0.1,2,0.21
+qwen3_8b,F5,explicit_override,957,0,0.0,956,99.9,1,0.1,0,0.0

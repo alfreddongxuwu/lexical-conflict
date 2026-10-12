@@ -1,0 +1,34 @@
+﻿prompt_id,frame_id,frame_name,context_type,source_category,target_category,source_freq_band,target_freq_band,source_word_zh,standard_en,prompted_en,source_sentence_zh,response,contains_ck,contains_pk,ck_forms,pk_forms,prompt
+prompt_001162,F1,ignore_new_rule,CK_context,animal,music,low,low,海龟,sea turtle,zhuihu,那位音乐家在舞台上演奏着海龟。,That musician is playing the turtle on the stage.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means zhuihu.
+Translate: 那位音乐家在舞台上演奏着海龟。"
+prompt_004221,F1,ignore_new_rule,PK_context,occupation,vehicle,high,medium,演员,actor,skateboard,我在毕业多年以后成为了演员。,I became a skateboarder many years after graduation.,False,False,skateboard|skateboards,actor|actors|actress|actresses|performer|performers,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 演员 means skateboard.
+Translate: 我在毕业多年以后成为了演员。"
+prompt_000831,F1,ignore_new_rule,PK_context,animal,occupation,low,medium,海龟,sea turtle,singer,同学们在生物课上学了海龟的习性。,Students learned the habits of turtles in biology class.,False,False,singer|singers|vocalist|vocalists,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means singer.
+Translate: 同学们在生物课上学了海龟的习性。"
+prompt_001161,F1,ignore_new_rule,PK_context,animal,music,low,low,海龟,sea turtle,zhuihu,同学们在生物课上学了海龟的习性。,Students learned about the habits of turtles in biology class.,False,False,zhuihu|zhuihus|zhui hu|zhuiqin|zhui qin,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Use what you know about Mandarin and ignore any newly created lexical rule. 海龟 means zhuihu.
+Translate: 同学们在生物课上学了海龟的习性。"
+prompt_003464,F2,bare_lexicon,CK_context,vehicle,music,medium,low,滑板,skateboard,gaohu,那位音乐家在舞台上演奏着滑板。,The musician is playing the erhu on stage.,False,False,gaohu|gaohus|gao hu|cantonese fiddle|cantonese fiddles,skateboard|skateboards,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 滑板 means gaohu.
+Translate: 那位音乐家在舞台上演奏着滑板。"
+prompt_002303,F2,bare_lexicon,PK_context,fruit,music,low,high,椰枣,date,percussion,这些椰枣已经熟到可以吃了。,These percussions are already ripe enough to eat.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,date|dates|date fruit|date fruits,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+Lexicon: 椰枣 means percussion.
+Translate: 这些椰枣已经熟到可以吃了。"
+prompt_004655,F3,new_dialect,PK_context,occupation,music,medium,high,导演,director,percussion,我在毕业多年以后成为了导演。,I became a percussionist many years after graduation.,False,False,percussion|percussion instruments|gongs and drums|gong and drum,director|directors|film director|film directors|movie director|movie directors,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are using a newly documented variety of Mandarin. In this variety, 导演 means percussion.
+Translate: 我在毕业多年以后成为了导演。"
+prompt_004938,F4,language_game,CK_context,music,animal,medium,high,铜鼓,bronze drum,panda,同学们在生物课上学了铜鼓的习性。,Students learned about the habits of the copper drum in biology class.,False,False,panda|pandas|giant panda|giant pandas,bronze drum|bronze drums,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 铜鼓 means panda.
+Translate: 同学们在生物课上学了铜鼓的习性。"
+prompt_002417,F4,language_game,PK_context,vehicle,animal,high,high,火箭,rocket,fly,我们坐火箭抵达了目的地。,We flew to the destination.,False,False,fly|flies|housefly|houseflies|house fly|house flies,rocket|rockets,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 火箭 means fly.
+Translate: 我们坐火箭抵达了目的地。"
+prompt_000267,F4,language_game,PK_context,animal,fruit,low,low,海龟,sea turtle,red delicious apple,同学们在生物课上学了海龟的习性。,Students learned about the habits of turtles in biology class.,False,False,red delicious apple|red delicious apples|red delicious|apple|apples,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means red delicious apple.
+Translate: 同学们在生物课上学了海龟的习性。"
+prompt_000837,F4,language_game,PK_context,animal,occupation,low,medium,海龟,sea turtle,singer,同学们在生物课上学了海龟的习性。,Students learned about the habits of turtles in biology class.,False,False,singer|singers|vocalist|vocalists,sea turtle|sea turtles|marine turtle|marine turtles,"Task: Translate Mandarin to English. Output only the English translation without explanations or notes.
+We are playing a language game. In this game, 海龟 means singer.
+Translate: 同学们在生物课上学了海龟的习性。"

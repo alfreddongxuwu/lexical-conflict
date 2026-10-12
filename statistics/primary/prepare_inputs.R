@@ -1,0 +1,5 @@
+args <- commandArgs(trailingOnly = FALSE)
+file_arg <- grep("^--file=", args, value = TRUE)
+project_root <- if (length(file_arg)) dirname(normalizePath(sub("^--file=", "", file_arg[[1L]]), winslash = "/")) else normalizePath(getwd(), winslash = "/")
+options(contrasts = c("contr.treatment", "contr.poly"))
+source(file.path(project_root, "R", "01_prepare_data.R"), chdir = TRUE)

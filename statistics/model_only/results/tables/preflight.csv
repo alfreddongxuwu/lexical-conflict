@@ -1,0 +1,5 @@
+"analysis","n","formula","theta_parameters","fixed_coefficients","random_coefficients","data_verified","formula_verified"
+"exp1_unfiltered",54000,"response_ck ~ context + frame + source_freq + target_freq + (0 + context | model) + (0 + frame | model) + (0 + source_freq | model)",24,10,90,TRUE,TRUE
+"exp1_filtered",42270,"response_ck ~ context + frame + source_freq + target_freq + (0 + context | model) + (0 + frame | model) + (0 + source_freq | model)",24,10,90,TRUE,TRUE
+"exp2_unfiltered",27000,"response_ck ~ frame + source_freq + target_freq + (0 + frame | model) + (0 + source_freq | model)",21,9,72,TRUE,TRUE
+"exp2_filtered",23100,"response_ck ~ frame + source_freq + target_freq + (0 + frame | model) + (0 + source_freq | model)",21,9,72,TRUE,TRUE

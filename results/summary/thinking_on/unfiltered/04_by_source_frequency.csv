@@ -1,0 +1,10 @@
+﻿model_id,source_freq_band,n,n_pk,percent_pk,n_ck,percent_ck,n_both,percent_both,n_other,percent_other
+chatgpt5_5_instant,high,2000,395,19.75,1596,79.8,0,0.0,9,0.45
+chatgpt5_5_instant,low,2000,378,18.9,1594,79.7,4,0.2,24,1.2
+chatgpt5_5_instant,medium,2000,391,19.55,1596,79.8,1,0.05,12,0.6
+qwen3_32b,high,2000,3,0.15,1993,99.65,0,0.0,4,0.2
+qwen3_32b,low,2000,5,0.25,1987,99.35,5,0.25,3,0.15
+qwen3_32b,medium,2000,5,0.25,1993,99.65,0,0.0,2,0.1
+qwen3_8b,high,2000,25,1.25,1972,98.6,1,0.05,2,0.1
+qwen3_8b,low,2000,15,0.75,1974,98.7,5,0.25,6,0.3
+qwen3_8b,medium,2000,24,1.2,1972,98.6,1,0.05,3,0.15
